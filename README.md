@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/JonathanLu2005/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/JonathanLu2005/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/JonathanLu2005/LeetCode/tree/master/0022-generate-parentheses) |
+| [0091-decode-ways](https://github.com/JonathanLu2005/LeetCode/tree/master/0091-decode-ways) |
 ## Sliding Window
 |  |
 | ------- |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/JonathanLu2005/LeetCode/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/JonathanLu2005/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/JonathanLu2005/LeetCode/tree/master/0070-climbing-stairs) |
+| [0091-decode-ways](https://github.com/JonathanLu2005/LeetCode/tree/master/0091-decode-ways) |
 ## Greedy
 |  |
 | ------- |
