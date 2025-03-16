@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/JonathanLu2005/LeetCode/tree/master/0001-two-sum) |
 | [1722-throne-inheritance](https://github.com/JonathanLu2005/LeetCode/tree/master/1722-throne-inheritance) |
 ## Tree
 |  |
@@ -19,4 +20,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1722-throne-inheritance](https://github.com/JonathanLu2005/LeetCode/tree/master/1722-throne-inheritance) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/JonathanLu2005/LeetCode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
