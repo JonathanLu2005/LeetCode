@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/JonathanLu2005/LeetCode/tree/master/0047-permutations-ii) |
 | [0074-search-a-2d-matrix](https://github.com/JonathanLu2005/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/JonathanLu2005/LeetCode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/JonathanLu2005/LeetCode/tree/master/0078-subsets) |
 ## Linked List
 |  |
 | ------- |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/JonathanLu2005/LeetCode/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/JonathanLu2005/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/JonathanLu2005/LeetCode/tree/master/0047-permutations-ii) |
+| [0078-subsets](https://github.com/JonathanLu2005/LeetCode/tree/master/0078-subsets) |
 ## Combinatorics
 |  |
 | ------- |
@@ -116,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/JonathanLu2005/LeetCode/tree/master/0074-search-a-2d-matrix) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/JonathanLu2005/LeetCode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
