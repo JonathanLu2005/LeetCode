@@ -9,8 +9,10 @@ class Solution:
         # with odd number e.g 5, she can do 5, and bob lose
         # so alice only lose if there's legit no vowels to begin with (?)
 
-        vowelCount = s.count("a") + s.count("e") + s.count("i") + s.count("o") + s.count("u")
+        return (s.count("a") + s.count("e") + s.count("i") + s.count("o") + s.count("u") != 0)
 
-        if vowelCount == 0:
-            return False
-        return True
+        #vowelCount = s.count("a") + s.count("e") + s.count("i") + s.count("o") + s.count("u")
+
+        #if vowelCount == 0:
+        #    return False
+        #return True
