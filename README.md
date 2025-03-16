@@ -13,10 +13,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/JonathanLu2005/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [1722-throne-inheritance](https://github.com/JonathanLu2005/LeetCode/tree/master/1722-throne-inheritance) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/JonathanLu2005/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [1722-throne-inheritance](https://github.com/JonathanLu2005/LeetCode/tree/master/1722-throne-inheritance) |
 ## Design
 |  |
@@ -131,4 +133,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/JonathanLu2005/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/JonathanLu2005/LeetCode/tree/master/0090-subsets-ii) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/JonathanLu2005/LeetCode/tree/master/0098-validate-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/JonathanLu2005/LeetCode/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
