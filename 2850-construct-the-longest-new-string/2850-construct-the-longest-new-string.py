@@ -15,16 +15,24 @@ class Solution:
         # ah so we can only do x amount of AA BB
         # then we can fit 1 more BB or AA in (far left and far right)
         # and rest are just AB AB!
+        
 
-        number = min(x,y) * 2
-        x -= number // 2
-        y -= number // 2
+        #number = min(x,y) * 2
+        #x -= number // 2
+        #y -= number // 2
         # this forms our basis of AA BB AA BB
         # then we simply apply all Z amoun of AB
-        number += z
+        #number += z
 
         # then we can only fit in 1 more of x or y
-        if x != 0 or y != 0:
-            number += 1
+        #if x != 0 or y != 0:
+        #    number += 1
 
+        #return number * 2
+
+        # refactoring code to be nice
+        number = min(x,y) * 2
+        if (x+y) > number:
+            number += 1
+        number += z
         return number * 2
