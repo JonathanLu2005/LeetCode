@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/JonathanLu2005/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0046-permutations](https://github.com/JonathanLu2005/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/JonathanLu2005/LeetCode/tree/master/0047-permutations-ii) |
+| [0074-search-a-2d-matrix](https://github.com/JonathanLu2005/LeetCode/tree/master/0074-search-a-2d-matrix) |
 ## Linked List
 |  |
 | ------- |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/JonathanLu2005/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/JonathanLu2005/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/JonathanLu2005/LeetCode/tree/master/0074-search-a-2d-matrix) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -107,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/JonathanLu2005/LeetCode/tree/master/0070-climbing-stairs) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/JonathanLu2005/LeetCode/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
