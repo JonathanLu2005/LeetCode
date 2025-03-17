@@ -10,18 +10,18 @@ class Solution:
 
         rows = len(grid)
         columns = len(grid[0])
+        directions = [[1,0], [-1,0], [0,1], [0,-1]]
 
         visited = set()
         result = 0
 
         def bfs(row, column):
-            queue = [(row, column)]
+            queue = deque([(row, column)])
             visited.add((row,column))
             count = 0
 
             while queue:
-                r, c = queue.pop(0)
-                directions = [[1,0], [-1,0], [0,1], [0,-1]]
+                r, c = queue.popleft()
                 count += grid[r][c]
 
                 for dir in directions:
