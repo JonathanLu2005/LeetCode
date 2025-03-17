@@ -28,13 +28,13 @@ class Solution:
                 leftChild = node.left
                 rightChild = node.right
 
-                value = []
+                value = set()
                 if leftChild:
-                    value.append(leftChild.val)
+                    value.add(leftChild.val)
                 if rightChild:
-                    value.append(rightChild.val)
+                    value.add(rightChild.val)
                 if parent:
-                    value.append(parent.val)
+                    value.add(parent.val)
                 hashmap[node.val] = value
 
                 stack.append([leftChild, node])
@@ -53,8 +53,7 @@ class Solution:
                 visited.add(node)
 
                 if node in hashmap:
-                    newQueue.extend(list(set(hashmap[node]) - visited))
+                    newQueue.extend(hashmap[node] - visited)
             queue = newQueue
-            #print(queue)
             time += 1
         return time
