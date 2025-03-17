@@ -15,6 +15,11 @@ class Solution:
         # pop when its no longer within bounds
         # pop right most to keep it in decreasing monotonic
 
+        # r pointer to keep adding values
+        # but key is having a monotonic decreasing queue to hold max
+        # then if we meet widnow size, and q 0 index is smalelr than l
+        # means we've an element outside of bound so remove
+
         output = []
         l = r = 0
 
