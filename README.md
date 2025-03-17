@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/JonathanLu2005/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/JonathanLu2005/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [1722-throne-inheritance](https://github.com/JonathanLu2005/LeetCode/tree/master/1722-throne-inheritance) |
+| [3797-design-spreadsheet](https://github.com/JonathanLu2005/LeetCode/tree/master/3797-design-spreadsheet) |
 ## Tree
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1722-throne-inheritance](https://github.com/JonathanLu2005/LeetCode/tree/master/1722-throne-inheritance) |
+| [3797-design-spreadsheet](https://github.com/JonathanLu2005/LeetCode/tree/master/3797-design-spreadsheet) |
 ## Array
 |  |
 | ------- |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/JonathanLu2005/LeetCode/tree/master/0090-subsets-ii) |
 | [0239-sliding-window-maximum](https://github.com/JonathanLu2005/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [1002-maximum-width-ramp](https://github.com/JonathanLu2005/LeetCode/tree/master/1002-maximum-width-ramp) |
+| [3797-design-spreadsheet](https://github.com/JonathanLu2005/LeetCode/tree/master/3797-design-spreadsheet) |
 ## Linked List
 |  |
 | ------- |
@@ -78,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/JonathanLu2005/LeetCode/tree/master/0091-decode-ways) |
 | [0858-masking-personal-information](https://github.com/JonathanLu2005/LeetCode/tree/master/0858-masking-personal-information) |
 | [3462-vowels-game-in-a-string](https://github.com/JonathanLu2005/LeetCode/tree/master/3462-vowels-game-in-a-string) |
+| [3797-design-spreadsheet](https://github.com/JonathanLu2005/LeetCode/tree/master/3797-design-spreadsheet) |
 ## Sliding Window
 |  |
 | ------- |
@@ -146,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/JonathanLu2005/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [3797-design-spreadsheet](https://github.com/JonathanLu2005/LeetCode/tree/master/3797-design-spreadsheet) |
 ## Bit Manipulation
 |  |
 | ------- |
