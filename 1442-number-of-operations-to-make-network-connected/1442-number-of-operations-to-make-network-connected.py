@@ -45,8 +45,11 @@ class Solution:
             else:
                 wiresUsed += 1
 
+        #f have enough wires as need n-1 then good
         if wiresUsed + wiresExtra >= n-1:
+            # so min is just num extra wire needed
             return (n-1-wiresUsed)
+        # else -1
         return -1
 
         #print(wiresExtra)
