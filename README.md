@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/JonathanLu2005/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1635-number-of-good-pairs](https://github.com/JonathanLu2005/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1722-throne-inheritance](https://github.com/JonathanLu2005/LeetCode/tree/master/1722-throne-inheritance) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/JonathanLu2005/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2455-node-with-highest-edge-score](https://github.com/JonathanLu2005/LeetCode/tree/master/2455-node-with-highest-edge-score) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/JonathanLu2005/LeetCode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/JonathanLu2005/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-maximum-width-ramp](https://github.com/JonathanLu2005/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1138-grumpy-bookstore-owner](https://github.com/JonathanLu2005/LeetCode/tree/master/1138-grumpy-bookstore-owner) |
 | [1635-number-of-good-pairs](https://github.com/JonathanLu2005/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/JonathanLu2005/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2058-concatenation-of-array](https://github.com/JonathanLu2005/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/JonathanLu2005/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/JonathanLu2005/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/JonathanLu2005/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0858-masking-personal-information](https://github.com/JonathanLu2005/LeetCode/tree/master/0858-masking-personal-information) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/JonathanLu2005/LeetCode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/JonathanLu2005/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/JonathanLu2005/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3379-score-of-a-string](https://github.com/JonathanLu2005/LeetCode/tree/master/3379-score-of-a-string) |
 | [3462-vowels-game-in-a-string](https://github.com/JonathanLu2005/LeetCode/tree/master/3462-vowels-game-in-a-string) |
@@ -215,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/JonathanLu2005/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/JonathanLu2005/LeetCode/tree/master/0090-subsets-ii) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/JonathanLu2005/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -300,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1635-number-of-good-pairs](https://github.com/JonathanLu2005/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/JonathanLu2005/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Trie
 |  |
 | ------- |
