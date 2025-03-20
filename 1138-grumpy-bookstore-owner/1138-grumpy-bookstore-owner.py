@@ -13,26 +13,25 @@ class Solution:
         if minutes == len(customers):
             return sum(customers)
         
-        window = []
+        window = 0
         alreadyHappy = 0
 
         for i in range(0, minutes):
             if grumpy[i] == 1:
-                window.append(customers[i])
+                window += customers[i]
             else:
-                window.append(0)
                 alreadyHappy += customers[i]
 
-        maxResult = sum(window)
+        maxResult = window
 
         for i in range(minutes, len(customers)):
-            window.pop(0)
+            if grumpy[i-minutes] == 1:
+                window -= customers[i-minutes]
 
             if grumpy[i] == 1:
-                window.append(customers[i])
-                maxResult = max(maxResult, sum(window))
+                window += customers[i]
+                maxResult = max(maxResult, window)
             else:
-                window.append(0)
                 alreadyHappy += customers[i]
 
         return alreadyHappy + maxResult
