@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/JonathanLu2005/LeetCode/tree/master/0139-word-break) |
 | [0239-sliding-window-maximum](https://github.com/JonathanLu2005/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [1002-maximum-width-ramp](https://github.com/JonathanLu2005/LeetCode/tree/master/1002-maximum-width-ramp) |
+| [1138-grumpy-bookstore-owner](https://github.com/JonathanLu2005/LeetCode/tree/master/1138-grumpy-bookstore-owner) |
 | [1635-number-of-good-pairs](https://github.com/JonathanLu2005/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2058-concatenation-of-array](https://github.com/JonathanLu2005/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/JonathanLu2005/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/JonathanLu2005/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/JonathanLu2005/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [1138-grumpy-bookstore-owner](https://github.com/JonathanLu2005/LeetCode/tree/master/1138-grumpy-bookstore-owner) |
 ## Binary Search
 |  |
 | ------- |
