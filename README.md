@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/JonathanLu2005/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0133-clone-graph](https://github.com/JonathanLu2005/LeetCode/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/JonathanLu2005/LeetCode/tree/master/0139-word-break) |
+| [0229-majority-element-ii](https://github.com/JonathanLu2005/LeetCode/tree/master/0229-majority-element-ii) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/JonathanLu2005/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1635-number-of-good-pairs](https://github.com/JonathanLu2005/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1722-throne-inheritance](https://github.com/JonathanLu2005/LeetCode/tree/master/1722-throne-inheritance) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/JonathanLu2005/LeetCode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JonathanLu2005/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/JonathanLu2005/LeetCode/tree/master/0139-word-break) |
+| [0229-majority-element-ii](https://github.com/JonathanLu2005/LeetCode/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/JonathanLu2005/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [1002-maximum-width-ramp](https://github.com/JonathanLu2005/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1138-grumpy-bookstore-owner](https://github.com/JonathanLu2005/LeetCode/tree/master/1138-grumpy-bookstore-owner) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/JonathanLu2005/LeetCode/tree/master/0015-3sum) |
 | [0047-permutations-ii](https://github.com/JonathanLu2005/LeetCode/tree/master/0047-permutations-ii) |
 | [0075-sort-colors](https://github.com/JonathanLu2005/LeetCode/tree/master/0075-sort-colors) |
+| [0229-majority-element-ii](https://github.com/JonathanLu2005/LeetCode/tree/master/0229-majority-element-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -303,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/JonathanLu2005/LeetCode/tree/master/0229-majority-element-ii) |
 | [1635-number-of-good-pairs](https://github.com/JonathanLu2005/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/JonathanLu2005/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Trie
