@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1401-number-of-burgers-with-no-waste-of-ingredients](https://github.com/JonathanLu2005/LeetCode/tree/master/1401-number-of-burgers-with-no-waste-of-ingredients) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/JonathanLu2005/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1635-number-of-good-pairs](https://github.com/JonathanLu2005/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/JonathanLu2005/LeetCode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [2383-add-two-integers](https://github.com/JonathanLu2005/LeetCode/tree/master/2383-add-two-integers) |
 | [2556-convert-the-temperature](https://github.com/JonathanLu2005/LeetCode/tree/master/2556-convert-the-temperature) |
 | [2850-construct-the-longest-new-string](https://github.com/JonathanLu2005/LeetCode/tree/master/2850-construct-the-longest-new-string) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0858-masking-personal-information](https://github.com/JonathanLu2005/LeetCode/tree/master/0858-masking-personal-information) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/JonathanLu2005/LeetCode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1562-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list](https://github.com/JonathanLu2005/LeetCode/tree/master/1562-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/JonathanLu2005/LeetCode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/JonathanLu2005/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/JonathanLu2005/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3379-score-of-a-string](https://github.com/JonathanLu2005/LeetCode/tree/master/3379-score-of-a-string) |
