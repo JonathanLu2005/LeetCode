@@ -7,16 +7,13 @@ class Solution:
 
         for i in range(0, len(favoriteCompanies)):
             current = favoriteCompanies[i]
-            count = 0
+
+            add = True
 
             for j in range(0, len(favoriteCompanies)):
                 if i != j:
-                    compare = favoriteCompanies[j]
-
-                    if current - compare != set():
-                        count += 1
-                    else:
-                        break
-            if count == len(favoriteCompanies) - 1:
+                    if current.issubset(favoriteCompanies[j]):
+                        add = False
+            if add:
                 result.append(i)
         return result
