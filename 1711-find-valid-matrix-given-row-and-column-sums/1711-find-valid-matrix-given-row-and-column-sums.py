@@ -29,5 +29,5 @@ class Solution:
                         rowSum[j] -= number
                         break
         
-        rotated = [list(row) for row in zip(*columns)]
-        return rotated
+        columns = [list(row) for row in zip(*columns)]
+        return columns
