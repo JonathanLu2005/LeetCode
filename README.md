@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1396-count-servers-that-communicate](https://github.com/JonathanLu2005/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1562-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list](https://github.com/JonathanLu2005/LeetCode/tree/master/1562-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list) |
 | [1635-number-of-good-pairs](https://github.com/JonathanLu2005/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/JonathanLu2005/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/JonathanLu2005/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2058-concatenation-of-array](https://github.com/JonathanLu2005/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/JonathanLu2005/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/JonathanLu2005/LeetCode/tree/master/0011-container-with-most-water) |
 | [1379-reconstruct-a-2-row-binary-matrix](https://github.com/JonathanLu2005/LeetCode/tree/master/1379-reconstruct-a-2-row-binary-matrix) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/JonathanLu2005/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/JonathanLu2005/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/JonathanLu2005/LeetCode/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2850-construct-the-longest-new-string](https://github.com/JonathanLu2005/LeetCode/tree/master/2850-construct-the-longest-new-string) |
 ## Sorting
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/JonathanLu2005/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [1379-reconstruct-a-2-row-binary-matrix](https://github.com/JonathanLu2005/LeetCode/tree/master/1379-reconstruct-a-2-row-binary-matrix) |
 | [1396-count-servers-that-communicate](https://github.com/JonathanLu2005/LeetCode/tree/master/1396-count-servers-that-communicate) |
+| [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/JonathanLu2005/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/JonathanLu2005/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3797-design-spreadsheet](https://github.com/JonathanLu2005/LeetCode/tree/master/3797-design-spreadsheet) |
 ## Bit Manipulation
