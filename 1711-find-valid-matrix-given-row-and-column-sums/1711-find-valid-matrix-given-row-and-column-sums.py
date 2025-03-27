@@ -16,7 +16,6 @@ class Solution:
 
         # go through colsum and figure out what it needs
         columns = [[0 for x in range(0, len(rowSum))] for x in range(0, len(colSum))]
-        print(columns)
         for i in range(0, len(colSum)):
             number = colSum[i]
             for j in range(0, len(rowSum)):
