@@ -13,8 +13,7 @@ class Solution:
         time = time[::-1]
 
         for x in time:
-            if 60 - x in hashmap:
-                result += hashmap[60-x]
+            result += hashmap.get(60-x,0)
             if x == 0:
                 result += hashmap.get(x,0)
             hashmap[x] = hashmap.get(x,0) + 1
