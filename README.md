@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1396-count-servers-that-communicate](https://github.com/JonathanLu2005/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/JonathanLu2005/LeetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1722-throne-inheritance](https://github.com/JonathanLu2005/LeetCode/tree/master/1722-throne-inheritance) |
+| [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/JonathanLu2005/LeetCode/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/JonathanLu2005/LeetCode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/JonathanLu2005/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Design
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/JonathanLu2005/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/JonathanLu2005/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/JonathanLu2005/LeetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/JonathanLu2005/LeetCode/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/JonathanLu2005/LeetCode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/JonathanLu2005/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Queue
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/JonathanLu2005/LeetCode/tree/master/0684-redundant-connection) |
 | [1396-count-servers-that-communicate](https://github.com/JonathanLu2005/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/JonathanLu2005/LeetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/JonathanLu2005/LeetCode/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/JonathanLu2005/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Graph
 |  |
@@ -343,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/JonathanLu2005/LeetCode/tree/master/0133-clone-graph) |
 | [0684-redundant-connection](https://github.com/JonathanLu2005/LeetCode/tree/master/0684-redundant-connection) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/JonathanLu2005/LeetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/JonathanLu2005/LeetCode/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2455-node-with-highest-edge-score](https://github.com/JonathanLu2005/LeetCode/tree/master/2455-node-with-highest-edge-score) |
 ## Simulation
 |  |
