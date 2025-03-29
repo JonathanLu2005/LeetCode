@@ -8,14 +8,12 @@ class Solution:
             if prime[i]:
                 for multiple in range(i*i, n+1, i):
                     prime[multiple] = False
-        hashmap = {num: num for num in range(n+1) if prime[num]}
+        #hashmap = {num: num for num in range(n+1) if prime[num]}
 
 
         result = []
 
-        #for x in range(2, n // 2 + 1):
-        #    if n-x in hashmap and x in hashmap:
-        #        result.append([x, n-x])
-        #return result
-
-        return [[x, n - x] for x in range(2, n // 2 + 1) if prime[x] and prime[n - x]]
+        for x in range(2, n // 2 + 1):
+            if prime[n-x] and prime[x]:
+                result.append([x, n-x])
+        return result
