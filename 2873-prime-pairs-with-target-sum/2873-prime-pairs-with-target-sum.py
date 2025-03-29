@@ -13,7 +13,9 @@ class Solution:
 
         result = []
 
-        for x in range(2, int(n/2) + 1):
-            if n-x in hashmap and x in hashmap:
-                result.append([x, n-x])
-        return result
+        #for x in range(2, n // 2 + 1):
+        #    if n-x in hashmap and x in hashmap:
+        #        result.append([x, n-x])
+        #return result
+
+        return [[x, n - x] for x in range(2, n // 2 + 1) if prime[x] and prime[n - x]]
