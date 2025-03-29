@@ -8,8 +8,6 @@ class Solution:
             if prime[i]:
                 for multiple in range(i*i, n+1, i):
                     prime[multiple] = False
-        #hashmap = {num: num for num in range(n+1) if prime[num]}
-
 
         result = []
 
