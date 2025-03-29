@@ -29,19 +29,14 @@ class Solution:
         rounds += (hours * 4)
 
         if loginHour != logoutHour or logoutMinute < loginMinute:
-            print("her1e")
             rounds += (60 - loginMinute) // 15
             rounds += (logoutMinute) // 15
         else:
-            print("here")
             loginRemainder = loginMinute % 15
             if loginRemainder != 0:
                 loginMinute += (15 - loginRemainder)
 
             logoutMinute -= (logoutMinute % 15)
-
-            print(loginMinute)
-            print(logoutMinute)
 
             rounds += max((logoutMinute - loginMinute) // 15,0)
 
