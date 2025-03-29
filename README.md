@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2491-smallest-even-multiple](https://github.com/JonathanLu2005/LeetCode/tree/master/2491-smallest-even-multiple) |
 | [2541-sum-of-number-and-its-reverse](https://github.com/JonathanLu2005/LeetCode/tree/master/2541-sum-of-number-and-its-reverse) |
 | [2556-convert-the-temperature](https://github.com/JonathanLu2005/LeetCode/tree/master/2556-convert-the-temperature) |
+| [2752-sum-multiples](https://github.com/JonathanLu2005/LeetCode/tree/master/2752-sum-multiples) |
 | [2850-construct-the-longest-new-string](https://github.com/JonathanLu2005/LeetCode/tree/master/2850-construct-the-longest-new-string) |
 | [2873-prime-pairs-with-target-sum](https://github.com/JonathanLu2005/LeetCode/tree/master/2873-prime-pairs-with-target-sum) |
 | [3462-vowels-game-in-a-string](https://github.com/JonathanLu2005/LeetCode/tree/master/3462-vowels-game-in-a-string) |
