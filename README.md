@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/JonathanLu2005/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/JonathanLu2005/LeetCode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/JonathanLu2005/LeetCode/tree/master/1885-count-number-of-homogenous-substrings) |
+| [2033-the-number-of-full-rounds-you-have-played](https://github.com/JonathanLu2005/LeetCode/tree/master/2033-the-number-of-full-rounds-you-have-played) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/JonathanLu2005/LeetCode/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2383-add-two-integers](https://github.com/JonathanLu2005/LeetCode/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/JonathanLu2005/LeetCode/tree/master/2491-smallest-even-multiple) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-number-of-substrings-with-only-1s](https://github.com/JonathanLu2005/LeetCode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/JonathanLu2005/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/JonathanLu2005/LeetCode/tree/master/1885-count-number-of-homogenous-substrings) |
+| [2033-the-number-of-full-rounds-you-have-played](https://github.com/JonathanLu2005/LeetCode/tree/master/2033-the-number-of-full-rounds-you-have-played) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/JonathanLu2005/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/JonathanLu2005/LeetCode/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2603-reward-top-k-students](https://github.com/JonathanLu2005/LeetCode/tree/master/2603-reward-top-k-students) |
