@@ -1,5 +1,25 @@
 class Solution:
     def countSquares(self, matrix: List[List[int]]) -> int:
+        # bottom up
+        rows, cols = len(matrix), len(matrix[0])
+        dp = defaultdict(int)
+
+        res = 0
+        for r in range(rows):
+            for c in range(cols):
+                if matrix[r][c]:
+                    dp[(r,c)] = 1 + min(
+                        dp[(r-1,c)],
+                        dp[(r,c-1)],
+                        dp[(r-1,c-1)]
+                    )
+                    res += dp[(r,c)]
+        return res
+
+
+
+        # top down
+        """ 
         rows, cols = len(matrix), len(matrix[0])
         cache = {}
 
@@ -21,3 +41,4 @@ class Solution:
             for c in range(cols):
                 res += dfs(r,c)
         return res
+        """
