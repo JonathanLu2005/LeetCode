@@ -6,14 +6,16 @@ class Solution:
 
         res = 0
         for r in range(rows):
+            cur_dp = defaultdict(int)
             for c in range(cols):
                 if matrix[r][c]:
-                    dp[(r,c)] = 1 + min(
-                        dp[(r-1,c)],
-                        dp[(r,c-1)],
-                        dp[(r-1,c-1)]
+                    cur_dp[c] = 1 + min(
+                        dp[c],
+                        cur_dp[c-1],
+                        dp[c-1]
                     )
-                    res += dp[(r,c)]
+                    res += cur_dp[c]
+            dp = cur_dp
         return res
 
 
