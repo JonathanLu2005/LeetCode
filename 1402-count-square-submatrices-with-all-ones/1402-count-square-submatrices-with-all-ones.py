@@ -1,6 +1,12 @@
 class Solution:
     def countSquares(self, matrix: List[List[int]]) -> int:
         # bottom up
+        # idea is figure out if the indices we're on is a 1
+        # if so can check to its top left, left, and above and get min
+        # e.g if left is 0 means 0 + 1 aka cant have a 2 by 2 square
+        # if min is 1 means we can, if mins 2 meanswe're about to form a 3 by 3 square
+        # for these things need to think about it in a weird different way to visualise whats going on
+        # tehn use the work we've done to avoid repeating work
         rows, cols = len(matrix), len(matrix[0])
         dp = defaultdict(int)
 
