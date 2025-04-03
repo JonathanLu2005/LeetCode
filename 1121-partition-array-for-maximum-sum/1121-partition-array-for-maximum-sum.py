@@ -25,13 +25,18 @@ class Solution:
         print(dp)
         return sum(dp)
         """
-
+        
+        # create dp array
         n = len(arr)
         dp = [0] * (n+1)
 
+        # go through each part of dp
         for i in range(1, n+1):
             maxValue = 0
 
+            # find max value in partition
+            # check different partitions
+            # get max value and add it to the sum
             for j in range(1, min(k,i) + 1):
                 maxValue = max(maxValue, arr[i-j])
                 dp[i] = max(dp[i], dp[i-j] + maxValue * j)
