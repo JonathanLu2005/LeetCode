@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/JonathanLu2005/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0173-binary-search-tree-iterator](https://github.com/JonathanLu2005/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/JonathanLu2005/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [0930-all-possible-full-binary-trees](https://github.com/JonathanLu2005/LeetCode/tree/master/0930-all-possible-full-binary-trees) |
 | [1722-throne-inheritance](https://github.com/JonathanLu2005/LeetCode/tree/master/1722-throne-inheritance) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/JonathanLu2005/LeetCode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Depth-First Search
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/JonathanLu2005/LeetCode/tree/master/0002-add-two-numbers) |
+| [0930-all-possible-full-binary-trees](https://github.com/JonathanLu2005/LeetCode/tree/master/0930-all-possible-full-binary-trees) |
 ## String
 |  |
 | ------- |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/JonathanLu2005/LeetCode/tree/master/0221-maximal-square) |
 | [0413-arithmetic-slices](https://github.com/JonathanLu2005/LeetCode/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/JonathanLu2005/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0930-all-possible-full-binary-trees](https://github.com/JonathanLu2005/LeetCode/tree/master/0930-all-possible-full-binary-trees) |
 | [1121-partition-array-for-maximum-sum](https://github.com/JonathanLu2005/LeetCode/tree/master/1121-partition-array-for-maximum-sum) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/JonathanLu2005/LeetCode/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/JonathanLu2005/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -300,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/JonathanLu2005/LeetCode/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/JonathanLu2005/LeetCode/tree/master/0139-word-break) |
+| [0930-all-possible-full-binary-trees](https://github.com/JonathanLu2005/LeetCode/tree/master/0930-all-possible-full-binary-trees) |
 ## Matrix
 |  |
 | ------- |
@@ -339,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/JonathanLu2005/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0173-binary-search-tree-iterator](https://github.com/JonathanLu2005/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/JonathanLu2005/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [0930-all-possible-full-binary-trees](https://github.com/JonathanLu2005/LeetCode/tree/master/0930-all-possible-full-binary-trees) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/JonathanLu2005/LeetCode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Brainteaser
 |  |
