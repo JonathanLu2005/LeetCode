@@ -32,15 +32,20 @@ class Solution:
             for j in range(i,n):
                 width += books[j][0]
 
+                # shelf exceeds, break
                 if width > shelfWidth:
                     break
 
+                # max height is current height or next book
                 maxHeight = max(maxHeight, books[j][1])
 
+                # find shelf for next book to add to this current shelf
                 totalHeight = maxHeight + dp(j+1)
 
+                # get whats better
                 minTotal = min(minTotal, totalHeight)
 
+            # store for future usage
             cache[i] = minTotal
             return minTotal
 
