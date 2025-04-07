@@ -70,5 +70,9 @@ class Solution:
 
                     result = max(result, squarePower)
 
-
+        
         return result
+
+
+        # idea is that we figure out that for each square we just want see how many it has from left, right, above, below
+        # take min, thats the plus order!
