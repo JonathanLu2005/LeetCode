@@ -267,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/JonathanLu2005/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0769-largest-plus-sign](https://github.com/JonathanLu2005/LeetCode/tree/master/0769-largest-plus-sign) |
 | [0930-all-possible-full-binary-trees](https://github.com/JonathanLu2005/LeetCode/tree/master/0930-all-possible-full-binary-trees) |
+| [0972-knight-dialer](https://github.com/JonathanLu2005/LeetCode/tree/master/0972-knight-dialer) |
 | [1121-partition-array-for-maximum-sum](https://github.com/JonathanLu2005/LeetCode/tree/master/1121-partition-array-for-maximum-sum) |
 | [1196-filling-bookcase-shelves](https://github.com/JonathanLu2005/LeetCode/tree/master/1196-filling-bookcase-shelves) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/JonathanLu2005/LeetCode/tree/master/1388-greatest-sum-divisible-by-three) |
