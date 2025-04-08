@@ -11,6 +11,7 @@
 # same as count product key
 # aka they bought all!
 
+# having is where clause for group by specifically!
 select customer_id
 from customer
 group by customer_id
