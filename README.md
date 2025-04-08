@@ -493,4 +493,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2041-the-latest-login-in-2020](https://github.com/JonathanLu2005/LeetCode/tree/master/2041-the-latest-login-in-2020) |
 | [2110-employees-with-missing-information](https://github.com/JonathanLu2005/LeetCode/tree/master/2110-employees-with-missing-information) |
 | [3803-find-products-with-valid-serial-numbers](https://github.com/JonathanLu2005/LeetCode/tree/master/3803-find-products-with-valid-serial-numbers) |
+| [3816-dna-pattern-recognition](https://github.com/JonathanLu2005/LeetCode/tree/master/3816-dna-pattern-recognition) |
 <!---LeetCode Topics End-->
