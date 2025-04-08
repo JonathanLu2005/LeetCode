@@ -26,9 +26,12 @@
 #group by t.activity_type;
 
 select user_id,
+# calculate iff activity types that
     round(avg(case when activity_type = 'free_trial' then activity_duration end), 2) as trial_avg_duration,
     round(avg(case when activity_type = 'paid' then activity_duration end), 2) as paid_avg_duration
 from useractivity
+# need both
 where activity_type in ('free_trial', 'paid')
 group by user_id
+# need bpth
 having count(distinct activity_type) = 2;
