@@ -494,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0182-duplicate-emails](https://github.com/JonathanLu2005/LeetCode/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/JonathanLu2005/LeetCode/tree/master/0183-customers-who-never-order) |
 | [0184-department-highest-salary](https://github.com/JonathanLu2005/LeetCode/tree/master/0184-department-highest-salary) |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/JonathanLu2005/LeetCode/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0577-employee-bonus](https://github.com/JonathanLu2005/LeetCode/tree/master/0577-employee-bonus) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/JonathanLu2005/LeetCode/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0608-tree-node](https://github.com/JonathanLu2005/LeetCode/tree/master/0608-tree-node) |
