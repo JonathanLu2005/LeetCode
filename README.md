@@ -503,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1135-customers-who-bought-all-products](https://github.com/JonathanLu2005/LeetCode/tree/master/1135-customers-who-bought-all-products) |
 | [1153-product-sales-analysis-i](https://github.com/JonathanLu2005/LeetCode/tree/master/1153-product-sales-analysis-i) |
 | [1327-last-person-to-fit-in-the-bus](https://github.com/JonathanLu2005/LeetCode/tree/master/1327-last-person-to-fit-in-the-bus) |
+| [1480-movie-rating](https://github.com/JonathanLu2005/LeetCode/tree/master/1480-movie-rating) |
 | [1523-capital-gainloss](https://github.com/JonathanLu2005/LeetCode/tree/master/1523-capital-gainloss) |
 | [1670-patients-with-a-condition](https://github.com/JonathanLu2005/LeetCode/tree/master/1670-patients-with-a-condition) |
 | [1734-bank-account-summary-ii](https://github.com/JonathanLu2005/LeetCode/tree/master/1734-bank-account-summary-ii) |
