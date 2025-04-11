@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/JonathanLu2005/LeetCode/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1256-rank-transform-of-an-array](https://github.com/JonathanLu2005/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1319-unique-number-of-occurrences](https://github.com/JonathanLu2005/LeetCode/tree/master/1319-unique-number-of-occurrences) |
+| [1502-construct-k-palindrome-strings](https://github.com/JonathanLu2005/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1547-destination-city](https://github.com/JonathanLu2005/LeetCode/tree/master/1547-destination-city) |
 | [1562-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list](https://github.com/JonathanLu2005/LeetCode/tree/master/1562-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/JonathanLu2005/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0858-masking-personal-information](https://github.com/JonathanLu2005/LeetCode/tree/master/0858-masking-personal-information) |
 | [0878-shifting-letters](https://github.com/JonathanLu2005/LeetCode/tree/master/0878-shifting-letters) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/JonathanLu2005/LeetCode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+| [1502-construct-k-palindrome-strings](https://github.com/JonathanLu2005/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1547-destination-city](https://github.com/JonathanLu2005/LeetCode/tree/master/1547-destination-city) |
 | [1562-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list](https://github.com/JonathanLu2005/LeetCode/tree/master/1562-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/JonathanLu2005/LeetCode/tree/master/1636-number-of-substrings-with-only-1s) |
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/JonathanLu2005/LeetCode/tree/master/0011-container-with-most-water) |
 | [1379-reconstruct-a-2-row-binary-matrix](https://github.com/JonathanLu2005/LeetCode/tree/master/1379-reconstruct-a-2-row-binary-matrix) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/JonathanLu2005/LeetCode/tree/master/1388-greatest-sum-divisible-by-three) |
+| [1502-construct-k-palindrome-strings](https://github.com/JonathanLu2005/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/JonathanLu2005/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/JonathanLu2005/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/JonathanLu2005/LeetCode/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
@@ -468,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/JonathanLu2005/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/JonathanLu2005/LeetCode/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1396-count-servers-that-communicate](https://github.com/JonathanLu2005/LeetCode/tree/master/1396-count-servers-that-communicate) |
+| [1502-construct-k-palindrome-strings](https://github.com/JonathanLu2005/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/JonathanLu2005/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1635-number-of-good-pairs](https://github.com/JonathanLu2005/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/JonathanLu2005/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
