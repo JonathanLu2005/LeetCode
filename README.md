@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/JonathanLu2005/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/JonathanLu2005/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0930-all-possible-full-binary-trees](https://github.com/JonathanLu2005/LeetCode/tree/master/0930-all-possible-full-binary-trees) |
+| [1492-time-needed-to-inform-all-employees](https://github.com/JonathanLu2005/LeetCode/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1722-throne-inheritance](https://github.com/JonathanLu2005/LeetCode/tree/master/1722-throne-inheritance) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/JonathanLu2005/LeetCode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Depth-First Search
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/JonathanLu2005/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/JonathanLu2005/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/JonathanLu2005/LeetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [1492-time-needed-to-inform-all-employees](https://github.com/JonathanLu2005/LeetCode/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1722-throne-inheritance](https://github.com/JonathanLu2005/LeetCode/tree/master/1722-throne-inheritance) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/JonathanLu2005/LeetCode/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/JonathanLu2005/LeetCode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
@@ -423,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/JonathanLu2005/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/JonathanLu2005/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/JonathanLu2005/LeetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [1492-time-needed-to-inform-all-employees](https://github.com/JonathanLu2005/LeetCode/tree/master/1492-time-needed-to-inform-all-employees) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/JonathanLu2005/LeetCode/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/JonathanLu2005/LeetCode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/JonathanLu2005/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
