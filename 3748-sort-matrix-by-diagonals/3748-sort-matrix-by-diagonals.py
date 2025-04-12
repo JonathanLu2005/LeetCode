@@ -20,9 +20,9 @@ class Solution:
                 key = row - col
 
                 if key >= 0:
-                    v = max(hashmap[key])
+                    v = hashmap[key][-1]
                 else:
-                    v = min(hashmap[key])
+                    v = hashmap[key][0]
                 grid[row][col] = v
                 hashmap[key].remove(v)
         return grid
