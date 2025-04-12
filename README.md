@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/JonathanLu2005/LeetCode/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/JonathanLu2005/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/JonathanLu2005/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0498-diagonal-traverse](https://github.com/JonathanLu2005/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0769-largest-plus-sign](https://github.com/JonathanLu2005/LeetCode/tree/master/0769-largest-plus-sign) |
 | [0878-shifting-letters](https://github.com/JonathanLu2005/LeetCode/tree/master/0878-shifting-letters) |
 | [1002-maximum-width-ramp](https://github.com/JonathanLu2005/LeetCode/tree/master/1002-maximum-width-ramp) |
@@ -365,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/JonathanLu2005/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0221-maximal-square](https://github.com/JonathanLu2005/LeetCode/tree/master/0221-maximal-square) |
 | [0289-game-of-life](https://github.com/JonathanLu2005/LeetCode/tree/master/0289-game-of-life) |
+| [0498-diagonal-traverse](https://github.com/JonathanLu2005/LeetCode/tree/master/0498-diagonal-traverse) |
 | [1379-reconstruct-a-2-row-binary-matrix](https://github.com/JonathanLu2005/LeetCode/tree/master/1379-reconstruct-a-2-row-binary-matrix) |
 | [1396-count-servers-that-communicate](https://github.com/JonathanLu2005/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/JonathanLu2005/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -477,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0289-game-of-life](https://github.com/JonathanLu2005/LeetCode/tree/master/0289-game-of-life) |
 | [0412-fizz-buzz](https://github.com/JonathanLu2005/LeetCode/tree/master/0412-fizz-buzz) |
+| [0498-diagonal-traverse](https://github.com/JonathanLu2005/LeetCode/tree/master/0498-diagonal-traverse) |
 | [2058-concatenation-of-array](https://github.com/JonathanLu2005/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/JonathanLu2005/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/JonathanLu2005/LeetCode/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
