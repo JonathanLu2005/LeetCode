@@ -24,7 +24,7 @@ class Solution:
 
         queue = deque([(headID, 0)])
         res = 0
-
+        # bfs want longest branch
         while queue:
             curNode, curTime = queue.popleft()
             res = max(res, curTime)
