@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/JonathanLu2005/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1635-number-of-good-pairs](https://github.com/JonathanLu2005/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/JonathanLu2005/LeetCode/tree/master/1636-number-of-substrings-with-only-1s) |
+| [1806-count-of-matches-in-tournament](https://github.com/JonathanLu2005/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/JonathanLu2005/LeetCode/tree/master/1885-count-number-of-homogenous-substrings) |
 | [2033-the-number-of-full-rounds-you-have-played](https://github.com/JonathanLu2005/LeetCode/tree/master/2033-the-number-of-full-rounds-you-have-played) |
 | [2050-count-good-numbers](https://github.com/JonathanLu2005/LeetCode/tree/master/2050-count-good-numbers) |
@@ -499,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/JonathanLu2005/LeetCode/tree/master/0289-game-of-life) |
 | [0412-fizz-buzz](https://github.com/JonathanLu2005/LeetCode/tree/master/0412-fizz-buzz) |
 | [0498-diagonal-traverse](https://github.com/JonathanLu2005/LeetCode/tree/master/0498-diagonal-traverse) |
+| [1806-count-of-matches-in-tournament](https://github.com/JonathanLu2005/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
 | [2058-concatenation-of-array](https://github.com/JonathanLu2005/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/JonathanLu2005/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/JonathanLu2005/LeetCode/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
