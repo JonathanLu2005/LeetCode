@@ -19,18 +19,12 @@ class Solution:
         for x in hand:
             hashmap[x] = hashmap.get(x,0) + 1
 
-        hand = sorted(hand)
+        for num in sorted(hashmap.keys()):
+            while hashmap[num] > 0:
+                for i in range(groupSize):
+                    key = num + i
 
-        while hand:
-            minV = hand[0]
-            hand.remove(minV)
-
-            for x in range(1, groupSize):
-                key = minV + x
-
-                if key in hashmap and hashmap[key] > 0:
-                    hand.remove(key)
+                    if hashmap.get(key,0) <= 0:
+                        return False
                     hashmap[key] -= 1
-                else:
-                    return False
         return True
