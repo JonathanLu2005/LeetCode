@@ -490,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/JonathanLu2005/LeetCode/tree/master/0133-clone-graph) |
 | [0684-redundant-connection](https://github.com/JonathanLu2005/LeetCode/tree/master/0684-redundant-connection) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/JonathanLu2005/LeetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [1916-find-center-of-star-graph](https://github.com/JonathanLu2005/LeetCode/tree/master/1916-find-center-of-star-graph) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/JonathanLu2005/LeetCode/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2455-node-with-highest-edge-score](https://github.com/JonathanLu2005/LeetCode/tree/master/2455-node-with-highest-edge-score) |
 ## Simulation
