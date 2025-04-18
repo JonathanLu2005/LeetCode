@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/JonathanLu2005/LeetCode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/JonathanLu2005/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1502-construct-k-palindrome-strings](https://github.com/JonathanLu2005/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/JonathanLu2005/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1547-destination-city](https://github.com/JonathanLu2005/LeetCode/tree/master/1547-destination-city) |
 | [1562-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list](https://github.com/JonathanLu2005/LeetCode/tree/master/1562-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/JonathanLu2005/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/JonathanLu2005/LeetCode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/JonathanLu2005/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/JonathanLu2005/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/JonathanLu2005/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1547-destination-city](https://github.com/JonathanLu2005/LeetCode/tree/master/1547-destination-city) |
 | [1562-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list](https://github.com/JonathanLu2005/LeetCode/tree/master/1562-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/JonathanLu2005/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -538,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/JonathanLu2005/LeetCode/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1396-count-servers-that-communicate](https://github.com/JonathanLu2005/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/JonathanLu2005/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/JonathanLu2005/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/JonathanLu2005/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1635-number-of-good-pairs](https://github.com/JonathanLu2005/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/JonathanLu2005/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
