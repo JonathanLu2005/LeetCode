@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2455-node-with-highest-edge-score](https://github.com/JonathanLu2005/LeetCode/tree/master/2455-node-with-highest-edge-score) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/JonathanLu2005/LeetCode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2486-most-frequent-even-element](https://github.com/JonathanLu2005/LeetCode/tree/master/2486-most-frequent-even-element) |
+| [2502-sort-the-people](https://github.com/JonathanLu2005/LeetCode/tree/master/2502-sort-the-people) |
 | [2603-reward-top-k-students](https://github.com/JonathanLu2005/LeetCode/tree/master/2603-reward-top-k-students) |
 | [2685-first-completely-painted-row-or-column](https://github.com/JonathanLu2005/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/JonathanLu2005/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/JonathanLu2005/LeetCode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2433-best-poker-hand](https://github.com/JonathanLu2005/LeetCode/tree/master/2433-best-poker-hand) |
 | [2486-most-frequent-even-element](https://github.com/JonathanLu2005/LeetCode/tree/master/2486-most-frequent-even-element) |
+| [2502-sort-the-people](https://github.com/JonathanLu2005/LeetCode/tree/master/2502-sort-the-people) |
 | [2603-reward-top-k-students](https://github.com/JonathanLu2005/LeetCode/tree/master/2603-reward-top-k-students) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/JonathanLu2005/LeetCode/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2665-minimum-time-to-repair-cars](https://github.com/JonathanLu2005/LeetCode/tree/master/2665-minimum-time-to-repair-cars) |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2190-count-common-words-with-one-occurrence](https://github.com/JonathanLu2005/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2226-rings-and-rods](https://github.com/JonathanLu2005/LeetCode/tree/master/2226-rings-and-rods) |
 | [2427-first-letter-to-appear-twice](https://github.com/JonathanLu2005/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
+| [2502-sort-the-people](https://github.com/JonathanLu2005/LeetCode/tree/master/2502-sort-the-people) |
 | [2603-reward-top-k-students](https://github.com/JonathanLu2005/LeetCode/tree/master/2603-reward-top-k-students) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/JonathanLu2005/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3194-find-words-containing-character](https://github.com/JonathanLu2005/LeetCode/tree/master/3194-find-words-containing-character) |
@@ -394,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/JonathanLu2005/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/JonathanLu2005/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2245-destroying-asteroids](https://github.com/JonathanLu2005/LeetCode/tree/master/2245-destroying-asteroids) |
+| [2502-sort-the-people](https://github.com/JonathanLu2005/LeetCode/tree/master/2502-sort-the-people) |
 | [2603-reward-top-k-students](https://github.com/JonathanLu2005/LeetCode/tree/master/2603-reward-top-k-students) |
 | [2836-neither-minimum-nor-maximum](https://github.com/JonathanLu2005/LeetCode/tree/master/2836-neither-minimum-nor-maximum) |
 | [2845-find-the-value-of-the-partition](https://github.com/JonathanLu2005/LeetCode/tree/master/2845-find-the-value-of-the-partition) |
