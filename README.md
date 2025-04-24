@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2873-prime-pairs-with-target-sum](https://github.com/JonathanLu2005/LeetCode/tree/master/2873-prime-pairs-with-target-sum) |
 | [3194-find-words-containing-character](https://github.com/JonathanLu2005/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3227-find-missing-and-repeated-values](https://github.com/JonathanLu2005/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
+| [3374-count-alternating-subarrays](https://github.com/JonathanLu2005/LeetCode/tree/master/3374-count-alternating-subarrays) |
 | [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/JonathanLu2005/LeetCode/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
 | [3430-count-days-without-meetings](https://github.com/JonathanLu2005/LeetCode/tree/master/3430-count-days-without-meetings) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/JonathanLu2005/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2850-construct-the-longest-new-string](https://github.com/JonathanLu2005/LeetCode/tree/master/2850-construct-the-longest-new-string) |
 | [2873-prime-pairs-with-target-sum](https://github.com/JonathanLu2005/LeetCode/tree/master/2873-prime-pairs-with-target-sum) |
 | [3227-find-missing-and-repeated-values](https://github.com/JonathanLu2005/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
+| [3374-count-alternating-subarrays](https://github.com/JonathanLu2005/LeetCode/tree/master/3374-count-alternating-subarrays) |
 | [3462-vowels-game-in-a-string](https://github.com/JonathanLu2005/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/JonathanLu2005/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/JonathanLu2005/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
