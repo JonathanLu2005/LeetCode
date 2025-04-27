@@ -24,7 +24,6 @@ class Solution:
             differences.append(d)
 
         differences = sorted(differences)
-        print(differences)
         countA = 0
         countB = 0
         n = len(costs) / 2
