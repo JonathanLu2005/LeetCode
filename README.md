@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0878-shifting-letters](https://github.com/JonathanLu2005/LeetCode/tree/master/0878-shifting-letters) |
 | [1002-maximum-width-ramp](https://github.com/JonathanLu2005/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/JonathanLu2005/LeetCode/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
+| [1095-two-city-scheduling](https://github.com/JonathanLu2005/LeetCode/tree/master/1095-two-city-scheduling) |
 | [1121-partition-array-for-maximum-sum](https://github.com/JonathanLu2005/LeetCode/tree/master/1121-partition-array-for-maximum-sum) |
 | [1138-grumpy-bookstore-owner](https://github.com/JonathanLu2005/LeetCode/tree/master/1138-grumpy-bookstore-owner) |
 | [1183-statistics-from-a-large-sample](https://github.com/JonathanLu2005/LeetCode/tree/master/1183-statistics-from-a-large-sample) |
@@ -384,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/JonathanLu2005/LeetCode/tree/master/0011-container-with-most-water) |
 | [0876-hand-of-straights](https://github.com/JonathanLu2005/LeetCode/tree/master/0876-hand-of-straights) |
+| [1095-two-city-scheduling](https://github.com/JonathanLu2005/LeetCode/tree/master/1095-two-city-scheduling) |
 | [1379-reconstruct-a-2-row-binary-matrix](https://github.com/JonathanLu2005/LeetCode/tree/master/1379-reconstruct-a-2-row-binary-matrix) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/JonathanLu2005/LeetCode/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/JonathanLu2005/LeetCode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
@@ -406,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/JonathanLu2005/LeetCode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/JonathanLu2005/LeetCode/tree/master/0414-third-maximum-number) |
 | [0876-hand-of-straights](https://github.com/JonathanLu2005/LeetCode/tree/master/0876-hand-of-straights) |
+| [1095-two-city-scheduling](https://github.com/JonathanLu2005/LeetCode/tree/master/1095-two-city-scheduling) |
 | [1256-rank-transform-of-an-array](https://github.com/JonathanLu2005/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/JonathanLu2005/LeetCode/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/JonathanLu2005/LeetCode/tree/master/1388-greatest-sum-divisible-by-three) |
