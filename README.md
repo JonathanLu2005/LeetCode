@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/JonathanLu2005/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/JonathanLu2005/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1848-sum-of-unique-elements](https://github.com/JonathanLu2005/LeetCode/tree/master/1848-sum-of-unique-elements) |
+| [1935-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/JonathanLu2005/LeetCode/tree/master/1935-minimum-number-of-operations-to-reinitialize-a-permutation) |
 | [1945-finding-the-users-active-minutes](https://github.com/JonathanLu2005/LeetCode/tree/master/1945-finding-the-users-active-minutes) |
 | [2058-concatenation-of-array](https://github.com/JonathanLu2005/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/JonathanLu2005/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-number-of-substrings-with-only-1s](https://github.com/JonathanLu2005/LeetCode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1806-count-of-matches-in-tournament](https://github.com/JonathanLu2005/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/JonathanLu2005/LeetCode/tree/master/1885-count-number-of-homogenous-substrings) |
+| [1935-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/JonathanLu2005/LeetCode/tree/master/1935-minimum-number-of-operations-to-reinitialize-a-permutation) |
 | [2033-the-number-of-full-rounds-you-have-played](https://github.com/JonathanLu2005/LeetCode/tree/master/2033-the-number-of-full-rounds-you-have-played) |
 | [2050-count-good-numbers](https://github.com/JonathanLu2005/LeetCode/tree/master/2050-count-good-numbers) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/JonathanLu2005/LeetCode/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
@@ -574,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/JonathanLu2005/LeetCode/tree/master/0412-fizz-buzz) |
 | [0498-diagonal-traverse](https://github.com/JonathanLu2005/LeetCode/tree/master/0498-diagonal-traverse) |
 | [1806-count-of-matches-in-tournament](https://github.com/JonathanLu2005/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
+| [1935-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/JonathanLu2005/LeetCode/tree/master/1935-minimum-number-of-operations-to-reinitialize-a-permutation) |
 | [2058-concatenation-of-array](https://github.com/JonathanLu2005/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/JonathanLu2005/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2155-find-missing-observations](https://github.com/JonathanLu2005/LeetCode/tree/master/2155-find-missing-observations) |
