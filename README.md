@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2455-node-with-highest-edge-score](https://github.com/JonathanLu2005/LeetCode/tree/master/2455-node-with-highest-edge-score) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/JonathanLu2005/LeetCode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2486-most-frequent-even-element](https://github.com/JonathanLu2005/LeetCode/tree/master/2486-most-frequent-even-element) |
+| [2487-optimal-partition-of-string](https://github.com/JonathanLu2005/LeetCode/tree/master/2487-optimal-partition-of-string) |
 | [2502-sort-the-people](https://github.com/JonathanLu2005/LeetCode/tree/master/2502-sort-the-people) |
 | [2603-reward-top-k-students](https://github.com/JonathanLu2005/LeetCode/tree/master/2603-reward-top-k-students) |
 | [2685-first-completely-painted-row-or-column](https://github.com/JonathanLu2005/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2190-count-common-words-with-one-occurrence](https://github.com/JonathanLu2005/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2226-rings-and-rods](https://github.com/JonathanLu2005/LeetCode/tree/master/2226-rings-and-rods) |
 | [2427-first-letter-to-appear-twice](https://github.com/JonathanLu2005/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
+| [2487-optimal-partition-of-string](https://github.com/JonathanLu2005/LeetCode/tree/master/2487-optimal-partition-of-string) |
 | [2502-sort-the-people](https://github.com/JonathanLu2005/LeetCode/tree/master/2502-sort-the-people) |
 | [2603-reward-top-k-students](https://github.com/JonathanLu2005/LeetCode/tree/master/2603-reward-top-k-students) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/JonathanLu2005/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
@@ -401,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/JonathanLu2005/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/JonathanLu2005/LeetCode/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2245-destroying-asteroids](https://github.com/JonathanLu2005/LeetCode/tree/master/2245-destroying-asteroids) |
+| [2487-optimal-partition-of-string](https://github.com/JonathanLu2005/LeetCode/tree/master/2487-optimal-partition-of-string) |
 | [2811-determine-the-minimum-sum-of-a-k-avoiding-array](https://github.com/JonathanLu2005/LeetCode/tree/master/2811-determine-the-minimum-sum-of-a-k-avoiding-array) |
 | [2850-construct-the-longest-new-string](https://github.com/JonathanLu2005/LeetCode/tree/master/2850-construct-the-longest-new-string) |
 | [3195-separate-black-and-white-balls](https://github.com/JonathanLu2005/LeetCode/tree/master/3195-separate-black-and-white-balls) |
