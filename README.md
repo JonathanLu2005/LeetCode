@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/JonathanLu2005/LeetCode/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/JonathanLu2005/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0133-clone-graph](https://github.com/JonathanLu2005/LeetCode/tree/master/0133-clone-graph) |
+| [0386-lexicographical-numbers](https://github.com/JonathanLu2005/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [0684-redundant-connection](https://github.com/JonathanLu2005/LeetCode/tree/master/0684-redundant-connection) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/JonathanLu2005/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/JonathanLu2005/LeetCode/tree/master/1396-count-servers-that-communicate) |
@@ -622,6 +623,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/JonathanLu2005/LeetCode/tree/master/0139-word-break) |
+| [0386-lexicographical-numbers](https://github.com/JonathanLu2005/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/JonathanLu2005/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Iterator
 |  |
