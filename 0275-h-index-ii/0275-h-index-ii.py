@@ -11,7 +11,13 @@ class Solution:
         
         # h = h papers with h citations (at least)
         # between 0 to n
-        # 
+        # if m has h papers which have h citations
+        # basically if length = citation
+        # mapping
+        # 0 1 3 5 6
+        # 5 4 3 2 1
+        # 6 >= 1, 5 >= 2, 3 >= 3 ... 3 is spot
+        # go throguh each num and find their h value
         
         n = len(citations)
         l = 0
