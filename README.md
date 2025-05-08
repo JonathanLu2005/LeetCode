@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/JonathanLu2005/LeetCode/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/JonathanLu2005/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/JonathanLu2005/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0648-replace-words](https://github.com/JonathanLu2005/LeetCode/tree/master/0648-replace-words) |
 | [0822-unique-morse-code-words](https://github.com/JonathanLu2005/LeetCode/tree/master/0822-unique-morse-code-words) |
 | [0870-magic-squares-in-grid](https://github.com/JonathanLu2005/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0876-hand-of-straights](https://github.com/JonathanLu2005/LeetCode/tree/master/0876-hand-of-straights) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/JonathanLu2005/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/JonathanLu2005/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0498-diagonal-traverse](https://github.com/JonathanLu2005/LeetCode/tree/master/0498-diagonal-traverse) |
+| [0648-replace-words](https://github.com/JonathanLu2005/LeetCode/tree/master/0648-replace-words) |
 | [0735-asteroid-collision](https://github.com/JonathanLu2005/LeetCode/tree/master/0735-asteroid-collision) |
 | [0769-largest-plus-sign](https://github.com/JonathanLu2005/LeetCode/tree/master/0769-largest-plus-sign) |
 | [0805-escape-the-ghosts](https://github.com/JonathanLu2005/LeetCode/tree/master/0805-escape-the-ghosts) |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/JonathanLu2005/LeetCode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/JonathanLu2005/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/JonathanLu2005/LeetCode/tree/master/0412-fizz-buzz) |
+| [0648-replace-words](https://github.com/JonathanLu2005/LeetCode/tree/master/0648-replace-words) |
 | [0742-to-lower-case](https://github.com/JonathanLu2005/LeetCode/tree/master/0742-to-lower-case) |
 | [0822-unique-morse-code-words](https://github.com/JonathanLu2005/LeetCode/tree/master/0822-unique-morse-code-words) |
 | [0858-masking-personal-information](https://github.com/JonathanLu2005/LeetCode/tree/master/0858-masking-personal-information) |
@@ -633,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0139-word-break](https://github.com/JonathanLu2005/LeetCode/tree/master/0139-word-break) |
 | [0386-lexicographical-numbers](https://github.com/JonathanLu2005/LeetCode/tree/master/0386-lexicographical-numbers) |
+| [0648-replace-words](https://github.com/JonathanLu2005/LeetCode/tree/master/0648-replace-words) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/JonathanLu2005/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Iterator
 |  |
