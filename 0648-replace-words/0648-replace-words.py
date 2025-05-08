@@ -18,7 +18,6 @@ class Solution:
             limit = min(maxPrefix, len(word))
             for j in range(0, limit):
                 prefix += word[j]
-                print(prefix)
 
                 if prefix in dictionary:
                     sentence[i] = prefix
