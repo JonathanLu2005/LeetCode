@@ -698,4 +698,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/JonathanLu2005/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+## Concurrency
+|  |
+| ------- |
+| [1340-the-dining-philosophers](https://github.com/JonathanLu2005/LeetCode/tree/master/1340-the-dining-philosophers) |
 <!---LeetCode Topics End-->
