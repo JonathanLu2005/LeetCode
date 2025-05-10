@@ -6,6 +6,8 @@ class Solution:
         # then if 4, could have, 1 2, 1 3, 1 4, 2 3, 2 4, 3 4 (6)
         # need do n(n-1) / 2
 
+        # next time - pattern, if we need do n^2 search, try see if can rearrange equation to get n
+
         hashmap = {}
 
         for x in nums:
