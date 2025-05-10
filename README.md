@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2226-rings-and-rods](https://github.com/JonathanLu2005/LeetCode/tree/master/2226-rings-and-rods) |
 | [2427-first-letter-to-appear-twice](https://github.com/JonathanLu2005/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 | [2433-best-poker-hand](https://github.com/JonathanLu2005/LeetCode/tree/master/2433-best-poker-hand) |
+| [2448-count-number-of-bad-pairs](https://github.com/JonathanLu2005/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2455-node-with-highest-edge-score](https://github.com/JonathanLu2005/LeetCode/tree/master/2455-node-with-highest-edge-score) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/JonathanLu2005/LeetCode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2486-most-frequent-even-element](https://github.com/JonathanLu2005/LeetCode/tree/master/2486-most-frequent-even-element) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/JonathanLu2005/LeetCode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2433-best-poker-hand](https://github.com/JonathanLu2005/LeetCode/tree/master/2433-best-poker-hand) |
 | [2437-maximum-number-of-groups-entering-a-competition](https://github.com/JonathanLu2005/LeetCode/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
+| [2448-count-number-of-bad-pairs](https://github.com/JonathanLu2005/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2486-most-frequent-even-element](https://github.com/JonathanLu2005/LeetCode/tree/master/2486-most-frequent-even-element) |
 | [2502-sort-the-people](https://github.com/JonathanLu2005/LeetCode/tree/master/2502-sort-the-people) |
 | [2603-reward-top-k-students](https://github.com/JonathanLu2005/LeetCode/tree/master/2603-reward-top-k-students) |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2155-find-missing-observations](https://github.com/JonathanLu2005/LeetCode/tree/master/2155-find-missing-observations) |
 | [2383-add-two-integers](https://github.com/JonathanLu2005/LeetCode/tree/master/2383-add-two-integers) |
 | [2437-maximum-number-of-groups-entering-a-competition](https://github.com/JonathanLu2005/LeetCode/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
+| [2448-count-number-of-bad-pairs](https://github.com/JonathanLu2005/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2491-smallest-even-multiple](https://github.com/JonathanLu2005/LeetCode/tree/master/2491-smallest-even-multiple) |
 | [2541-sum-of-number-and-its-reverse](https://github.com/JonathanLu2005/LeetCode/tree/master/2541-sum-of-number-and-its-reverse) |
 | [2556-convert-the-temperature](https://github.com/JonathanLu2005/LeetCode/tree/master/2556-convert-the-temperature) |
@@ -632,6 +635,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2190-count-common-words-with-one-occurrence](https://github.com/JonathanLu2005/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2427-first-letter-to-appear-twice](https://github.com/JonathanLu2005/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 | [2433-best-poker-hand](https://github.com/JonathanLu2005/LeetCode/tree/master/2433-best-poker-hand) |
+| [2448-count-number-of-bad-pairs](https://github.com/JonathanLu2005/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2486-most-frequent-even-element](https://github.com/JonathanLu2005/LeetCode/tree/master/2486-most-frequent-even-element) |
 | [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/JonathanLu2005/LeetCode/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/JonathanLu2005/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
