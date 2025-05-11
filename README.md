@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/JonathanLu2005/LeetCode/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/JonathanLu2005/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/JonathanLu2005/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/JonathanLu2005/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0648-replace-words](https://github.com/JonathanLu2005/LeetCode/tree/master/0648-replace-words) |
 | [0822-unique-morse-code-words](https://github.com/JonathanLu2005/LeetCode/tree/master/0822-unique-morse-code-words) |
 | [0870-magic-squares-in-grid](https://github.com/JonathanLu2005/LeetCode/tree/master/0870-magic-squares-in-grid) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/JonathanLu2005/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/JonathanLu2005/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0498-diagonal-traverse](https://github.com/JonathanLu2005/LeetCode/tree/master/0498-diagonal-traverse) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/JonathanLu2005/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0648-replace-words](https://github.com/JonathanLu2005/LeetCode/tree/master/0648-replace-words) |
 | [0735-asteroid-collision](https://github.com/JonathanLu2005/LeetCode/tree/master/0735-asteroid-collision) |
 | [0769-largest-plus-sign](https://github.com/JonathanLu2005/LeetCode/tree/master/0769-largest-plus-sign) |
@@ -354,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/JonathanLu2005/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/JonathanLu2005/LeetCode/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/JonathanLu2005/LeetCode/tree/master/0275-h-index-ii) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/JonathanLu2005/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/JonathanLu2005/LeetCode/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/JonathanLu2005/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2437-maximum-number-of-groups-entering-a-competition](https://github.com/JonathanLu2005/LeetCode/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
@@ -380,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/JonathanLu2005/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/JonathanLu2005/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/JonathanLu2005/LeetCode/tree/master/0344-reverse-string) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/JonathanLu2005/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1002-maximum-width-ramp](https://github.com/JonathanLu2005/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [2228-watering-plants-ii](https://github.com/JonathanLu2005/LeetCode/tree/master/2228-watering-plants-ii) |
 | [3195-separate-black-and-white-balls](https://github.com/JonathanLu2005/LeetCode/tree/master/3195-separate-black-and-white-balls) |
@@ -439,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/JonathanLu2005/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/JonathanLu2005/LeetCode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/JonathanLu2005/LeetCode/tree/master/0414-third-maximum-number) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/JonathanLu2005/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0876-hand-of-straights](https://github.com/JonathanLu2005/LeetCode/tree/master/0876-hand-of-straights) |
 | [1095-two-city-scheduling](https://github.com/JonathanLu2005/LeetCode/tree/master/1095-two-city-scheduling) |
 | [1256-rank-transform-of-an-array](https://github.com/JonathanLu2005/LeetCode/tree/master/1256-rank-transform-of-an-array) |
