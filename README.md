@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2603-reward-top-k-students](https://github.com/JonathanLu2005/LeetCode/tree/master/2603-reward-top-k-students) |
 | [2685-first-completely-painted-row-or-column](https://github.com/JonathanLu2005/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/JonathanLu2005/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2834-relocate-marbles](https://github.com/JonathanLu2005/LeetCode/tree/master/2834-relocate-marbles) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/JonathanLu2005/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3227-find-missing-and-repeated-values](https://github.com/JonathanLu2005/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/JonathanLu2005/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2714-left-and-right-sum-differences](https://github.com/JonathanLu2005/LeetCode/tree/master/2714-left-and-right-sum-differences) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/JonathanLu2005/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/JonathanLu2005/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2834-relocate-marbles](https://github.com/JonathanLu2005/LeetCode/tree/master/2834-relocate-marbles) |
 | [2836-neither-minimum-nor-maximum](https://github.com/JonathanLu2005/LeetCode/tree/master/2836-neither-minimum-nor-maximum) |
 | [2845-find-the-value-of-the-partition](https://github.com/JonathanLu2005/LeetCode/tree/master/2845-find-the-value-of-the-partition) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/JonathanLu2005/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
@@ -466,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/JonathanLu2005/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2502-sort-the-people](https://github.com/JonathanLu2005/LeetCode/tree/master/2502-sort-the-people) |
 | [2603-reward-top-k-students](https://github.com/JonathanLu2005/LeetCode/tree/master/2603-reward-top-k-students) |
+| [2834-relocate-marbles](https://github.com/JonathanLu2005/LeetCode/tree/master/2834-relocate-marbles) |
 | [2836-neither-minimum-nor-maximum](https://github.com/JonathanLu2005/LeetCode/tree/master/2836-neither-minimum-nor-maximum) |
 | [2845-find-the-value-of-the-partition](https://github.com/JonathanLu2005/LeetCode/tree/master/2845-find-the-value-of-the-partition) |
 | [3430-count-days-without-meetings](https://github.com/JonathanLu2005/LeetCode/tree/master/3430-count-days-without-meetings) |
@@ -631,6 +634,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2155-find-missing-observations](https://github.com/JonathanLu2005/LeetCode/tree/master/2155-find-missing-observations) |
 | [2228-watering-plants-ii](https://github.com/JonathanLu2005/LeetCode/tree/master/2228-watering-plants-ii) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/JonathanLu2005/LeetCode/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
+| [2834-relocate-marbles](https://github.com/JonathanLu2005/LeetCode/tree/master/2834-relocate-marbles) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/JonathanLu2005/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
 ## Counting
 |  |
