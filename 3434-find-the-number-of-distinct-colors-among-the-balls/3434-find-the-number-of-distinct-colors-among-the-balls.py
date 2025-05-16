@@ -22,9 +22,7 @@ class Solution:
         result = []
 
         for [ball, colour] in queries:
-            if ball not in posMap:
-                posMap[ball] = colour
-            else:
+            if ball in posMap:
                 # else already exist
                 prev = posMap[ball]
                 colMap[prev] -= 1
@@ -32,7 +30,7 @@ class Solution:
                 # no more
                 if colMap[prev] == 0:
                     cur.remove(prev)
-                posMap[ball] = colour
+            posMap[ball] = colour
             #brand new colour so we add to current
             if colour not in colMap or colMap[colour] == 0:
                 cur.add(colour)
