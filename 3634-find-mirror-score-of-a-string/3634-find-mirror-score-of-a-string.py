@@ -17,7 +17,7 @@ class Solution:
             mirror = hashmap[m]
             if mirror:
                 j = mirror[-1]
-                hashmap[m].remove(j)
+                hashmap[m].pop(-1)
                 res += i-j
             else:
                 hashmap[c].append(i)
