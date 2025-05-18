@@ -1,6 +1,7 @@
 class Solution:
     def calculateScore(self, s: str) -> int:
         # keep stack of each character s.t. if need a character, can access it easily
+        # key is using pop and index instead of remove and max
         hashmap = {}
 
         for x in range(97, 123):
