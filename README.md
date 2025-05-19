@@ -340,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2163-kth-distinct-string-in-an-array](https://github.com/JonathanLu2005/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/JonathanLu2005/LeetCode/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/JonathanLu2005/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
+| [2197-decode-the-slanted-ciphertext](https://github.com/JonathanLu2005/LeetCode/tree/master/2197-decode-the-slanted-ciphertext) |
 | [2226-rings-and-rods](https://github.com/JonathanLu2005/LeetCode/tree/master/2226-rings-and-rods) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/JonathanLu2005/LeetCode/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2427-first-letter-to-appear-twice](https://github.com/JonathanLu2005/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
@@ -642,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/JonathanLu2005/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/JonathanLu2005/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2155-find-missing-observations](https://github.com/JonathanLu2005/LeetCode/tree/master/2155-find-missing-observations) |
+| [2197-decode-the-slanted-ciphertext](https://github.com/JonathanLu2005/LeetCode/tree/master/2197-decode-the-slanted-ciphertext) |
 | [2228-watering-plants-ii](https://github.com/JonathanLu2005/LeetCode/tree/master/2228-watering-plants-ii) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/JonathanLu2005/LeetCode/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2834-relocate-marbles](https://github.com/JonathanLu2005/LeetCode/tree/master/2834-relocate-marbles) |
