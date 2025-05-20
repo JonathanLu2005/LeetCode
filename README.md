@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/JonathanLu2005/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1635-number-of-good-pairs](https://github.com/JonathanLu2005/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/JonathanLu2005/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [1721-maximum-profit-of-operating-a-centennial-wheel](https://github.com/JonathanLu2005/LeetCode/tree/master/1721-maximum-profit-of-operating-a-centennial-wheel) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/JonathanLu2005/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/JonathanLu2005/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1848-sum-of-unique-elements](https://github.com/JonathanLu2005/LeetCode/tree/master/1848-sum-of-unique-elements) |
@@ -638,6 +639,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/JonathanLu2005/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0735-asteroid-collision](https://github.com/JonathanLu2005/LeetCode/tree/master/0735-asteroid-collision) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/JonathanLu2005/LeetCode/tree/master/0987-reveal-cards-in-increasing-order) |
+| [1721-maximum-profit-of-operating-a-centennial-wheel](https://github.com/JonathanLu2005/LeetCode/tree/master/1721-maximum-profit-of-operating-a-centennial-wheel) |
 | [1806-count-of-matches-in-tournament](https://github.com/JonathanLu2005/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
 | [1935-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/JonathanLu2005/LeetCode/tree/master/1935-minimum-number-of-operations-to-reinitialize-a-permutation) |
 | [2058-concatenation-of-array](https://github.com/JonathanLu2005/LeetCode/tree/master/2058-concatenation-of-array) |
