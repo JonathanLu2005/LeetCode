@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/JonathanLu2005/LeetCode/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1256-rank-transform-of-an-array](https://github.com/JonathanLu2005/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/JonathanLu2005/LeetCode/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
+| [1312-count-artifacts-that-can-be-extracted](https://github.com/JonathanLu2005/LeetCode/tree/master/1312-count-artifacts-that-can-be-extracted) |
 | [1319-unique-number-of-occurrences](https://github.com/JonathanLu2005/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/JonathanLu2005/LeetCode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/JonathanLu2005/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1196-filling-bookcase-shelves](https://github.com/JonathanLu2005/LeetCode/tree/master/1196-filling-bookcase-shelves) |
 | [1256-rank-transform-of-an-array](https://github.com/JonathanLu2005/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/JonathanLu2005/LeetCode/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
+| [1312-count-artifacts-that-can-be-extracted](https://github.com/JonathanLu2005/LeetCode/tree/master/1312-count-artifacts-that-can-be-extracted) |
 | [1319-unique-number-of-occurrences](https://github.com/JonathanLu2005/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1379-reconstruct-a-2-row-binary-matrix](https://github.com/JonathanLu2005/LeetCode/tree/master/1379-reconstruct-a-2-row-binary-matrix) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/JonathanLu2005/LeetCode/tree/master/1388-greatest-sum-divisible-by-three) |
@@ -639,6 +641,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/JonathanLu2005/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0735-asteroid-collision](https://github.com/JonathanLu2005/LeetCode/tree/master/0735-asteroid-collision) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/JonathanLu2005/LeetCode/tree/master/0987-reveal-cards-in-increasing-order) |
+| [1312-count-artifacts-that-can-be-extracted](https://github.com/JonathanLu2005/LeetCode/tree/master/1312-count-artifacts-that-can-be-extracted) |
 | [1721-maximum-profit-of-operating-a-centennial-wheel](https://github.com/JonathanLu2005/LeetCode/tree/master/1721-maximum-profit-of-operating-a-centennial-wheel) |
 | [1806-count-of-matches-in-tournament](https://github.com/JonathanLu2005/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
 | [1935-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/JonathanLu2005/LeetCode/tree/master/1935-minimum-number-of-operations-to-reinitialize-a-permutation) |
