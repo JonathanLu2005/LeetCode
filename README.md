@@ -364,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3707-find-the-most-common-response](https://github.com/JonathanLu2005/LeetCode/tree/master/3707-find-the-most-common-response) |
 | [3732-calculate-score-after-performing-instructions](https://github.com/JonathanLu2005/LeetCode/tree/master/3732-calculate-score-after-performing-instructions) |
 | [3797-design-spreadsheet](https://github.com/JonathanLu2005/LeetCode/tree/master/3797-design-spreadsheet) |
+| [3811-reverse-degree-of-a-string](https://github.com/JonathanLu2005/LeetCode/tree/master/3811-reverse-degree-of-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -660,6 +661,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/JonathanLu2005/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3634-find-mirror-score-of-a-string](https://github.com/JonathanLu2005/LeetCode/tree/master/3634-find-mirror-score-of-a-string) |
 | [3732-calculate-score-after-performing-instructions](https://github.com/JonathanLu2005/LeetCode/tree/master/3732-calculate-score-after-performing-instructions) |
+| [3811-reverse-degree-of-a-string](https://github.com/JonathanLu2005/LeetCode/tree/master/3811-reverse-degree-of-a-string) |
 ## Counting
 |  |
 | ------- |
