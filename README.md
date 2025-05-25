@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2163-kth-distinct-string-in-an-array](https://github.com/JonathanLu2005/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/JonathanLu2005/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2226-rings-and-rods](https://github.com/JonathanLu2005/LeetCode/tree/master/2226-rings-and-rods) |
+| [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/JonathanLu2005/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2427-first-letter-to-appear-twice](https://github.com/JonathanLu2005/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 | [2433-best-poker-hand](https://github.com/JonathanLu2005/LeetCode/tree/master/2433-best-poker-hand) |
 | [2448-count-number-of-bad-pairs](https://github.com/JonathanLu2005/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2190-count-common-words-with-one-occurrence](https://github.com/JonathanLu2005/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/JonathanLu2005/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2228-watering-plants-ii](https://github.com/JonathanLu2005/LeetCode/tree/master/2228-watering-plants-ii) |
+| [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/JonathanLu2005/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2245-destroying-asteroids](https://github.com/JonathanLu2005/LeetCode/tree/master/2245-destroying-asteroids) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/JonathanLu2005/LeetCode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/JonathanLu2005/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -349,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2190-count-common-words-with-one-occurrence](https://github.com/JonathanLu2005/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2197-decode-the-slanted-ciphertext](https://github.com/JonathanLu2005/LeetCode/tree/master/2197-decode-the-slanted-ciphertext) |
 | [2226-rings-and-rods](https://github.com/JonathanLu2005/LeetCode/tree/master/2226-rings-and-rods) |
+| [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/JonathanLu2005/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/JonathanLu2005/LeetCode/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2427-first-letter-to-appear-twice](https://github.com/JonathanLu2005/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 | [2487-optimal-partition-of-string](https://github.com/JonathanLu2005/LeetCode/tree/master/2487-optimal-partition-of-string) |
@@ -453,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/JonathanLu2005/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/JonathanLu2005/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/JonathanLu2005/LeetCode/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
+| [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/JonathanLu2005/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2245-destroying-asteroids](https://github.com/JonathanLu2005/LeetCode/tree/master/2245-destroying-asteroids) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/JonathanLu2005/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2437-maximum-number-of-groups-entering-a-competition](https://github.com/JonathanLu2005/LeetCode/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
@@ -685,6 +689,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/JonathanLu2005/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/JonathanLu2005/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/JonathanLu2005/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
+| [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/JonathanLu2005/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2427-first-letter-to-appear-twice](https://github.com/JonathanLu2005/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 | [2433-best-poker-hand](https://github.com/JonathanLu2005/LeetCode/tree/master/2433-best-poker-hand) |
 | [2448-count-number-of-bad-pairs](https://github.com/JonathanLu2005/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
