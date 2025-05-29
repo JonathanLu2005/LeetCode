@@ -14,7 +14,7 @@ class Solution:
             count[x] = count.get(x,0) + 1
             maxCount = max(maxCount, count[x])
 
-        #letters = [key for key, value in count.items() if value == maxCount]
+        letters = [key for key, value in count.items() if value == maxCount]
 
         hashmap = {}
         answer = ""
