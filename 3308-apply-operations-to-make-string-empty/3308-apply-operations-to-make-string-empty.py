@@ -14,15 +14,13 @@ class Solution:
             count[x] = count.get(x,0) + 1
             maxCount = max(maxCount, count[x])
 
-        letters = [key for key, value in count.items() if value == maxCount]
+        letters = set([key for key, value in count.items() if value == maxCount])
 
-        hashmap = {}
         answer = ""
 
-        for x in s:
-            hashmap[x] = hashmap.get(x,0) + 1
-
-            if hashmap[x] == maxCount:
-                answer += x
+        for x in s[::-1]:
+            if x in letters:
+                answer = x + answer
+                letters.remove(x)
 
         return answer
