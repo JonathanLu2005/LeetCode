@@ -243,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/JonathanLu2005/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3308-apply-operations-to-make-string-empty](https://github.com/JonathanLu2005/LeetCode/tree/master/3308-apply-operations-to-make-string-empty) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/JonathanLu2005/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3351-maximize-happiness-of-selected-children](https://github.com/JonathanLu2005/LeetCode/tree/master/3351-maximize-happiness-of-selected-children) |
 | [3374-count-alternating-subarrays](https://github.com/JonathanLu2005/LeetCode/tree/master/3374-count-alternating-subarrays) |
 | [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/JonathanLu2005/LeetCode/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
 | [3430-count-days-without-meetings](https://github.com/JonathanLu2005/LeetCode/tree/master/3430-count-days-without-meetings) |
@@ -479,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2811-determine-the-minimum-sum-of-a-k-avoiding-array](https://github.com/JonathanLu2005/LeetCode/tree/master/2811-determine-the-minimum-sum-of-a-k-avoiding-array) |
 | [2850-construct-the-longest-new-string](https://github.com/JonathanLu2005/LeetCode/tree/master/2850-construct-the-longest-new-string) |
 | [3195-separate-black-and-white-balls](https://github.com/JonathanLu2005/LeetCode/tree/master/3195-separate-black-and-white-balls) |
+| [3351-maximize-happiness-of-selected-children](https://github.com/JonathanLu2005/LeetCode/tree/master/3351-maximize-happiness-of-selected-children) |
 ## Sorting
 |  |
 | ------- |
@@ -512,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2836-neither-minimum-nor-maximum](https://github.com/JonathanLu2005/LeetCode/tree/master/2836-neither-minimum-nor-maximum) |
 | [2845-find-the-value-of-the-partition](https://github.com/JonathanLu2005/LeetCode/tree/master/2845-find-the-value-of-the-partition) |
 | [3308-apply-operations-to-make-string-empty](https://github.com/JonathanLu2005/LeetCode/tree/master/3308-apply-operations-to-make-string-empty) |
+| [3351-maximize-happiness-of-selected-children](https://github.com/JonathanLu2005/LeetCode/tree/master/3351-maximize-happiness-of-selected-children) |
 | [3430-count-days-without-meetings](https://github.com/JonathanLu2005/LeetCode/tree/master/3430-count-days-without-meetings) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/JonathanLu2005/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3748-sort-matrix-by-diagonals](https://github.com/JonathanLu2005/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
