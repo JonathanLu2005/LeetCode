@@ -16,7 +16,6 @@ class Solution:
         # if box is closed, will need to get a key, which can get from box
 
         result = 0
-        visited = set()
         closed = set()
         gotKeys = set()
 
