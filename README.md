@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0870-magic-squares-in-grid](https://github.com/JonathanLu2005/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0876-hand-of-straights](https://github.com/JonathanLu2005/LeetCode/tree/master/0876-hand-of-straights) |
 | [0878-shifting-letters](https://github.com/JonathanLu2005/LeetCode/tree/master/0878-shifting-letters) |
+| [0951-partition-array-into-disjoint-intervals](https://github.com/JonathanLu2005/LeetCode/tree/master/0951-partition-array-into-disjoint-intervals) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/JonathanLu2005/LeetCode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1002-maximum-width-ramp](https://github.com/JonathanLu2005/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/JonathanLu2005/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
