@@ -270,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/JonathanLu2005/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0146-lru-cache](https://github.com/JonathanLu2005/LeetCode/tree/master/0146-lru-cache) |
 | [0147-insertion-sort-list](https://github.com/JonathanLu2005/LeetCode/tree/master/0147-insertion-sort-list) |
+| [2196-reverse-nodes-in-even-length-groups](https://github.com/JonathanLu2005/LeetCode/tree/master/2196-reverse-nodes-in-even-length-groups) |
 ## Math
 |  |
 | ------- |
