@@ -387,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3797-design-spreadsheet](https://github.com/JonathanLu2005/LeetCode/tree/master/3797-design-spreadsheet) |
 | [3811-reverse-degree-of-a-string](https://github.com/JonathanLu2005/LeetCode/tree/master/3811-reverse-degree-of-a-string) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/JonathanLu2005/LeetCode/tree/master/3812-smallest-palindromic-rearrangement-i) |
+| [3860-resulting-string-after-adjacent-removals](https://github.com/JonathanLu2005/LeetCode/tree/master/3860-resulting-string-after-adjacent-removals) |
 ## Sliding Window
 |  |
 | ------- |
@@ -654,6 +655,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/JonathanLu2005/LeetCode/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/JonathanLu2005/LeetCode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [3634-find-mirror-score-of-a-string](https://github.com/JonathanLu2005/LeetCode/tree/master/3634-find-mirror-score-of-a-string) |
+| [3860-resulting-string-after-adjacent-removals](https://github.com/JonathanLu2005/LeetCode/tree/master/3860-resulting-string-after-adjacent-removals) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -700,6 +702,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3634-find-mirror-score-of-a-string](https://github.com/JonathanLu2005/LeetCode/tree/master/3634-find-mirror-score-of-a-string) |
 | [3732-calculate-score-after-performing-instructions](https://github.com/JonathanLu2005/LeetCode/tree/master/3732-calculate-score-after-performing-instructions) |
 | [3811-reverse-degree-of-a-string](https://github.com/JonathanLu2005/LeetCode/tree/master/3811-reverse-degree-of-a-string) |
+| [3860-resulting-string-after-adjacent-removals](https://github.com/JonathanLu2005/LeetCode/tree/master/3860-resulting-string-after-adjacent-removals) |
 ## Counting
 |  |
 | ------- |
