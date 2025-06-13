@@ -6,6 +6,10 @@
 #         self.right = right
 class Solution:
     def constructMaximumBinaryTree(self, nums: List[int]) -> Optional[TreeNode]:
+        
+        # as add to stack, if value smaller than current value, then its left child of current value
+        # otherwise whatevers recently aded to stack, next value is the right child
+        # append tree node so can return index 0
         stack = []
 
         for x in nums:
