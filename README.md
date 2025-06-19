@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/JonathanLu2005/LeetCode/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/JonathanLu2005/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/JonathanLu2005/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0480-sliding-window-median](https://github.com/JonathanLu2005/LeetCode/tree/master/0480-sliding-window-median) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/JonathanLu2005/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0648-replace-words](https://github.com/JonathanLu2005/LeetCode/tree/master/0648-replace-words) |
 | [0778-reorganize-string](https://github.com/JonathanLu2005/LeetCode/tree/master/0778-reorganize-string) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/JonathanLu2005/LeetCode/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/JonathanLu2005/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/JonathanLu2005/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0480-sliding-window-median](https://github.com/JonathanLu2005/LeetCode/tree/master/0480-sliding-window-median) |
 | [0498-diagonal-traverse](https://github.com/JonathanLu2005/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/JonathanLu2005/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0648-replace-words](https://github.com/JonathanLu2005/LeetCode/tree/master/0648-replace-words) |
@@ -402,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/JonathanLu2005/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/JonathanLu2005/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0413-arithmetic-slices](https://github.com/JonathanLu2005/LeetCode/tree/master/0413-arithmetic-slices) |
+| [0480-sliding-window-median](https://github.com/JonathanLu2005/LeetCode/tree/master/0480-sliding-window-median) |
 | [1138-grumpy-bookstore-owner](https://github.com/JonathanLu2005/LeetCode/tree/master/1138-grumpy-bookstore-owner) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/JonathanLu2005/LeetCode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 ## Binary Search
@@ -654,6 +657,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/JonathanLu2005/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0480-sliding-window-median](https://github.com/JonathanLu2005/LeetCode/tree/master/0480-sliding-window-median) |
 | [0778-reorganize-string](https://github.com/JonathanLu2005/LeetCode/tree/master/0778-reorganize-string) |
 | [1140-distant-barcodes](https://github.com/JonathanLu2005/LeetCode/tree/master/1140-distant-barcodes) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/JonathanLu2005/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
