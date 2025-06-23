@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/JonathanLu2005/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0208-implement-trie-prefix-tree](https://github.com/JonathanLu2005/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0295-find-median-from-data-stream](https://github.com/JonathanLu2005/LeetCode/tree/master/0295-find-median-from-data-stream) |
+| [1097-stream-of-characters](https://github.com/JonathanLu2005/LeetCode/tree/master/1097-stream-of-characters) |
 | [1722-throne-inheritance](https://github.com/JonathanLu2005/LeetCode/tree/master/1722-throne-inheritance) |
 | [1953-finding-mk-average](https://github.com/JonathanLu2005/LeetCode/tree/master/1953-finding-mk-average) |
 | [3797-design-spreadsheet](https://github.com/JonathanLu2005/LeetCode/tree/master/3797-design-spreadsheet) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/JonathanLu2005/LeetCode/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1080-camelcase-matching](https://github.com/JonathanLu2005/LeetCode/tree/master/1080-camelcase-matching) |
 | [1095-two-city-scheduling](https://github.com/JonathanLu2005/LeetCode/tree/master/1095-two-city-scheduling) |
+| [1097-stream-of-characters](https://github.com/JonathanLu2005/LeetCode/tree/master/1097-stream-of-characters) |
 | [1121-partition-array-for-maximum-sum](https://github.com/JonathanLu2005/LeetCode/tree/master/1121-partition-array-for-maximum-sum) |
 | [1138-grumpy-bookstore-owner](https://github.com/JonathanLu2005/LeetCode/tree/master/1138-grumpy-bookstore-owner) |
 | [1140-distant-barcodes](https://github.com/JonathanLu2005/LeetCode/tree/master/1140-distant-barcodes) |
@@ -368,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0878-shifting-letters](https://github.com/JonathanLu2005/LeetCode/tree/master/0878-shifting-letters) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/JonathanLu2005/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1080-camelcase-matching](https://github.com/JonathanLu2005/LeetCode/tree/master/1080-camelcase-matching) |
+| [1097-stream-of-characters](https://github.com/JonathanLu2005/LeetCode/tree/master/1097-stream-of-characters) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/JonathanLu2005/LeetCode/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/JonathanLu2005/LeetCode/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/JonathanLu2005/LeetCode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
@@ -791,6 +794,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0386-lexicographical-numbers](https://github.com/JonathanLu2005/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [0648-replace-words](https://github.com/JonathanLu2005/LeetCode/tree/master/0648-replace-words) |
 | [1080-camelcase-matching](https://github.com/JonathanLu2005/LeetCode/tree/master/1080-camelcase-matching) |
+| [1097-stream-of-characters](https://github.com/JonathanLu2005/LeetCode/tree/master/1097-stream-of-characters) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/JonathanLu2005/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/JonathanLu2005/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Iterator
@@ -873,6 +877,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/JonathanLu2005/LeetCode/tree/master/0295-find-median-from-data-stream) |
+| [1097-stream-of-characters](https://github.com/JonathanLu2005/LeetCode/tree/master/1097-stream-of-characters) |
 | [1953-finding-mk-average](https://github.com/JonathanLu2005/LeetCode/tree/master/1953-finding-mk-average) |
 ## Ordered Set
 |  |
