@@ -303,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/JonathanLu2005/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/JonathanLu2005/LeetCode/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/JonathanLu2005/LeetCode/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/JonathanLu2005/LeetCode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/JonathanLu2005/LeetCode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/JonathanLu2005/LeetCode/tree/master/0412-fizz-buzz) |
 | [0805-escape-the-ghosts](https://github.com/JonathanLu2005/LeetCode/tree/master/0805-escape-the-ghosts) |
@@ -741,6 +742,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/JonathanLu2005/LeetCode/tree/master/0258-add-digits) |
 | [0289-game-of-life](https://github.com/JonathanLu2005/LeetCode/tree/master/0289-game-of-life) |
 | [0412-fizz-buzz](https://github.com/JonathanLu2005/LeetCode/tree/master/0412-fizz-buzz) |
 | [0498-diagonal-traverse](https://github.com/JonathanLu2005/LeetCode/tree/master/0498-diagonal-traverse) |
@@ -832,6 +834,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/JonathanLu2005/LeetCode/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/JonathanLu2005/LeetCode/tree/master/0258-add-digits) |
 | [2491-smallest-even-multiple](https://github.com/JonathanLu2005/LeetCode/tree/master/2491-smallest-even-multiple) |
 | [2873-prime-pairs-with-target-sum](https://github.com/JonathanLu2005/LeetCode/tree/master/2873-prime-pairs-with-target-sum) |
 ## Probability and Statistics
