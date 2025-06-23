@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1562-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list](https://github.com/JonathanLu2005/LeetCode/tree/master/1562-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/JonathanLu2005/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1635-number-of-good-pairs](https://github.com/JonathanLu2005/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [1677-matrix-diagonal-sum](https://github.com/JonathanLu2005/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/JonathanLu2005/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1721-maximum-profit-of-operating-a-centennial-wheel](https://github.com/JonathanLu2005/LeetCode/tree/master/1721-maximum-profit-of-operating-a-centennial-wheel) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/JonathanLu2005/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
@@ -605,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1396-count-servers-that-communicate](https://github.com/JonathanLu2005/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/JonathanLu2005/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/JonathanLu2005/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1677-matrix-diagonal-sum](https://github.com/JonathanLu2005/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/JonathanLu2005/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/JonathanLu2005/LeetCode/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2685-first-completely-painted-row-or-column](https://github.com/JonathanLu2005/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
