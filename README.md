@@ -254,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2603-reward-top-k-students](https://github.com/JonathanLu2005/LeetCode/tree/master/2603-reward-top-k-students) |
 | [2604-minimum-operations-to-make-array-equal-ii](https://github.com/JonathanLu2005/LeetCode/tree/master/2604-minimum-operations-to-make-array-equal-ii) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/JonathanLu2005/LeetCode/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
+| [2639-separate-the-digits-in-an-array](https://github.com/JonathanLu2005/LeetCode/tree/master/2639-separate-the-digits-in-an-array) |
 | [2665-minimum-time-to-repair-cars](https://github.com/JonathanLu2005/LeetCode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2685-first-completely-painted-row-or-column](https://github.com/JonathanLu2005/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2714-left-and-right-sum-differences](https://github.com/JonathanLu2005/LeetCode/tree/master/2714-left-and-right-sum-differences) |
@@ -753,6 +754,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2197-decode-the-slanted-ciphertext](https://github.com/JonathanLu2005/LeetCode/tree/master/2197-decode-the-slanted-ciphertext) |
 | [2228-watering-plants-ii](https://github.com/JonathanLu2005/LeetCode/tree/master/2228-watering-plants-ii) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/JonathanLu2005/LeetCode/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
+| [2639-separate-the-digits-in-an-array](https://github.com/JonathanLu2005/LeetCode/tree/master/2639-separate-the-digits-in-an-array) |
 | [2834-relocate-marbles](https://github.com/JonathanLu2005/LeetCode/tree/master/2834-relocate-marbles) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/JonathanLu2005/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/JonathanLu2005/LeetCode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
