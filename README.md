@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/JonathanLu2005/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0648-replace-words](https://github.com/JonathanLu2005/LeetCode/tree/master/0648-replace-words) |
 | [0778-reorganize-string](https://github.com/JonathanLu2005/LeetCode/tree/master/0778-reorganize-string) |
+| [0817-design-hashmap](https://github.com/JonathanLu2005/LeetCode/tree/master/0817-design-hashmap) |
 | [0822-unique-morse-code-words](https://github.com/JonathanLu2005/LeetCode/tree/master/0822-unique-morse-code-words) |
 | [0870-magic-squares-in-grid](https://github.com/JonathanLu2005/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0876-hand-of-straights](https://github.com/JonathanLu2005/LeetCode/tree/master/0876-hand-of-straights) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/JonathanLu2005/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/JonathanLu2005/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/JonathanLu2005/LeetCode/tree/master/0295-find-median-from-data-stream) |
+| [0817-design-hashmap](https://github.com/JonathanLu2005/LeetCode/tree/master/0817-design-hashmap) |
 | [0936-rle-iterator](https://github.com/JonathanLu2005/LeetCode/tree/master/0936-rle-iterator) |
 | [1097-stream-of-characters](https://github.com/JonathanLu2005/LeetCode/tree/master/1097-stream-of-characters) |
 | [1722-throne-inheritance](https://github.com/JonathanLu2005/LeetCode/tree/master/1722-throne-inheritance) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/JonathanLu2005/LeetCode/tree/master/0735-asteroid-collision) |
 | [0769-largest-plus-sign](https://github.com/JonathanLu2005/LeetCode/tree/master/0769-largest-plus-sign) |
 | [0805-escape-the-ghosts](https://github.com/JonathanLu2005/LeetCode/tree/master/0805-escape-the-ghosts) |
+| [0817-design-hashmap](https://github.com/JonathanLu2005/LeetCode/tree/master/0817-design-hashmap) |
 | [0822-unique-morse-code-words](https://github.com/JonathanLu2005/LeetCode/tree/master/0822-unique-morse-code-words) |
 | [0870-magic-squares-in-grid](https://github.com/JonathanLu2005/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0876-hand-of-straights](https://github.com/JonathanLu2005/LeetCode/tree/master/0876-hand-of-straights) |
@@ -299,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/JonathanLu2005/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0146-lru-cache](https://github.com/JonathanLu2005/LeetCode/tree/master/0146-lru-cache) |
 | [0147-insertion-sort-list](https://github.com/JonathanLu2005/LeetCode/tree/master/0147-insertion-sort-list) |
+| [0817-design-hashmap](https://github.com/JonathanLu2005/LeetCode/tree/master/0817-design-hashmap) |
 | [2196-reverse-nodes-in-even-length-groups](https://github.com/JonathanLu2005/LeetCode/tree/master/2196-reverse-nodes-in-even-length-groups) |
 ## Math
 |  |
@@ -924,4 +928,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1953-finding-mk-average](https://github.com/JonathanLu2005/LeetCode/tree/master/1953-finding-mk-average) |
+## Hash Function
+|  |
+| ------- |
+| [0817-design-hashmap](https://github.com/JonathanLu2005/LeetCode/tree/master/0817-design-hashmap) |
 <!---LeetCode Topics End-->
