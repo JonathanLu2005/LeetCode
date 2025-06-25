@@ -402,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1078-remove-outermost-parentheses](https://github.com/JonathanLu2005/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1080-camelcase-matching](https://github.com/JonathanLu2005/LeetCode/tree/master/1080-camelcase-matching) |
 | [1097-stream-of-characters](https://github.com/JonathanLu2005/LeetCode/tree/master/1097-stream-of-characters) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/JonathanLu2005/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/JonathanLu2005/LeetCode/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/JonathanLu2005/LeetCode/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/JonathanLu2005/LeetCode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
@@ -752,6 +753,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/JonathanLu2005/LeetCode/tree/master/0735-asteroid-collision) |
 | [1002-maximum-width-ramp](https://github.com/JonathanLu2005/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1078-remove-outermost-parentheses](https://github.com/JonathanLu2005/LeetCode/tree/master/1078-remove-outermost-parentheses) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/JonathanLu2005/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/JonathanLu2005/LeetCode/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/JonathanLu2005/LeetCode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1582-design-browser-history](https://github.com/JonathanLu2005/LeetCode/tree/master/1582-design-browser-history) |
