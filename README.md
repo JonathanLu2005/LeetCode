@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0870-magic-squares-in-grid](https://github.com/JonathanLu2005/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0876-hand-of-straights](https://github.com/JonathanLu2005/LeetCode/tree/master/0876-hand-of-straights) |
 | [0878-shifting-letters](https://github.com/JonathanLu2005/LeetCode/tree/master/0878-shifting-letters) |
+| [0898-transpose-matrix](https://github.com/JonathanLu2005/LeetCode/tree/master/0898-transpose-matrix) |
 | [0936-rle-iterator](https://github.com/JonathanLu2005/LeetCode/tree/master/0936-rle-iterator) |
 | [0951-partition-array-into-disjoint-intervals](https://github.com/JonathanLu2005/LeetCode/tree/master/0951-partition-array-into-disjoint-intervals) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/JonathanLu2005/LeetCode/tree/master/0987-reveal-cards-in-increasing-order) |
@@ -641,6 +642,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/JonathanLu2005/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/JonathanLu2005/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0870-magic-squares-in-grid](https://github.com/JonathanLu2005/LeetCode/tree/master/0870-magic-squares-in-grid) |
+| [0898-transpose-matrix](https://github.com/JonathanLu2005/LeetCode/tree/master/0898-transpose-matrix) |
 | [1379-reconstruct-a-2-row-binary-matrix](https://github.com/JonathanLu2005/LeetCode/tree/master/1379-reconstruct-a-2-row-binary-matrix) |
 | [1396-count-servers-that-communicate](https://github.com/JonathanLu2005/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/JonathanLu2005/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -794,6 +796,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/JonathanLu2005/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/JonathanLu2005/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0735-asteroid-collision](https://github.com/JonathanLu2005/LeetCode/tree/master/0735-asteroid-collision) |
+| [0898-transpose-matrix](https://github.com/JonathanLu2005/LeetCode/tree/master/0898-transpose-matrix) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/JonathanLu2005/LeetCode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1312-count-artifacts-that-can-be-extracted](https://github.com/JonathanLu2005/LeetCode/tree/master/1312-count-artifacts-that-can-be-extracted) |
 | [1721-maximum-profit-of-operating-a-centennial-wheel](https://github.com/JonathanLu2005/LeetCode/tree/master/1721-maximum-profit-of-operating-a-centennial-wheel) |
