@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-count-square-submatrices-with-all-ones](https://github.com/JonathanLu2005/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/JonathanLu2005/LeetCode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/JonathanLu2005/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/JonathanLu2005/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/JonathanLu2005/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/JonathanLu2005/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/JonathanLu2005/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -469,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/JonathanLu2005/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0713-subarray-product-less-than-k](https://github.com/JonathanLu2005/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/JonathanLu2005/LeetCode/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/JonathanLu2005/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/JonathanLu2005/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/JonathanLu2005/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2437-maximum-number-of-groups-entering-a-competition](https://github.com/JonathanLu2005/LeetCode/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
@@ -636,6 +638,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1379-reconstruct-a-2-row-binary-matrix](https://github.com/JonathanLu2005/LeetCode/tree/master/1379-reconstruct-a-2-row-binary-matrix) |
 | [1396-count-servers-that-communicate](https://github.com/JonathanLu2005/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/JonathanLu2005/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/JonathanLu2005/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/JonathanLu2005/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/JonathanLu2005/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/JonathanLu2005/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
