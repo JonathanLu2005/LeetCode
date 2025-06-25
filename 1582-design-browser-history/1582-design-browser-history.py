@@ -5,6 +5,7 @@ class BrowserHistory:
         self.right = []
 
     def visit(self, url: str) -> None:
+        # had to remove right
         self.left.append(url)
         self.right = []
 
