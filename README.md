@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0654-maximum-binary-tree](https://github.com/JonathanLu2005/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/JonathanLu2005/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0930-all-possible-full-binary-trees](https://github.com/JonathanLu2005/LeetCode/tree/master/0930-all-possible-full-binary-trees) |
+| [0955-complete-binary-tree-inserter](https://github.com/JonathanLu2005/LeetCode/tree/master/0955-complete-binary-tree-inserter) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/JonathanLu2005/LeetCode/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/JonathanLu2005/LeetCode/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1722-throne-inheritance](https://github.com/JonathanLu2005/LeetCode/tree/master/1722-throne-inheritance) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0816-design-hashset](https://github.com/JonathanLu2005/LeetCode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/JonathanLu2005/LeetCode/tree/master/0817-design-hashmap) |
 | [0936-rle-iterator](https://github.com/JonathanLu2005/LeetCode/tree/master/0936-rle-iterator) |
+| [0955-complete-binary-tree-inserter](https://github.com/JonathanLu2005/LeetCode/tree/master/0955-complete-binary-tree-inserter) |
 | [1097-stream-of-characters](https://github.com/JonathanLu2005/LeetCode/tree/master/1097-stream-of-characters) |
 | [1582-design-browser-history](https://github.com/JonathanLu2005/LeetCode/tree/master/1582-design-browser-history) |
 | [1722-throne-inheritance](https://github.com/JonathanLu2005/LeetCode/tree/master/1722-throne-inheritance) |
@@ -691,6 +693,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0654-maximum-binary-tree](https://github.com/JonathanLu2005/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/JonathanLu2005/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0930-all-possible-full-binary-trees](https://github.com/JonathanLu2005/LeetCode/tree/master/0930-all-possible-full-binary-trees) |
+| [0955-complete-binary-tree-inserter](https://github.com/JonathanLu2005/LeetCode/tree/master/0955-complete-binary-tree-inserter) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/JonathanLu2005/LeetCode/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/JonathanLu2005/LeetCode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Brainteaser
@@ -712,6 +715,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/JonathanLu2005/LeetCode/tree/master/0133-clone-graph) |
 | [0684-redundant-connection](https://github.com/JonathanLu2005/LeetCode/tree/master/0684-redundant-connection) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/JonathanLu2005/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [0955-complete-binary-tree-inserter](https://github.com/JonathanLu2005/LeetCode/tree/master/0955-complete-binary-tree-inserter) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/JonathanLu2005/LeetCode/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/JonathanLu2005/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/JonathanLu2005/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
