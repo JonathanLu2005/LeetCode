@@ -374,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2811-determine-the-minimum-sum-of-a-k-avoiding-array](https://github.com/JonathanLu2005/LeetCode/tree/master/2811-determine-the-minimum-sum-of-a-k-avoiding-array) |
 | [2850-construct-the-longest-new-string](https://github.com/JonathanLu2005/LeetCode/tree/master/2850-construct-the-longest-new-string) |
 | [2873-prime-pairs-with-target-sum](https://github.com/JonathanLu2005/LeetCode/tree/master/2873-prime-pairs-with-target-sum) |
+| [3056-determine-if-a-cell-is-reachable-at-a-given-time](https://github.com/JonathanLu2005/LeetCode/tree/master/3056-determine-if-a-cell-is-reachable-at-a-given-time) |
 | [3227-find-missing-and-repeated-values](https://github.com/JonathanLu2005/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3337-count-substrings-starting-and-ending-with-given-character](https://github.com/JonathanLu2005/LeetCode/tree/master/3337-count-substrings-starting-and-ending-with-given-character) |
 | [3374-count-alternating-subarrays](https://github.com/JonathanLu2005/LeetCode/tree/master/3374-count-alternating-subarrays) |
