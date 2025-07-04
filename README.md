@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/JonathanLu2005/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/JonathanLu2005/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/JonathanLu2005/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3502-count-substrings-with-k-frequency-characters-i](https://github.com/JonathanLu2005/LeetCode/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/JonathanLu2005/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3634-find-mirror-score-of-a-string](https://github.com/JonathanLu2005/LeetCode/tree/master/3634-find-mirror-score-of-a-string) |
 | [3707-find-the-most-common-response](https://github.com/JonathanLu2005/LeetCode/tree/master/3707-find-the-most-common-response) |
@@ -464,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/JonathanLu2005/LeetCode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/JonathanLu2005/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3462-vowels-game-in-a-string](https://github.com/JonathanLu2005/LeetCode/tree/master/3462-vowels-game-in-a-string) |
+| [3502-count-substrings-with-k-frequency-characters-i](https://github.com/JonathanLu2005/LeetCode/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
 | [3634-find-mirror-score-of-a-string](https://github.com/JonathanLu2005/LeetCode/tree/master/3634-find-mirror-score-of-a-string) |
 | [3707-find-the-most-common-response](https://github.com/JonathanLu2005/LeetCode/tree/master/3707-find-the-most-common-response) |
 | [3732-calculate-score-after-performing-instructions](https://github.com/JonathanLu2005/LeetCode/tree/master/3732-calculate-score-after-performing-instructions) |
@@ -482,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1138-grumpy-bookstore-owner](https://github.com/JonathanLu2005/LeetCode/tree/master/1138-grumpy-bookstore-owner) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/JonathanLu2005/LeetCode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/JonathanLu2005/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [3502-count-substrings-with-k-frequency-characters-i](https://github.com/JonathanLu2005/LeetCode/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
 ## Binary Search
 |  |
 | ------- |
