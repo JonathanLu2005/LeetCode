@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3707-find-the-most-common-response](https://github.com/JonathanLu2005/LeetCode/tree/master/3707-find-the-most-common-response) |
 | [3732-calculate-score-after-performing-instructions](https://github.com/JonathanLu2005/LeetCode/tree/master/3732-calculate-score-after-performing-instructions) |
 | [3797-design-spreadsheet](https://github.com/JonathanLu2005/LeetCode/tree/master/3797-design-spreadsheet) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/JonathanLu2005/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Tree
 |  |
 | ------- |
@@ -476,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3811-reverse-degree-of-a-string](https://github.com/JonathanLu2005/LeetCode/tree/master/3811-reverse-degree-of-a-string) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/JonathanLu2005/LeetCode/tree/master/3812-smallest-palindromic-rearrangement-i) |
 | [3860-resulting-string-after-adjacent-removals](https://github.com/JonathanLu2005/LeetCode/tree/master/3860-resulting-string-after-adjacent-removals) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/JonathanLu2005/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sliding Window
 |  |
 | ------- |
@@ -890,6 +892,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/JonathanLu2005/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/JonathanLu2005/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3707-find-the-most-common-response](https://github.com/JonathanLu2005/LeetCode/tree/master/3707-find-the-most-common-response) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/JonathanLu2005/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Trie
 |  |
 | ------- |
