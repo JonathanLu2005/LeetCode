@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2226-rings-and-rods](https://github.com/JonathanLu2005/LeetCode/tree/master/2226-rings-and-rods) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/JonathanLu2005/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/JonathanLu2005/LeetCode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
+| [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/JonathanLu2005/LeetCode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2427-first-letter-to-appear-twice](https://github.com/JonathanLu2005/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 | [2433-best-poker-hand](https://github.com/JonathanLu2005/LeetCode/tree/master/2433-best-poker-hand) |
 | [2448-count-number-of-bad-pairs](https://github.com/JonathanLu2005/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
@@ -453,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2232-adding-spaces-to-a-string](https://github.com/JonathanLu2005/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/JonathanLu2005/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/JonathanLu2005/LeetCode/tree/master/2243-check-if-all-as-appears-before-all-bs) |
+| [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/JonathanLu2005/LeetCode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2389-design-a-text-editor](https://github.com/JonathanLu2005/LeetCode/tree/master/2389-design-a-text-editor) |
 | [2427-first-letter-to-appear-twice](https://github.com/JonathanLu2005/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 | [2487-optimal-partition-of-string](https://github.com/JonathanLu2005/LeetCode/tree/master/2487-optimal-partition-of-string) |
@@ -881,6 +883,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2163-kth-distinct-string-in-an-array](https://github.com/JonathanLu2005/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/JonathanLu2005/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/JonathanLu2005/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/JonathanLu2005/LeetCode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2427-first-letter-to-appear-twice](https://github.com/JonathanLu2005/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 | [2433-best-poker-hand](https://github.com/JonathanLu2005/LeetCode/tree/master/2433-best-poker-hand) |
 | [2448-count-number-of-bad-pairs](https://github.com/JonathanLu2005/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
