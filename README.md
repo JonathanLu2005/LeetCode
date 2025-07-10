@@ -271,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2163-kth-distinct-string-in-an-array](https://github.com/JonathanLu2005/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/JonathanLu2005/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/JonathanLu2005/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2219-maximum-number-of-words-found-in-sentences](https://github.com/JonathanLu2005/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2228-watering-plants-ii](https://github.com/JonathanLu2005/LeetCode/tree/master/2228-watering-plants-ii) |
 | [2232-adding-spaces-to-a-string](https://github.com/JonathanLu2005/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/JonathanLu2005/LeetCode/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
@@ -450,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/JonathanLu2005/LeetCode/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/JonathanLu2005/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2197-decode-the-slanted-ciphertext](https://github.com/JonathanLu2005/LeetCode/tree/master/2197-decode-the-slanted-ciphertext) |
+| [2219-maximum-number-of-words-found-in-sentences](https://github.com/JonathanLu2005/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2226-rings-and-rods](https://github.com/JonathanLu2005/LeetCode/tree/master/2226-rings-and-rods) |
 | [2232-adding-spaces-to-a-string](https://github.com/JonathanLu2005/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/JonathanLu2005/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
