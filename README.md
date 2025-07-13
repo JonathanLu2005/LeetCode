@@ -288,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2448-count-number-of-bad-pairs](https://github.com/JonathanLu2005/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2486-most-frequent-even-element](https://github.com/JonathanLu2005/LeetCode/tree/master/2486-most-frequent-even-element) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/JonathanLu2005/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/JonathanLu2005/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2502-sort-the-people](https://github.com/JonathanLu2005/LeetCode/tree/master/2502-sort-the-people) |
 | [2539-minimum-number-of-operations-to-make-arrays-similar](https://github.com/JonathanLu2005/LeetCode/tree/master/2539-minimum-number-of-operations-to-make-arrays-similar) |
 | [2590-maximum-star-sum-of-a-graph](https://github.com/JonathanLu2005/LeetCode/tree/master/2590-maximum-star-sum-of-a-graph) |
@@ -547,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2128-reverse-prefix-of-word](https://github.com/JonathanLu2005/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2228-watering-plants-ii](https://github.com/JonathanLu2005/LeetCode/tree/master/2228-watering-plants-ii) |
 | [2232-adding-spaces-to-a-string](https://github.com/JonathanLu2005/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/JonathanLu2005/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3195-separate-black-and-white-balls](https://github.com/JonathanLu2005/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/JonathanLu2005/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Dynamic Programming
@@ -600,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/JonathanLu2005/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2437-maximum-number-of-groups-entering-a-competition](https://github.com/JonathanLu2005/LeetCode/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
 | [2487-optimal-partition-of-string](https://github.com/JonathanLu2005/LeetCode/tree/master/2487-optimal-partition-of-string) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/JonathanLu2005/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2539-minimum-number-of-operations-to-make-arrays-similar](https://github.com/JonathanLu2005/LeetCode/tree/master/2539-minimum-number-of-operations-to-make-arrays-similar) |
 | [2590-maximum-star-sum-of-a-graph](https://github.com/JonathanLu2005/LeetCode/tree/master/2590-maximum-star-sum-of-a-graph) |
 | [2604-minimum-operations-to-make-array-equal-ii](https://github.com/JonathanLu2005/LeetCode/tree/master/2604-minimum-operations-to-make-array-equal-ii) |
@@ -636,6 +639,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2210-find-target-indices-after-sorting-array](https://github.com/JonathanLu2005/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2245-destroying-asteroids](https://github.com/JonathanLu2005/LeetCode/tree/master/2245-destroying-asteroids) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/JonathanLu2005/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/JonathanLu2005/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2502-sort-the-people](https://github.com/JonathanLu2005/LeetCode/tree/master/2502-sort-the-people) |
 | [2539-minimum-number-of-operations-to-make-arrays-similar](https://github.com/JonathanLu2005/LeetCode/tree/master/2539-minimum-number-of-operations-to-make-arrays-similar) |
 | [2590-maximum-star-sum-of-a-graph](https://github.com/JonathanLu2005/LeetCode/tree/master/2590-maximum-star-sum-of-a-graph) |
