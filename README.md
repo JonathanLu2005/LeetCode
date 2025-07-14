@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-distant-barcodes](https://github.com/JonathanLu2005/LeetCode/tree/master/1140-distant-barcodes) |
 | [1256-rank-transform-of-an-array](https://github.com/JonathanLu2005/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/JonathanLu2005/LeetCode/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
+| [1294-range-frequency-queries](https://github.com/JonathanLu2005/LeetCode/tree/master/1294-range-frequency-queries) |
 | [1312-count-artifacts-that-can-be-extracted](https://github.com/JonathanLu2005/LeetCode/tree/master/1312-count-artifacts-that-can-be-extracted) |
 | [1319-unique-number-of-occurrences](https://github.com/JonathanLu2005/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/JonathanLu2005/LeetCode/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0955-complete-binary-tree-inserter](https://github.com/JonathanLu2005/LeetCode/tree/master/0955-complete-binary-tree-inserter) |
 | [1023-time-based-key-value-store](https://github.com/JonathanLu2005/LeetCode/tree/master/1023-time-based-key-value-store) |
 | [1097-stream-of-characters](https://github.com/JonathanLu2005/LeetCode/tree/master/1097-stream-of-characters) |
+| [1294-range-frequency-queries](https://github.com/JonathanLu2005/LeetCode/tree/master/1294-range-frequency-queries) |
 | [1582-design-browser-history](https://github.com/JonathanLu2005/LeetCode/tree/master/1582-design-browser-history) |
 | [1722-throne-inheritance](https://github.com/JonathanLu2005/LeetCode/tree/master/1722-throne-inheritance) |
 | [1905-design-authentication-manager](https://github.com/JonathanLu2005/LeetCode/tree/master/1905-design-authentication-manager) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1196-filling-bookcase-shelves](https://github.com/JonathanLu2005/LeetCode/tree/master/1196-filling-bookcase-shelves) |
 | [1256-rank-transform-of-an-array](https://github.com/JonathanLu2005/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/JonathanLu2005/LeetCode/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
+| [1294-range-frequency-queries](https://github.com/JonathanLu2005/LeetCode/tree/master/1294-range-frequency-queries) |
 | [1312-count-artifacts-that-can-be-extracted](https://github.com/JonathanLu2005/LeetCode/tree/master/1312-count-artifacts-that-can-be-extracted) |
 | [1319-unique-number-of-occurrences](https://github.com/JonathanLu2005/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/JonathanLu2005/LeetCode/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
@@ -511,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/JonathanLu2005/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [1023-time-based-key-value-store](https://github.com/JonathanLu2005/LeetCode/tree/master/1023-time-based-key-value-store) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/JonathanLu2005/LeetCode/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
+| [1294-range-frequency-queries](https://github.com/JonathanLu2005/LeetCode/tree/master/1294-range-frequency-queries) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/JonathanLu2005/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/JonathanLu2005/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/JonathanLu2005/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
@@ -1018,4 +1022,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0816-design-hashset](https://github.com/JonathanLu2005/LeetCode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/JonathanLu2005/LeetCode/tree/master/0817-design-hashmap) |
+## Segment Tree
+|  |
+| ------- |
+| [1294-range-frequency-queries](https://github.com/JonathanLu2005/LeetCode/tree/master/1294-range-frequency-queries) |
 <!---LeetCode Topics End-->
