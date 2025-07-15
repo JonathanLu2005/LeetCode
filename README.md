@@ -276,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2190-count-common-words-with-one-occurrence](https://github.com/JonathanLu2005/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/JonathanLu2005/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/JonathanLu2005/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2227-sum-of-subarray-ranges](https://github.com/JonathanLu2005/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
 | [2228-watering-plants-ii](https://github.com/JonathanLu2005/LeetCode/tree/master/2228-watering-plants-ii) |
 | [2232-adding-spaces-to-a-string](https://github.com/JonathanLu2005/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/JonathanLu2005/LeetCode/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
@@ -812,6 +813,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/JonathanLu2005/LeetCode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1582-design-browser-history](https://github.com/JonathanLu2005/LeetCode/tree/master/1582-design-browser-history) |
 | [2128-reverse-prefix-of-word](https://github.com/JonathanLu2005/LeetCode/tree/master/2128-reverse-prefix-of-word) |
+| [2227-sum-of-subarray-ranges](https://github.com/JonathanLu2005/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
 | [2389-design-a-text-editor](https://github.com/JonathanLu2005/LeetCode/tree/master/2389-design-a-text-editor) |
 | [3634-find-mirror-score-of-a-string](https://github.com/JonathanLu2005/LeetCode/tree/master/3634-find-mirror-score-of-a-string) |
 | [3860-resulting-string-after-adjacent-removals](https://github.com/JonathanLu2005/LeetCode/tree/master/3860-resulting-string-after-adjacent-removals) |
@@ -820,6 +822,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0654-maximum-binary-tree](https://github.com/JonathanLu2005/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [1002-maximum-width-ramp](https://github.com/JonathanLu2005/LeetCode/tree/master/1002-maximum-width-ramp) |
+| [2227-sum-of-subarray-ranges](https://github.com/JonathanLu2005/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
 ## Union Find
 |  |
 | ------- |
