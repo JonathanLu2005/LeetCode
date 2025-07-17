@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/JonathanLu2005/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/JonathanLu2005/LeetCode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/JonathanLu2005/LeetCode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
+| [2406-decode-the-message](https://github.com/JonathanLu2005/LeetCode/tree/master/2406-decode-the-message) |
 | [2427-first-letter-to-appear-twice](https://github.com/JonathanLu2005/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 | [2433-best-poker-hand](https://github.com/JonathanLu2005/LeetCode/tree/master/2433-best-poker-hand) |
 | [2448-count-number-of-bad-pairs](https://github.com/JonathanLu2005/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
@@ -468,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/JonathanLu2005/LeetCode/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/JonathanLu2005/LeetCode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2389-design-a-text-editor](https://github.com/JonathanLu2005/LeetCode/tree/master/2389-design-a-text-editor) |
+| [2406-decode-the-message](https://github.com/JonathanLu2005/LeetCode/tree/master/2406-decode-the-message) |
 | [2427-first-letter-to-appear-twice](https://github.com/JonathanLu2005/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 | [2487-optimal-partition-of-string](https://github.com/JonathanLu2005/LeetCode/tree/master/2487-optimal-partition-of-string) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/JonathanLu2005/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
