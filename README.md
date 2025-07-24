@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/JonathanLu2005/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0229-majority-element-ii](https://github.com/JonathanLu2005/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/JonathanLu2005/LeetCode/tree/master/0268-missing-number) |
+| [0383-ransom-note](https://github.com/JonathanLu2005/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/JonathanLu2005/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/JonathanLu2005/LeetCode/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/JonathanLu2005/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -425,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/JonathanLu2005/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0208-implement-trie-prefix-tree](https://github.com/JonathanLu2005/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0344-reverse-string](https://github.com/JonathanLu2005/LeetCode/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/JonathanLu2005/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/JonathanLu2005/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/JonathanLu2005/LeetCode/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/JonathanLu2005/LeetCode/tree/master/0412-fizz-buzz) |
@@ -894,6 +896,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/JonathanLu2005/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/JonathanLu2005/LeetCode/tree/master/0229-majority-element-ii) |
+| [0383-ransom-note](https://github.com/JonathanLu2005/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/JonathanLu2005/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0778-reorganize-string](https://github.com/JonathanLu2005/LeetCode/tree/master/0778-reorganize-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/JonathanLu2005/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
