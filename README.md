@@ -267,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1923-sentence-similarity-iii](https://github.com/JonathanLu2005/LeetCode/tree/master/1923-sentence-similarity-iii) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/JonathanLu2005/LeetCode/tree/master/1925-count-nice-pairs-in-an-array) |
 | [1935-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/JonathanLu2005/LeetCode/tree/master/1935-minimum-number-of-operations-to-reinitialize-a-permutation) |
+| [1944-truncate-sentence](https://github.com/JonathanLu2005/LeetCode/tree/master/1944-truncate-sentence) |
 | [1945-finding-the-users-active-minutes](https://github.com/JonathanLu2005/LeetCode/tree/master/1945-finding-the-users-active-minutes) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/JonathanLu2005/LeetCode/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/JonathanLu2005/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -458,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1797-goal-parser-interpretation](https://github.com/JonathanLu2005/LeetCode/tree/master/1797-goal-parser-interpretation) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/JonathanLu2005/LeetCode/tree/master/1885-count-number-of-homogenous-substrings) |
 | [1923-sentence-similarity-iii](https://github.com/JonathanLu2005/LeetCode/tree/master/1923-sentence-similarity-iii) |
+| [1944-truncate-sentence](https://github.com/JonathanLu2005/LeetCode/tree/master/1944-truncate-sentence) |
 | [1954-replace-all-digits-with-characters](https://github.com/JonathanLu2005/LeetCode/tree/master/1954-replace-all-digits-with-characters) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/JonathanLu2005/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1970-sorting-the-sentence](https://github.com/JonathanLu2005/LeetCode/tree/master/1970-sorting-the-sentence) |
