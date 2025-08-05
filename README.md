@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3707-find-the-most-common-response](https://github.com/JonathanLu2005/LeetCode/tree/master/3707-find-the-most-common-response) |
 | [3732-calculate-score-after-performing-instructions](https://github.com/JonathanLu2005/LeetCode/tree/master/3732-calculate-score-after-performing-instructions) |
 | [3797-design-spreadsheet](https://github.com/JonathanLu2005/LeetCode/tree/master/3797-design-spreadsheet) |
+| [3819-count-covered-buildings](https://github.com/JonathanLu2005/LeetCode/tree/master/3819-count-covered-buildings) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/JonathanLu2005/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Tree
 |  |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3732-calculate-score-after-performing-instructions](https://github.com/JonathanLu2005/LeetCode/tree/master/3732-calculate-score-after-performing-instructions) |
 | [3748-sort-matrix-by-diagonals](https://github.com/JonathanLu2005/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3797-design-spreadsheet](https://github.com/JonathanLu2005/LeetCode/tree/master/3797-design-spreadsheet) |
+| [3819-count-covered-buildings](https://github.com/JonathanLu2005/LeetCode/tree/master/3819-count-covered-buildings) |
 ## Linked List
 |  |
 | ------- |
@@ -685,6 +687,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/JonathanLu2005/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3748-sort-matrix-by-diagonals](https://github.com/JonathanLu2005/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/JonathanLu2005/LeetCode/tree/master/3812-smallest-palindromic-rearrangement-i) |
+| [3819-count-covered-buildings](https://github.com/JonathanLu2005/LeetCode/tree/master/3819-count-covered-buildings) |
 ## Backtracking
 |  |
 | ------- |
