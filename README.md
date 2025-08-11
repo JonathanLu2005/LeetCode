@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2486-most-frequent-even-element](https://github.com/JonathanLu2005/LeetCode/tree/master/2486-most-frequent-even-element) |
 | [2487-optimal-partition-of-string](https://github.com/JonathanLu2005/LeetCode/tree/master/2487-optimal-partition-of-string) |
 | [2502-sort-the-people](https://github.com/JonathanLu2005/LeetCode/tree/master/2502-sort-the-people) |
+| [2594-count-pairs-of-similar-strings](https://github.com/JonathanLu2005/LeetCode/tree/master/2594-count-pairs-of-similar-strings) |
 | [2603-reward-top-k-students](https://github.com/JonathanLu2005/LeetCode/tree/master/2603-reward-top-k-students) |
 | [2685-first-completely-painted-row-or-column](https://github.com/JonathanLu2005/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/JonathanLu2005/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/JonathanLu2005/LeetCode/tree/master/2502-sort-the-people) |
 | [2539-minimum-number-of-operations-to-make-arrays-similar](https://github.com/JonathanLu2005/LeetCode/tree/master/2539-minimum-number-of-operations-to-make-arrays-similar) |
 | [2590-maximum-star-sum-of-a-graph](https://github.com/JonathanLu2005/LeetCode/tree/master/2590-maximum-star-sum-of-a-graph) |
+| [2594-count-pairs-of-similar-strings](https://github.com/JonathanLu2005/LeetCode/tree/master/2594-count-pairs-of-similar-strings) |
 | [2603-reward-top-k-students](https://github.com/JonathanLu2005/LeetCode/tree/master/2603-reward-top-k-students) |
 | [2604-minimum-operations-to-make-array-equal-ii](https://github.com/JonathanLu2005/LeetCode/tree/master/2604-minimum-operations-to-make-array-equal-ii) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/JonathanLu2005/LeetCode/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
@@ -498,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2487-optimal-partition-of-string](https://github.com/JonathanLu2005/LeetCode/tree/master/2487-optimal-partition-of-string) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/JonathanLu2005/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2502-sort-the-people](https://github.com/JonathanLu2005/LeetCode/tree/master/2502-sort-the-people) |
+| [2594-count-pairs-of-similar-strings](https://github.com/JonathanLu2005/LeetCode/tree/master/2594-count-pairs-of-similar-strings) |
 | [2603-reward-top-k-students](https://github.com/JonathanLu2005/LeetCode/tree/master/2603-reward-top-k-students) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/JonathanLu2005/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2881-split-strings-by-separator](https://github.com/JonathanLu2005/LeetCode/tree/master/2881-split-strings-by-separator) |
@@ -754,6 +757,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/JonathanLu2005/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2159-two-out-of-three](https://github.com/JonathanLu2005/LeetCode/tree/master/2159-two-out-of-three) |
 | [2427-first-letter-to-appear-twice](https://github.com/JonathanLu2005/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
+| [2594-count-pairs-of-similar-strings](https://github.com/JonathanLu2005/LeetCode/tree/master/2594-count-pairs-of-similar-strings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/JonathanLu2005/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Binary Search Tree
 |  |
@@ -947,6 +951,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2448-count-number-of-bad-pairs](https://github.com/JonathanLu2005/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2486-most-frequent-even-element](https://github.com/JonathanLu2005/LeetCode/tree/master/2486-most-frequent-even-element) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/JonathanLu2005/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
+| [2594-count-pairs-of-similar-strings](https://github.com/JonathanLu2005/LeetCode/tree/master/2594-count-pairs-of-similar-strings) |
 | [3308-apply-operations-to-make-string-empty](https://github.com/JonathanLu2005/LeetCode/tree/master/3308-apply-operations-to-make-string-empty) |
 | [3337-count-substrings-starting-and-ending-with-given-character](https://github.com/JonathanLu2005/LeetCode/tree/master/3337-count-substrings-starting-and-ending-with-given-character) |
 | [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/JonathanLu2005/LeetCode/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
