@@ -375,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/JonathanLu2005/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/JonathanLu2005/LeetCode/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/JonathanLu2005/LeetCode/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/JonathanLu2005/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/JonathanLu2005/LeetCode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/JonathanLu2005/LeetCode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/JonathanLu2005/LeetCode/tree/master/0412-fizz-buzz) |
@@ -423,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/JonathanLu2005/LeetCode/tree/master/0002-add-two-numbers) |
+| [0231-power-of-two](https://github.com/JonathanLu2005/LeetCode/tree/master/0231-power-of-two) |
 | [0930-all-possible-full-binary-trees](https://github.com/JonathanLu2005/LeetCode/tree/master/0930-all-possible-full-binary-trees) |
 | [2050-count-good-numbers](https://github.com/JonathanLu2005/LeetCode/tree/master/2050-count-good-numbers) |
 ## String
@@ -754,6 +756,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/JonathanLu2005/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/JonathanLu2005/LeetCode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/JonathanLu2005/LeetCode/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/JonathanLu2005/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/JonathanLu2005/LeetCode/tree/master/0268-missing-number) |
 | [0476-number-complement](https://github.com/JonathanLu2005/LeetCode/tree/master/0476-number-complement) |
 | [0994-prison-cells-after-n-days](https://github.com/JonathanLu2005/LeetCode/tree/master/0994-prison-cells-after-n-days) |
