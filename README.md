@@ -260,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/JonathanLu2005/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1547-destination-city](https://github.com/JonathanLu2005/LeetCode/tree/master/1547-destination-city) |
 | [1562-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list](https://github.com/JonathanLu2005/LeetCode/tree/master/1562-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list) |
+| [1581-the-k-strongest-values-in-an-array](https://github.com/JonathanLu2005/LeetCode/tree/master/1581-the-k-strongest-values-in-an-array) |
 | [1582-design-browser-history](https://github.com/JonathanLu2005/LeetCode/tree/master/1582-design-browser-history) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/JonathanLu2005/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1635-number-of-good-pairs](https://github.com/JonathanLu2005/LeetCode/tree/master/1635-number-of-good-pairs) |
@@ -599,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/JonathanLu2005/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1002-maximum-width-ramp](https://github.com/JonathanLu2005/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1080-camelcase-matching](https://github.com/JonathanLu2005/LeetCode/tree/master/1080-camelcase-matching) |
+| [1581-the-k-strongest-values-in-an-array](https://github.com/JonathanLu2005/LeetCode/tree/master/1581-the-k-strongest-values-in-an-array) |
 | [1874-form-array-by-concatenating-subarrays-of-another-array](https://github.com/JonathanLu2005/LeetCode/tree/master/1874-form-array-by-concatenating-subarrays-of-another-array) |
 | [1923-sentence-similarity-iii](https://github.com/JonathanLu2005/LeetCode/tree/master/1923-sentence-similarity-iii) |
 | [2128-reverse-prefix-of-word](https://github.com/JonathanLu2005/LeetCode/tree/master/2128-reverse-prefix-of-word) |
@@ -692,6 +694,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1388-greatest-sum-divisible-by-three](https://github.com/JonathanLu2005/LeetCode/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/JonathanLu2005/LeetCode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/JonathanLu2005/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1581-the-k-strongest-values-in-an-array](https://github.com/JonathanLu2005/LeetCode/tree/master/1581-the-k-strongest-values-in-an-array) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/JonathanLu2005/LeetCode/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [1970-sorting-the-sentence](https://github.com/JonathanLu2005/LeetCode/tree/master/1970-sorting-the-sentence) |
 | [2049-eliminate-maximum-number-of-monsters](https://github.com/JonathanLu2005/LeetCode/tree/master/2049-eliminate-maximum-number-of-monsters) |
