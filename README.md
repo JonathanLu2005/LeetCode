@@ -463,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0878-shifting-letters](https://github.com/JonathanLu2005/LeetCode/tree/master/0878-shifting-letters) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/JonathanLu2005/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1023-time-based-key-value-store](https://github.com/JonathanLu2005/LeetCode/tree/master/1023-time-based-key-value-store) |
+| [1045-check-if-word-is-valid-after-substitutions](https://github.com/JonathanLu2005/LeetCode/tree/master/1045-check-if-word-is-valid-after-substitutions) |
 | [1078-remove-outermost-parentheses](https://github.com/JonathanLu2005/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1080-camelcase-matching](https://github.com/JonathanLu2005/LeetCode/tree/master/1080-camelcase-matching) |
 | [1097-stream-of-characters](https://github.com/JonathanLu2005/LeetCode/tree/master/1097-stream-of-characters) |
@@ -868,6 +869,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0654-maximum-binary-tree](https://github.com/JonathanLu2005/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [0735-asteroid-collision](https://github.com/JonathanLu2005/LeetCode/tree/master/0735-asteroid-collision) |
 | [1002-maximum-width-ramp](https://github.com/JonathanLu2005/LeetCode/tree/master/1002-maximum-width-ramp) |
+| [1045-check-if-word-is-valid-after-substitutions](https://github.com/JonathanLu2005/LeetCode/tree/master/1045-check-if-word-is-valid-after-substitutions) |
 | [1078-remove-outermost-parentheses](https://github.com/JonathanLu2005/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/JonathanLu2005/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/JonathanLu2005/LeetCode/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
