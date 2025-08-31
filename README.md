@@ -255,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/JonathanLu2005/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/JonathanLu2005/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/JonathanLu2005/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1491-number-of-times-binary-string-is-prefix-aligned](https://github.com/JonathanLu2005/LeetCode/tree/master/1491-number-of-times-binary-string-is-prefix-aligned) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/JonathanLu2005/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/JonathanLu2005/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/JonathanLu2005/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
