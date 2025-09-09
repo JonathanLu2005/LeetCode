@@ -416,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2437-maximum-number-of-groups-entering-a-competition](https://github.com/JonathanLu2005/LeetCode/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
 | [2448-count-number-of-bad-pairs](https://github.com/JonathanLu2005/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2491-smallest-even-multiple](https://github.com/JonathanLu2005/LeetCode/tree/master/2491-smallest-even-multiple) |
+| [2507-number-of-common-factors](https://github.com/JonathanLu2005/LeetCode/tree/master/2507-number-of-common-factors) |
 | [2541-sum-of-number-and-its-reverse](https://github.com/JonathanLu2005/LeetCode/tree/master/2541-sum-of-number-and-its-reverse) |
 | [2556-convert-the-temperature](https://github.com/JonathanLu2005/LeetCode/tree/master/2556-convert-the-temperature) |
 | [2604-minimum-operations-to-make-array-equal-ii](https://github.com/JonathanLu2005/LeetCode/tree/master/2604-minimum-operations-to-make-array-equal-ii) |
@@ -1016,6 +1017,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/JonathanLu2005/LeetCode/tree/master/0204-count-primes) |
+| [2507-number-of-common-factors](https://github.com/JonathanLu2005/LeetCode/tree/master/2507-number-of-common-factors) |
 | [2541-sum-of-number-and-its-reverse](https://github.com/JonathanLu2005/LeetCode/tree/master/2541-sum-of-number-and-its-reverse) |
 | [2873-prime-pairs-with-target-sum](https://github.com/JonathanLu2005/LeetCode/tree/master/2873-prime-pairs-with-target-sum) |
 ## Prefix Sum
@@ -1033,6 +1035,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/JonathanLu2005/LeetCode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/JonathanLu2005/LeetCode/tree/master/0258-add-digits) |
 | [2491-smallest-even-multiple](https://github.com/JonathanLu2005/LeetCode/tree/master/2491-smallest-even-multiple) |
+| [2507-number-of-common-factors](https://github.com/JonathanLu2005/LeetCode/tree/master/2507-number-of-common-factors) |
 | [2873-prime-pairs-with-target-sum](https://github.com/JonathanLu2005/LeetCode/tree/master/2873-prime-pairs-with-target-sum) |
 ## Probability and Statistics
 |  |
