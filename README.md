@@ -1060,6 +1060,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0627-swap-salary](https://github.com/JonathanLu2005/LeetCode/tree/master/0627-swap-salary) |
 | [1135-customers-who-bought-all-products](https://github.com/JonathanLu2005/LeetCode/tree/master/1135-customers-who-bought-all-products) |
 | [1153-product-sales-analysis-i](https://github.com/JonathanLu2005/LeetCode/tree/master/1153-product-sales-analysis-i) |
+| [1268-market-analysis-i](https://github.com/JonathanLu2005/LeetCode/tree/master/1268-market-analysis-i) |
 | [1317-monthly-transactions-i](https://github.com/JonathanLu2005/LeetCode/tree/master/1317-monthly-transactions-i) |
 | [1327-last-person-to-fit-in-the-bus](https://github.com/JonathanLu2005/LeetCode/tree/master/1327-last-person-to-fit-in-the-bus) |
 | [1480-movie-rating](https://github.com/JonathanLu2005/LeetCode/tree/master/1480-movie-rating) |
