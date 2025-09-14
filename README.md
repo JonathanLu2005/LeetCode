@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0816-design-hashset](https://github.com/JonathanLu2005/LeetCode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/JonathanLu2005/LeetCode/tree/master/0817-design-hashmap) |
 | [0822-unique-morse-code-words](https://github.com/JonathanLu2005/LeetCode/tree/master/0822-unique-morse-code-words) |
+| [0861-flipping-an-image](https://github.com/JonathanLu2005/LeetCode/tree/master/0861-flipping-an-image) |
 | [0870-magic-squares-in-grid](https://github.com/JonathanLu2005/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0876-hand-of-straights](https://github.com/JonathanLu2005/LeetCode/tree/master/0876-hand-of-straights) |
 | [0878-shifting-letters](https://github.com/JonathanLu2005/LeetCode/tree/master/0878-shifting-letters) |
@@ -612,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/JonathanLu2005/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/JonathanLu2005/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0768-partition-labels](https://github.com/JonathanLu2005/LeetCode/tree/master/0768-partition-labels) |
+| [0861-flipping-an-image](https://github.com/JonathanLu2005/LeetCode/tree/master/0861-flipping-an-image) |
 | [1002-maximum-width-ramp](https://github.com/JonathanLu2005/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1080-camelcase-matching](https://github.com/JonathanLu2005/LeetCode/tree/master/1080-camelcase-matching) |
 | [1581-the-k-strongest-values-in-an-array](https://github.com/JonathanLu2005/LeetCode/tree/master/1581-the-k-strongest-values-in-an-array) |
@@ -761,6 +763,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/JonathanLu2005/LeetCode/tree/master/0289-game-of-life) |
 | [0498-diagonal-traverse](https://github.com/JonathanLu2005/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/JonathanLu2005/LeetCode/tree/master/0566-reshape-the-matrix) |
+| [0861-flipping-an-image](https://github.com/JonathanLu2005/LeetCode/tree/master/0861-flipping-an-image) |
 | [0870-magic-squares-in-grid](https://github.com/JonathanLu2005/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0898-transpose-matrix](https://github.com/JonathanLu2005/LeetCode/tree/master/0898-transpose-matrix) |
 | [1379-reconstruct-a-2-row-binary-matrix](https://github.com/JonathanLu2005/LeetCode/tree/master/1379-reconstruct-a-2-row-binary-matrix) |
@@ -788,6 +791,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/JonathanLu2005/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/JonathanLu2005/LeetCode/tree/master/0268-missing-number) |
 | [0476-number-complement](https://github.com/JonathanLu2005/LeetCode/tree/master/0476-number-complement) |
+| [0861-flipping-an-image](https://github.com/JonathanLu2005/LeetCode/tree/master/0861-flipping-an-image) |
 | [0994-prison-cells-after-n-days](https://github.com/JonathanLu2005/LeetCode/tree/master/0994-prison-cells-after-n-days) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/JonathanLu2005/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/JonathanLu2005/LeetCode/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
@@ -931,6 +935,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/JonathanLu2005/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/JonathanLu2005/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0735-asteroid-collision](https://github.com/JonathanLu2005/LeetCode/tree/master/0735-asteroid-collision) |
+| [0861-flipping-an-image](https://github.com/JonathanLu2005/LeetCode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/JonathanLu2005/LeetCode/tree/master/0898-transpose-matrix) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/JonathanLu2005/LeetCode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1312-count-artifacts-that-can-be-extracted](https://github.com/JonathanLu2005/LeetCode/tree/master/1312-count-artifacts-that-can-be-extracted) |
