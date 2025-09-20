@@ -285,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1945-finding-the-users-active-minutes](https://github.com/JonathanLu2005/LeetCode/tree/master/1945-finding-the-users-active-minutes) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/JonathanLu2005/LeetCode/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/JonathanLu2005/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2042-maximum-product-difference-between-two-pairs](https://github.com/JonathanLu2005/LeetCode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2049-eliminate-maximum-number-of-monsters](https://github.com/JonathanLu2005/LeetCode/tree/master/2049-eliminate-maximum-number-of-monsters) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/JonathanLu2005/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2058-concatenation-of-array](https://github.com/JonathanLu2005/LeetCode/tree/master/2058-concatenation-of-array) |
@@ -717,6 +718,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1581-the-k-strongest-values-in-an-array](https://github.com/JonathanLu2005/LeetCode/tree/master/1581-the-k-strongest-values-in-an-array) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/JonathanLu2005/LeetCode/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [1970-sorting-the-sentence](https://github.com/JonathanLu2005/LeetCode/tree/master/1970-sorting-the-sentence) |
+| [2042-maximum-product-difference-between-two-pairs](https://github.com/JonathanLu2005/LeetCode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2049-eliminate-maximum-number-of-monsters](https://github.com/JonathanLu2005/LeetCode/tree/master/2049-eliminate-maximum-number-of-monsters) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/JonathanLu2005/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2245-destroying-asteroids](https://github.com/JonathanLu2005/LeetCode/tree/master/2245-destroying-asteroids) |
