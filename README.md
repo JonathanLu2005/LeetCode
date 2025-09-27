@@ -1077,6 +1077,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1153-product-sales-analysis-i](https://github.com/JonathanLu2005/LeetCode/tree/master/1153-product-sales-analysis-i) |
 | [1182-game-play-analysis-iv](https://github.com/JonathanLu2005/LeetCode/tree/master/1182-game-play-analysis-iv) |
 | [1268-market-analysis-i](https://github.com/JonathanLu2005/LeetCode/tree/master/1268-market-analysis-i) |
+| [1301-reformat-department-table](https://github.com/JonathanLu2005/LeetCode/tree/master/1301-reformat-department-table) |
 | [1317-monthly-transactions-i](https://github.com/JonathanLu2005/LeetCode/tree/master/1317-monthly-transactions-i) |
 | [1327-last-person-to-fit-in-the-bus](https://github.com/JonathanLu2005/LeetCode/tree/master/1327-last-person-to-fit-in-the-bus) |
 | [1480-movie-rating](https://github.com/JonathanLu2005/LeetCode/tree/master/1480-movie-rating) |
