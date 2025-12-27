@@ -7,16 +7,6 @@ class Solution:
         # then between any indexes, will be the stuff
         vowels = set(["a", "e", "i", "o", "u"])
         n = len(s) 
-        vowel = [0] * n
-        const = [0] * n
-
-        for i in range(0,n):
-            letter = s[i]
-
-            if letter in vowels:
-                vowel[i] += 1
-            else:
-                const[i] += 1
 
         result = 0
 
@@ -24,8 +14,10 @@ class Solution:
             cv = 0
             cc = 0
             for j in range(i,n):
-                cv += vowel[j]
-                cc += const[j]
+                if s[j] in vowels:
+                    cv += 1
+                else:
+                    cc += 1
 
                 if (cv * cc) % k == 0 and cv == cc:
                     result += 1
