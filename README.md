@@ -347,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2873-prime-pairs-with-target-sum](https://github.com/JonathanLu2005/LeetCode/tree/master/2873-prime-pairs-with-target-sum) |
 | [2881-split-strings-by-separator](https://github.com/JonathanLu2005/LeetCode/tree/master/2881-split-strings-by-separator) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/JonathanLu2005/LeetCode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
+| [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/JonathanLu2005/LeetCode/tree/master/3147-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3194-find-words-containing-character](https://github.com/JonathanLu2005/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/JonathanLu2005/LeetCode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3227-find-missing-and-repeated-values](https://github.com/JonathanLu2005/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
@@ -1059,6 +1060,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/JonathanLu2005/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2714-left-and-right-sum-differences](https://github.com/JonathanLu2005/LeetCode/tree/master/2714-left-and-right-sum-differences) |
 | [2947-count-beautiful-substrings-i](https://github.com/JonathanLu2005/LeetCode/tree/master/2947-count-beautiful-substrings-i) |
+| [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/JonathanLu2005/LeetCode/tree/master/3147-taking-maximum-energy-from-the-mystic-dungeon) |
 ## Number Theory
 |  |
 | ------- |
