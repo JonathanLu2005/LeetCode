@@ -562,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3707-find-the-most-common-response](https://github.com/JonathanLu2005/LeetCode/tree/master/3707-find-the-most-common-response) |
 | [3732-calculate-score-after-performing-instructions](https://github.com/JonathanLu2005/LeetCode/tree/master/3732-calculate-score-after-performing-instructions) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/JonathanLu2005/LeetCode/tree/master/3760-maximum-substrings-with-distinct-start) |
+| [3775-reverse-words-with-same-vowel-count](https://github.com/JonathanLu2005/LeetCode/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3797-design-spreadsheet](https://github.com/JonathanLu2005/LeetCode/tree/master/3797-design-spreadsheet) |
 | [3811-reverse-degree-of-a-string](https://github.com/JonathanLu2005/LeetCode/tree/master/3811-reverse-degree-of-a-string) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/JonathanLu2005/LeetCode/tree/master/3812-smallest-palindromic-rearrangement-i) |
@@ -642,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/JonathanLu2005/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3195-separate-black-and-white-balls](https://github.com/JonathanLu2005/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/JonathanLu2005/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3775-reverse-words-with-same-vowel-count](https://github.com/JonathanLu2005/LeetCode/tree/master/3775-reverse-words-with-same-vowel-count) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -980,6 +982,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/JonathanLu2005/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3634-find-mirror-score-of-a-string](https://github.com/JonathanLu2005/LeetCode/tree/master/3634-find-mirror-score-of-a-string) |
 | [3732-calculate-score-after-performing-instructions](https://github.com/JonathanLu2005/LeetCode/tree/master/3732-calculate-score-after-performing-instructions) |
+| [3775-reverse-words-with-same-vowel-count](https://github.com/JonathanLu2005/LeetCode/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3811-reverse-degree-of-a-string](https://github.com/JonathanLu2005/LeetCode/tree/master/3811-reverse-degree-of-a-string) |
 | [3860-resulting-string-after-adjacent-removals](https://github.com/JonathanLu2005/LeetCode/tree/master/3860-resulting-string-after-adjacent-removals) |
 | [3931-process-string-with-special-operations-i](https://github.com/JonathanLu2005/LeetCode/tree/master/3931-process-string-with-special-operations-i) |
