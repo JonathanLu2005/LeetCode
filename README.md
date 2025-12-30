@@ -366,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3707-find-the-most-common-response](https://github.com/JonathanLu2005/LeetCode/tree/master/3707-find-the-most-common-response) |
 | [3723-sum-of-good-numbers](https://github.com/JonathanLu2005/LeetCode/tree/master/3723-sum-of-good-numbers) |
 | [3732-calculate-score-after-performing-instructions](https://github.com/JonathanLu2005/LeetCode/tree/master/3732-calculate-score-after-performing-instructions) |
+| [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/JonathanLu2005/LeetCode/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/JonathanLu2005/LeetCode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3748-sort-matrix-by-diagonals](https://github.com/JonathanLu2005/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/JonathanLu2005/LeetCode/tree/master/3759-count-elements-with-at-least-k-greater-values) |
@@ -448,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3462-vowels-game-in-a-string](https://github.com/JonathanLu2005/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/JonathanLu2005/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/JonathanLu2005/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/JonathanLu2005/LeetCode/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3817-maximum-containers-on-a-ship](https://github.com/JonathanLu2005/LeetCode/tree/master/3817-maximum-containers-on-a-ship) |
 | [3830-find-closest-person](https://github.com/JonathanLu2005/LeetCode/tree/master/3830-find-closest-person) |
 ## Recursion
@@ -713,6 +715,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3055-maximum-odd-binary-number](https://github.com/JonathanLu2005/LeetCode/tree/master/3055-maximum-odd-binary-number) |
 | [3195-separate-black-and-white-balls](https://github.com/JonathanLu2005/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/JonathanLu2005/LeetCode/tree/master/3351-maximize-happiness-of-selected-children) |
+| [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/JonathanLu2005/LeetCode/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 ## Sorting
 |  |
 | ------- |
@@ -756,6 +759,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3351-maximize-happiness-of-selected-children](https://github.com/JonathanLu2005/LeetCode/tree/master/3351-maximize-happiness-of-selected-children) |
 | [3430-count-days-without-meetings](https://github.com/JonathanLu2005/LeetCode/tree/master/3430-count-days-without-meetings) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/JonathanLu2005/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/JonathanLu2005/LeetCode/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3748-sort-matrix-by-diagonals](https://github.com/JonathanLu2005/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/JonathanLu2005/LeetCode/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/JonathanLu2005/LeetCode/tree/master/3812-smallest-palindromic-rearrangement-i) |
