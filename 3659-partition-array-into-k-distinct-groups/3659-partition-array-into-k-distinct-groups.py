@@ -11,13 +11,9 @@ class Solution:
 
         if n % k == 0:
             groups = n // k
-            vals = set()
 
             for x in nums:
                 hashmap[x] = hashmap.get(x,0) + 1
-                vals.add(x)
-
-            for x in vals:
                 if hashmap[x] > groups:
                     return False
             return True
