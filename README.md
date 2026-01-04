@@ -261,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/JonathanLu2005/LeetCode/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1379-reconstruct-a-2-row-binary-matrix](https://github.com/JonathanLu2005/LeetCode/tree/master/1379-reconstruct-a-2-row-binary-matrix) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/JonathanLu2005/LeetCode/tree/master/1388-greatest-sum-divisible-by-three) |
+| [1390-four-divisors](https://github.com/JonathanLu2005/LeetCode/tree/master/1390-four-divisors) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/JonathanLu2005/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1396-count-servers-that-communicate](https://github.com/JonathanLu2005/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/JonathanLu2005/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -414,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0870-magic-squares-in-grid](https://github.com/JonathanLu2005/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0994-prison-cells-after-n-days](https://github.com/JonathanLu2005/LeetCode/tree/master/0994-prison-cells-after-n-days) |
 | [1183-statistics-from-a-large-sample](https://github.com/JonathanLu2005/LeetCode/tree/master/1183-statistics-from-a-large-sample) |
+| [1390-four-divisors](https://github.com/JonathanLu2005/LeetCode/tree/master/1390-four-divisors) |
 | [1401-number-of-burgers-with-no-waste-of-ingredients](https://github.com/JonathanLu2005/LeetCode/tree/master/1401-number-of-burgers-with-no-waste-of-ingredients) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/JonathanLu2005/LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/JonathanLu2005/LeetCode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
