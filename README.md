@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1722-throne-inheritance](https://github.com/JonathanLu2005/LeetCode/tree/master/1722-throne-inheritance) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/JonathanLu2005/LeetCode/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/JonathanLu2005/LeetCode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
+| [2596-check-knight-tour-configuration](https://github.com/JonathanLu2005/LeetCode/tree/master/2596-check-knight-tour-configuration) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/JonathanLu2005/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Design
 |  |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2539-minimum-number-of-operations-to-make-arrays-similar](https://github.com/JonathanLu2005/LeetCode/tree/master/2539-minimum-number-of-operations-to-make-arrays-similar) |
 | [2590-maximum-star-sum-of-a-graph](https://github.com/JonathanLu2005/LeetCode/tree/master/2590-maximum-star-sum-of-a-graph) |
 | [2594-count-pairs-of-similar-strings](https://github.com/JonathanLu2005/LeetCode/tree/master/2594-count-pairs-of-similar-strings) |
+| [2596-check-knight-tour-configuration](https://github.com/JonathanLu2005/LeetCode/tree/master/2596-check-knight-tour-configuration) |
 | [2603-reward-top-k-students](https://github.com/JonathanLu2005/LeetCode/tree/master/2603-reward-top-k-students) |
 | [2604-minimum-operations-to-make-array-equal-ii](https://github.com/JonathanLu2005/LeetCode/tree/master/2604-minimum-operations-to-make-array-equal-ii) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/JonathanLu2005/LeetCode/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
@@ -823,6 +825,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1975-maximum-matrix-sum](https://github.com/JonathanLu2005/LeetCode/tree/master/1975-maximum-matrix-sum) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/JonathanLu2005/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/JonathanLu2005/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2596-check-knight-tour-configuration](https://github.com/JonathanLu2005/LeetCode/tree/master/2596-check-knight-tour-configuration) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/JonathanLu2005/LeetCode/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2685-first-completely-painted-row-or-column](https://github.com/JonathanLu2005/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/JonathanLu2005/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -904,6 +907,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/JonathanLu2005/LeetCode/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/JonathanLu2005/LeetCode/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/JonathanLu2005/LeetCode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
+| [2596-check-knight-tour-configuration](https://github.com/JonathanLu2005/LeetCode/tree/master/2596-check-knight-tour-configuration) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/JonathanLu2005/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Queue
 |  |
@@ -1006,6 +1010,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2298-count-integers-with-even-digit-sum](https://github.com/JonathanLu2005/LeetCode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2361-calculate-digit-sum-of-a-string](https://github.com/JonathanLu2005/LeetCode/tree/master/2361-calculate-digit-sum-of-a-string) |
 | [2389-design-a-text-editor](https://github.com/JonathanLu2005/LeetCode/tree/master/2389-design-a-text-editor) |
+| [2596-check-knight-tour-configuration](https://github.com/JonathanLu2005/LeetCode/tree/master/2596-check-knight-tour-configuration) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/JonathanLu2005/LeetCode/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2639-separate-the-digits-in-an-array](https://github.com/JonathanLu2005/LeetCode/tree/master/2639-separate-the-digits-in-an-array) |
 | [2834-relocate-marbles](https://github.com/JonathanLu2005/LeetCode/tree/master/2834-relocate-marbles) |
