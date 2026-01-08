@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-all-possible-full-binary-trees](https://github.com/JonathanLu2005/LeetCode/tree/master/0930-all-possible-full-binary-trees) |
 | [0955-complete-binary-tree-inserter](https://github.com/JonathanLu2005/LeetCode/tree/master/0955-complete-binary-tree-inserter) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/JonathanLu2005/LeetCode/tree/master/0998-check-completeness-of-a-binary-tree) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/JonathanLu2005/LeetCode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/JonathanLu2005/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/JonathanLu2005/LeetCode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/JonathanLu2005/LeetCode/tree/master/1492-time-needed-to-inform-all-employees) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0606-construct-string-from-binary-tree](https://github.com/JonathanLu2005/LeetCode/tree/master/0606-construct-string-from-binary-tree) |
 | [0684-redundant-connection](https://github.com/JonathanLu2005/LeetCode/tree/master/0684-redundant-connection) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/JonathanLu2005/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/JonathanLu2005/LeetCode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/JonathanLu2005/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/JonathanLu2005/LeetCode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/JonathanLu2005/LeetCode/tree/master/1396-count-servers-that-communicate) |
@@ -860,6 +862,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/JonathanLu2005/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/JonathanLu2005/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/JonathanLu2005/LeetCode/tree/master/0173-binary-search-tree-iterator) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/JonathanLu2005/LeetCode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -878,6 +881,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-all-possible-full-binary-trees](https://github.com/JonathanLu2005/LeetCode/tree/master/0930-all-possible-full-binary-trees) |
 | [0955-complete-binary-tree-inserter](https://github.com/JonathanLu2005/LeetCode/tree/master/0955-complete-binary-tree-inserter) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/JonathanLu2005/LeetCode/tree/master/0998-check-completeness-of-a-binary-tree) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/JonathanLu2005/LeetCode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/JonathanLu2005/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/JonathanLu2005/LeetCode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/JonathanLu2005/LeetCode/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
