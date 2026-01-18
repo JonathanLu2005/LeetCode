@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0275-h-index-ii](https://github.com/JonathanLu2005/LeetCode/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/JonathanLu2005/LeetCode/tree/master/0283-move-zeroes) |
 | [0289-game-of-life](https://github.com/JonathanLu2005/LeetCode/tree/master/0289-game-of-life) |
+| [0300-longest-increasing-subsequence](https://github.com/JonathanLu2005/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/JonathanLu2005/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0413-arithmetic-slices](https://github.com/JonathanLu2005/LeetCode/tree/master/0413-arithmetic-slices) |
 | [0414-third-maximum-number](https://github.com/JonathanLu2005/LeetCode/tree/master/0414-third-maximum-number) |
@@ -637,6 +638,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/JonathanLu2005/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/JonathanLu2005/LeetCode/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/JonathanLu2005/LeetCode/tree/master/0275-h-index-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/JonathanLu2005/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/JonathanLu2005/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0704-binary-search](https://github.com/JonathanLu2005/LeetCode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/JonathanLu2005/LeetCode/tree/master/0713-subarray-product-less-than-k) |
@@ -710,6 +712,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JonathanLu2005/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/JonathanLu2005/LeetCode/tree/master/0139-word-break) |
 | [0221-maximal-square](https://github.com/JonathanLu2005/LeetCode/tree/master/0221-maximal-square) |
+| [0300-longest-increasing-subsequence](https://github.com/JonathanLu2005/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0413-arithmetic-slices](https://github.com/JonathanLu2005/LeetCode/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/JonathanLu2005/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0769-largest-plus-sign](https://github.com/JonathanLu2005/LeetCode/tree/master/0769-largest-plus-sign) |
