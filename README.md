@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0674-longest-continuous-increasing-subsequence](https://github.com/JonathanLu2005/LeetCode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0713-subarray-product-less-than-k](https://github.com/JonathanLu2005/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0735-asteroid-collision](https://github.com/JonathanLu2005/LeetCode/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/JonathanLu2005/LeetCode/tree/master/0739-daily-temperatures) |
 | [0769-largest-plus-sign](https://github.com/JonathanLu2005/LeetCode/tree/master/0769-largest-plus-sign) |
 | [0805-escape-the-ghosts](https://github.com/JonathanLu2005/LeetCode/tree/master/0805-escape-the-ghosts) |
 | [0816-design-hashset](https://github.com/JonathanLu2005/LeetCode/tree/master/0816-design-hashset) |
@@ -984,6 +985,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/JonathanLu2005/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0654-maximum-binary-tree](https://github.com/JonathanLu2005/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [0735-asteroid-collision](https://github.com/JonathanLu2005/LeetCode/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/JonathanLu2005/LeetCode/tree/master/0739-daily-temperatures) |
 | [1002-maximum-width-ramp](https://github.com/JonathanLu2005/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/JonathanLu2005/LeetCode/tree/master/1045-check-if-word-is-valid-after-substitutions) |
 | [1078-remove-outermost-parentheses](https://github.com/JonathanLu2005/LeetCode/tree/master/1078-remove-outermost-parentheses) |
@@ -1002,6 +1004,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0654-maximum-binary-tree](https://github.com/JonathanLu2005/LeetCode/tree/master/0654-maximum-binary-tree) |
+| [0739-daily-temperatures](https://github.com/JonathanLu2005/LeetCode/tree/master/0739-daily-temperatures) |
 | [1002-maximum-width-ramp](https://github.com/JonathanLu2005/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [2227-sum-of-subarray-ranges](https://github.com/JonathanLu2005/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
 | [3638-maximum-balanced-shipments](https://github.com/JonathanLu2005/LeetCode/tree/master/3638-maximum-balanced-shipments) |
