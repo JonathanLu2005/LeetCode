@@ -242,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0648-replace-words](https://github.com/JonathanLu2005/LeetCode/tree/master/0648-replace-words) |
 | [0654-maximum-binary-tree](https://github.com/JonathanLu2005/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/JonathanLu2005/LeetCode/tree/master/0674-longest-continuous-increasing-subsequence) |
+| [0704-binary-search](https://github.com/JonathanLu2005/LeetCode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/JonathanLu2005/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0735-asteroid-collision](https://github.com/JonathanLu2005/LeetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/JonathanLu2005/LeetCode/tree/master/0739-daily-temperatures) |
@@ -636,6 +637,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/JonathanLu2005/LeetCode/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/JonathanLu2005/LeetCode/tree/master/0275-h-index-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/JonathanLu2005/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0704-binary-search](https://github.com/JonathanLu2005/LeetCode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/JonathanLu2005/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [1023-time-based-key-value-store](https://github.com/JonathanLu2005/LeetCode/tree/master/1023-time-based-key-value-store) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/JonathanLu2005/LeetCode/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
