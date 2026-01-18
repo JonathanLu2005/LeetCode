@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0480-sliding-window-median](https://github.com/JonathanLu2005/LeetCode/tree/master/0480-sliding-window-median) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/JonathanLu2005/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0648-replace-words](https://github.com/JonathanLu2005/LeetCode/tree/master/0648-replace-words) |
+| [0763-partition-labels](https://github.com/JonathanLu2005/LeetCode/tree/master/0763-partition-labels) |
 | [0768-partition-labels](https://github.com/JonathanLu2005/LeetCode/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/JonathanLu2005/LeetCode/tree/master/0778-reorganize-string) |
 | [0816-design-hashset](https://github.com/JonathanLu2005/LeetCode/tree/master/0816-design-hashset) |
@@ -511,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0606-construct-string-from-binary-tree](https://github.com/JonathanLu2005/LeetCode/tree/master/0606-construct-string-from-binary-tree) |
 | [0648-replace-words](https://github.com/JonathanLu2005/LeetCode/tree/master/0648-replace-words) |
 | [0742-to-lower-case](https://github.com/JonathanLu2005/LeetCode/tree/master/0742-to-lower-case) |
+| [0763-partition-labels](https://github.com/JonathanLu2005/LeetCode/tree/master/0763-partition-labels) |
 | [0768-partition-labels](https://github.com/JonathanLu2005/LeetCode/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/JonathanLu2005/LeetCode/tree/master/0778-reorganize-string) |
 | [0822-unique-morse-code-words](https://github.com/JonathanLu2005/LeetCode/tree/master/0822-unique-morse-code-words) |
@@ -666,6 +668,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/JonathanLu2005/LeetCode/tree/master/0344-reverse-string) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/JonathanLu2005/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/JonathanLu2005/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0763-partition-labels](https://github.com/JonathanLu2005/LeetCode/tree/master/0763-partition-labels) |
 | [0768-partition-labels](https://github.com/JonathanLu2005/LeetCode/tree/master/0768-partition-labels) |
 | [0861-flipping-an-image](https://github.com/JonathanLu2005/LeetCode/tree/master/0861-flipping-an-image) |
 | [1002-maximum-width-ramp](https://github.com/JonathanLu2005/LeetCode/tree/master/1002-maximum-width-ramp) |
@@ -714,6 +717,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/JonathanLu2005/LeetCode/tree/master/0011-container-with-most-water) |
 | [0409-longest-palindrome](https://github.com/JonathanLu2005/LeetCode/tree/master/0409-longest-palindrome) |
+| [0763-partition-labels](https://github.com/JonathanLu2005/LeetCode/tree/master/0763-partition-labels) |
 | [0768-partition-labels](https://github.com/JonathanLu2005/LeetCode/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/JonathanLu2005/LeetCode/tree/master/0778-reorganize-string) |
 | [0846-hand-of-straights](https://github.com/JonathanLu2005/LeetCode/tree/master/0846-hand-of-straights) |
