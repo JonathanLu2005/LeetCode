@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JonathanLu2005/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/JonathanLu2005/LeetCode/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/JonathanLu2005/LeetCode/tree/master/0139-word-break) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/JonathanLu2005/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/JonathanLu2005/LeetCode/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/JonathanLu2005/LeetCode/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/JonathanLu2005/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -428,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/JonathanLu2005/LeetCode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/JonathanLu2005/LeetCode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/JonathanLu2005/LeetCode/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/JonathanLu2005/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0204-count-primes](https://github.com/JonathanLu2005/LeetCode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/JonathanLu2005/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/JonathanLu2005/LeetCode/tree/master/0258-add-digits) |
@@ -976,6 +978,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/JonathanLu2005/LeetCode/tree/master/0143-reorder-list) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/JonathanLu2005/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0173-binary-search-tree-iterator](https://github.com/JonathanLu2005/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/JonathanLu2005/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/JonathanLu2005/LeetCode/tree/master/0232-implement-queue-using-stacks) |
