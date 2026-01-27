@@ -1,5 +1,27 @@
 class Solution:
     def rotateElements(self, nums: List[int], k: int) -> List[int]:
+        # optimal way... similar idea
+        #get all of the positives
+        # and mod k
+        # then for every element, if its positive, we can use current count, k, and length of positives
+        # to manipulate and find which index we care about
+        # very confusing tho
+        array = [x for x in nums if x >= 0]
+        m = len(array)
+
+        if m == 0:
+            return nums
+
+        k %= m
+        j = 0
+
+        for i in range(len(nums)):
+            if nums[i] >= 0:
+                nums[i] = array[(j+k) % m]
+                j += 1
+        return nums
+
+
         # one idea... is to get all the negatives and their indexes
         # so we could get 1 = -2, 3 = -4
         # and then with our list of negatives e.g -2, -4
@@ -10,6 +32,8 @@ class Solution:
         # by getting last element and adding it to start
         # then o(n) to add it in
         # 3 o(n) operations
+
+        """
         indexes = []
         values = []
 
@@ -39,3 +63,4 @@ class Solution:
 
             nums[index] = value
         return nums
+        """
