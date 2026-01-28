@@ -609,6 +609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3634-find-mirror-score-of-a-string](https://github.com/JonathanLu2005/LeetCode/tree/master/3634-find-mirror-score-of-a-string) |
 | [3707-find-the-most-common-response](https://github.com/JonathanLu2005/LeetCode/tree/master/3707-find-the-most-common-response) |
 | [3732-calculate-score-after-performing-instructions](https://github.com/JonathanLu2005/LeetCode/tree/master/3732-calculate-score-after-performing-instructions) |
+| [3746-minimum-string-length-after-balanced-removals](https://github.com/JonathanLu2005/LeetCode/tree/master/3746-minimum-string-length-after-balanced-removals) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/JonathanLu2005/LeetCode/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/JonathanLu2005/LeetCode/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3797-design-spreadsheet](https://github.com/JonathanLu2005/LeetCode/tree/master/3797-design-spreadsheet) |
@@ -1012,6 +1013,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2389-design-a-text-editor](https://github.com/JonathanLu2005/LeetCode/tree/master/2389-design-a-text-editor) |
 | [3634-find-mirror-score-of-a-string](https://github.com/JonathanLu2005/LeetCode/tree/master/3634-find-mirror-score-of-a-string) |
 | [3638-maximum-balanced-shipments](https://github.com/JonathanLu2005/LeetCode/tree/master/3638-maximum-balanced-shipments) |
+| [3746-minimum-string-length-after-balanced-removals](https://github.com/JonathanLu2005/LeetCode/tree/master/3746-minimum-string-length-after-balanced-removals) |
 | [3860-resulting-string-after-adjacent-removals](https://github.com/JonathanLu2005/LeetCode/tree/master/3860-resulting-string-after-adjacent-removals) |
 ## Monotonic Stack
 |  |
@@ -1125,6 +1127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3455-minimum-length-of-string-after-operations](https://github.com/JonathanLu2005/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3659-partition-array-into-k-distinct-groups](https://github.com/JonathanLu2005/LeetCode/tree/master/3659-partition-array-into-k-distinct-groups) |
 | [3707-find-the-most-common-response](https://github.com/JonathanLu2005/LeetCode/tree/master/3707-find-the-most-common-response) |
+| [3746-minimum-string-length-after-balanced-removals](https://github.com/JonathanLu2005/LeetCode/tree/master/3746-minimum-string-length-after-balanced-removals) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/JonathanLu2005/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Trie
 |  |
