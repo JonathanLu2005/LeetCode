@@ -329,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2049-eliminate-maximum-number-of-monsters](https://github.com/JonathanLu2005/LeetCode/tree/master/2049-eliminate-maximum-number-of-monsters) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/JonathanLu2005/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2058-concatenation-of-array](https://github.com/JonathanLu2005/LeetCode/tree/master/2058-concatenation-of-array) |
+| [2090-k-radius-subarray-averages](https://github.com/JonathanLu2005/LeetCode/tree/master/2090-k-radius-subarray-averages) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/JonathanLu2005/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/JonathanLu2005/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/JonathanLu2005/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -632,6 +633,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/JonathanLu2005/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1138-grumpy-bookstore-owner](https://github.com/JonathanLu2005/LeetCode/tree/master/1138-grumpy-bookstore-owner) |
 | [1813-maximum-erasure-value](https://github.com/JonathanLu2005/LeetCode/tree/master/1813-maximum-erasure-value) |
+| [2090-k-radius-subarray-averages](https://github.com/JonathanLu2005/LeetCode/tree/master/2090-k-radius-subarray-averages) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/JonathanLu2005/LeetCode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/JonathanLu2005/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/JonathanLu2005/LeetCode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
