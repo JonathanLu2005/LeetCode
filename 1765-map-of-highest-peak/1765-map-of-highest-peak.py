@@ -12,7 +12,7 @@ class Solution:
         # as no other cell will mess with it
         # keep going till no more to visit aka queue is gone
         # and store height
-        queue = []
+        queue = deque()
         visited = set()
 
         m = len(isWater)
@@ -21,14 +21,14 @@ class Solution:
         for i in range(0,m):
             for j in range(0,n):
                 if isWater[i][j] == 1:
-                    queue.append([i,j,0])
+                    queue.append((i,j,0))
                     visited.add((i,j))
                     isWater[i][j] = 0
 
         directions = [(0,1), (0,-1), (1,0), (-1,0)]
 
         while queue:
-            x, y, distance = queue.pop(0)
+            x, y, distance = queue.popleft()
 
             for (dirx, diry) in directions:
                 newx = x + dirx
@@ -36,7 +36,7 @@ class Solution:
 
                 if 0 <= newx < m and 0 <= newy < n and (newx,newy) not in visited:
                     visited.add((newx,newy))
-                    queue.append([newx,newy,distance+1])
+                    queue.append((newx,newy,distance+1))
                     isWater[newx][newy] = distance+1
         
         return isWater
