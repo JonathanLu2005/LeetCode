@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/JonathanLu2005/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0133-clone-graph](https://github.com/JonathanLu2005/LeetCode/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/JonathanLu2005/LeetCode/tree/master/0139-word-break) |
+| [0142-linked-list-cycle-ii](https://github.com/JonathanLu2005/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/JonathanLu2005/LeetCode/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/JonathanLu2005/LeetCode/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/JonathanLu2005/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
@@ -425,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/JonathanLu2005/LeetCode/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/JonathanLu2005/LeetCode/tree/master/0092-reverse-linked-list-ii) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/JonathanLu2005/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0142-linked-list-cycle-ii](https://github.com/JonathanLu2005/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/JonathanLu2005/LeetCode/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/JonathanLu2005/LeetCode/tree/master/0146-lru-cache) |
 | [0147-insertion-sort-list](https://github.com/JonathanLu2005/LeetCode/tree/master/0147-insertion-sort-list) |
@@ -687,6 +689,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/JonathanLu2005/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/JonathanLu2005/LeetCode/tree/master/0086-partition-list) |
 | [0125-valid-palindrome](https://github.com/JonathanLu2005/LeetCode/tree/master/0125-valid-palindrome) |
+| [0142-linked-list-cycle-ii](https://github.com/JonathanLu2005/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/JonathanLu2005/LeetCode/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/JonathanLu2005/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/JonathanLu2005/LeetCode/tree/master/0283-move-zeroes) |
