@@ -28,16 +28,15 @@ class Solution:
         directions = [(0,1), (0,-1), (1,0), (-1,0)]
 
         while queue:
-            for i in range(len(queue)):
-                x, y, distance = queue.pop(0)
+            x, y, distance = queue.pop(0)
 
-                for (dirx, diry) in directions:
-                    newx = x + dirx
-                    newy = y + diry
+            for (dirx, diry) in directions:
+                newx = x + dirx
+                newy = y + diry
 
-                    if 0 <= newx < m and 0 <= newy < n and (newx,newy) not in visited:
-                        visited.add((newx,newy))
-                        queue.append([newx,newy,distance+1])
-                        isWater[newx][newy] = distance+1
+                if 0 <= newx < m and 0 <= newy < n and (newx,newy) not in visited:
+                    visited.add((newx,newy))
+                    queue.append([newx,newy,distance+1])
+                    isWater[newx][newy] = distance+1
         
         return isWater
