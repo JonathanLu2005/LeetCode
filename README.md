@@ -310,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1677-matrix-diagonal-sum](https://github.com/JonathanLu2005/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/JonathanLu2005/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1721-maximum-profit-of-operating-a-centennial-wheel](https://github.com/JonathanLu2005/LeetCode/tree/master/1721-maximum-profit-of-operating-a-centennial-wheel) |
+| [1765-map-of-highest-peak](https://github.com/JonathanLu2005/LeetCode/tree/master/1765-map-of-highest-peak) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/JonathanLu2005/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/JonathanLu2005/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1813-maximum-erasure-value](https://github.com/JonathanLu2005/LeetCode/tree/master/1813-maximum-erasure-value) |
@@ -877,6 +878,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1496-lucky-numbers-in-a-matrix](https://github.com/JonathanLu2005/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/JonathanLu2005/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/JonathanLu2005/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [1765-map-of-highest-peak](https://github.com/JonathanLu2005/LeetCode/tree/master/1765-map-of-highest-peak) |
 | [1975-maximum-matrix-sum](https://github.com/JonathanLu2005/LeetCode/tree/master/1975-maximum-matrix-sum) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/JonathanLu2005/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/JonathanLu2005/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -967,6 +969,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1442-number-of-operations-to-make-network-connected](https://github.com/JonathanLu2005/LeetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/JonathanLu2005/LeetCode/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/JonathanLu2005/LeetCode/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
+| [1765-map-of-highest-peak](https://github.com/JonathanLu2005/LeetCode/tree/master/1765-map-of-highest-peak) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/JonathanLu2005/LeetCode/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/JonathanLu2005/LeetCode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2596-check-knight-tour-configuration](https://github.com/JonathanLu2005/LeetCode/tree/master/2596-check-knight-tour-configuration) |
