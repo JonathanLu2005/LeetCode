@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2226-rings-and-rods](https://github.com/JonathanLu2005/LeetCode/tree/master/2226-rings-and-rods) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/JonathanLu2005/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/JonathanLu2005/LeetCode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
+| [2353-design-a-food-rating-system](https://github.com/JonathanLu2005/LeetCode/tree/master/2353-design-a-food-rating-system) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/JonathanLu2005/LeetCode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2406-decode-the-message](https://github.com/JonathanLu2005/LeetCode/tree/master/2406-decode-the-message) |
 | [2427-first-letter-to-appear-twice](https://github.com/JonathanLu2005/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1905-design-authentication-manager](https://github.com/JonathanLu2005/LeetCode/tree/master/1905-design-authentication-manager) |
 | [1953-finding-mk-average](https://github.com/JonathanLu2005/LeetCode/tree/master/1953-finding-mk-average) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/JonathanLu2005/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2353-design-a-food-rating-system](https://github.com/JonathanLu2005/LeetCode/tree/master/2353-design-a-food-rating-system) |
 | [2389-design-a-text-editor](https://github.com/JonathanLu2005/LeetCode/tree/master/2389-design-a-text-editor) |
 | [3797-design-spreadsheet](https://github.com/JonathanLu2005/LeetCode/tree/master/3797-design-spreadsheet) |
 ## Array
@@ -354,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/JonathanLu2005/LeetCode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/JonathanLu2005/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/JonathanLu2005/LeetCode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
+| [2353-design-a-food-rating-system](https://github.com/JonathanLu2005/LeetCode/tree/master/2353-design-a-food-rating-system) |
 | [2358-number-of-ways-to-split-array](https://github.com/JonathanLu2005/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2381-shifting-letters-ii](https://github.com/JonathanLu2005/LeetCode/tree/master/2381-shifting-letters-ii) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/JonathanLu2005/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -590,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/JonathanLu2005/LeetCode/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/JonathanLu2005/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/JonathanLu2005/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2353-design-a-food-rating-system](https://github.com/JonathanLu2005/LeetCode/tree/master/2353-design-a-food-rating-system) |
 | [2361-calculate-digit-sum-of-a-string](https://github.com/JonathanLu2005/LeetCode/tree/master/2361-calculate-digit-sum-of-a-string) |
 | [2365-percentage-of-letter-in-string](https://github.com/JonathanLu2005/LeetCode/tree/master/2365-percentage-of-letter-in-string) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/JonathanLu2005/LeetCode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
@@ -1007,6 +1011,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1845-seat-reservation-manager](https://github.com/JonathanLu2005/LeetCode/tree/master/1845-seat-reservation-manager) |
 | [1953-finding-mk-average](https://github.com/JonathanLu2005/LeetCode/tree/master/1953-finding-mk-average) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/JonathanLu2005/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2353-design-a-food-rating-system](https://github.com/JonathanLu2005/LeetCode/tree/master/2353-design-a-food-rating-system) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/JonathanLu2005/LeetCode/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [2590-maximum-star-sum-of-a-graph](https://github.com/JonathanLu2005/LeetCode/tree/master/2590-maximum-star-sum-of-a-graph) |
 | [2603-reward-top-k-students](https://github.com/JonathanLu2005/LeetCode/tree/master/2603-reward-top-k-students) |
@@ -1278,6 +1283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1953-finding-mk-average](https://github.com/JonathanLu2005/LeetCode/tree/master/1953-finding-mk-average) |
+| [2353-design-a-food-rating-system](https://github.com/JonathanLu2005/LeetCode/tree/master/2353-design-a-food-rating-system) |
 ## Hash Function
 |  |
 | ------- |
