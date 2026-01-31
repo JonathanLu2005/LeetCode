@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-design-browser-history](https://github.com/JonathanLu2005/LeetCode/tree/master/1582-design-browser-history) |
 | [1708-design-parking-system](https://github.com/JonathanLu2005/LeetCode/tree/master/1708-design-parking-system) |
 | [1722-throne-inheritance](https://github.com/JonathanLu2005/LeetCode/tree/master/1722-throne-inheritance) |
+| [1845-seat-reservation-manager](https://github.com/JonathanLu2005/LeetCode/tree/master/1845-seat-reservation-manager) |
 | [1905-design-authentication-manager](https://github.com/JonathanLu2005/LeetCode/tree/master/1905-design-authentication-manager) |
 | [1953-finding-mk-average](https://github.com/JonathanLu2005/LeetCode/tree/master/1953-finding-mk-average) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/JonathanLu2005/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -1003,6 +1004,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0480-sliding-window-median](https://github.com/JonathanLu2005/LeetCode/tree/master/0480-sliding-window-median) |
 | [0778-reorganize-string](https://github.com/JonathanLu2005/LeetCode/tree/master/0778-reorganize-string) |
 | [1140-distant-barcodes](https://github.com/JonathanLu2005/LeetCode/tree/master/1140-distant-barcodes) |
+| [1845-seat-reservation-manager](https://github.com/JonathanLu2005/LeetCode/tree/master/1845-seat-reservation-manager) |
 | [1953-finding-mk-average](https://github.com/JonathanLu2005/LeetCode/tree/master/1953-finding-mk-average) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/JonathanLu2005/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/JonathanLu2005/LeetCode/tree/master/2530-maximal-score-after-applying-k-operations) |
