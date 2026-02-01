@@ -402,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3308-apply-operations-to-make-string-empty](https://github.com/JonathanLu2005/LeetCode/tree/master/3308-apply-operations-to-make-string-empty) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/JonathanLu2005/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/JonathanLu2005/LeetCode/tree/master/3351-maximize-happiness-of-selected-children) |
+| [3355-zero-array-transformation-i](https://github.com/JonathanLu2005/LeetCode/tree/master/3355-zero-array-transformation-i) |
 | [3374-count-alternating-subarrays](https://github.com/JonathanLu2005/LeetCode/tree/master/3374-count-alternating-subarrays) |
 | [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/JonathanLu2005/LeetCode/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
 | [3430-count-days-without-meetings](https://github.com/JonathanLu2005/LeetCode/tree/master/3430-count-days-without-meetings) |
@@ -1208,6 +1209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2714-left-and-right-sum-differences](https://github.com/JonathanLu2005/LeetCode/tree/master/2714-left-and-right-sum-differences) |
 | [2947-count-beautiful-substrings-i](https://github.com/JonathanLu2005/LeetCode/tree/master/2947-count-beautiful-substrings-i) |
 | [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/JonathanLu2005/LeetCode/tree/master/3147-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3355-zero-array-transformation-i](https://github.com/JonathanLu2005/LeetCode/tree/master/3355-zero-array-transformation-i) |
 ## Number Theory
 |  |
 | ------- |
