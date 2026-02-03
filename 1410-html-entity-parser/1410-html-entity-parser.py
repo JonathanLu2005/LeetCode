@@ -1,5 +1,13 @@
 class Solution:
     def entityParser(self, text: str) -> str:
+        # can just use regex where we replace any component of the text with their alternative
+        entities = [('&quot;', '\"'),  ('&apos;', '\''), ('&gt;', '>'), ('&lt;', '<'), ('&frasl;', '/'),('&amp;', '&')]
+                        
+        for pat, repl in entities:
+            text = re.sub(pat, repl,text)
+                
+        return text
+        """
         # take HTML code, replace speical character by the thing it self
         # we have a stack, and we itearte through text
         # and we keep appending the text into the stack
@@ -57,4 +65,5 @@ class Solution:
                 result += stack
                 stack = ""
         return result[:-1]
+        """
 
