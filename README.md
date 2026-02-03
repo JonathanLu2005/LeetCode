@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/JonathanLu2005/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/JonathanLu2005/LeetCode/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/JonathanLu2005/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1410-html-entity-parser](https://github.com/JonathanLu2005/LeetCode/tree/master/1410-html-entity-parser) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/JonathanLu2005/LeetCode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/JonathanLu2005/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1500-count-largest-group](https://github.com/JonathanLu2005/LeetCode/tree/master/1500-count-largest-group) |
@@ -560,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/JonathanLu2005/LeetCode/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/JonathanLu2005/LeetCode/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/JonathanLu2005/LeetCode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+| [1410-html-entity-parser](https://github.com/JonathanLu2005/LeetCode/tree/master/1410-html-entity-parser) |
 | [1419-minimum-number-of-frogs-croaking](https://github.com/JonathanLu2005/LeetCode/tree/master/1419-minimum-number-of-frogs-croaking) |
 | [1502-construct-k-palindrome-strings](https://github.com/JonathanLu2005/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1542-consecutive-characters](https://github.com/JonathanLu2005/LeetCode/tree/master/1542-consecutive-characters) |
