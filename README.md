@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2353-design-a-food-rating-system](https://github.com/JonathanLu2005/LeetCode/tree/master/2353-design-a-food-rating-system) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/JonathanLu2005/LeetCode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2406-decode-the-message](https://github.com/JonathanLu2005/LeetCode/tree/master/2406-decode-the-message) |
+| [2424-longest-uploaded-prefix](https://github.com/JonathanLu2005/LeetCode/tree/master/2424-longest-uploaded-prefix) |
 | [2427-first-letter-to-appear-twice](https://github.com/JonathanLu2005/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 | [2433-best-poker-hand](https://github.com/JonathanLu2005/LeetCode/tree/master/2433-best-poker-hand) |
 | [2448-count-number-of-bad-pairs](https://github.com/JonathanLu2005/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/JonathanLu2005/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2353-design-a-food-rating-system](https://github.com/JonathanLu2005/LeetCode/tree/master/2353-design-a-food-rating-system) |
 | [2389-design-a-text-editor](https://github.com/JonathanLu2005/LeetCode/tree/master/2389-design-a-text-editor) |
+| [2424-longest-uploaded-prefix](https://github.com/JonathanLu2005/LeetCode/tree/master/2424-longest-uploaded-prefix) |
 | [3797-design-spreadsheet](https://github.com/JonathanLu2005/LeetCode/tree/master/3797-design-spreadsheet) |
 ## Array
 |  |
@@ -676,6 +678,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/JonathanLu2005/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/JonathanLu2005/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/JonathanLu2005/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2424-longest-uploaded-prefix](https://github.com/JonathanLu2005/LeetCode/tree/master/2424-longest-uploaded-prefix) |
 | [2437-maximum-number-of-groups-entering-a-competition](https://github.com/JonathanLu2005/LeetCode/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
 | [2665-minimum-time-to-repair-cars](https://github.com/JonathanLu2005/LeetCode/tree/master/2665-minimum-time-to-repair-cars) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/JonathanLu2005/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -1025,6 +1028,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1953-finding-mk-average](https://github.com/JonathanLu2005/LeetCode/tree/master/1953-finding-mk-average) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/JonathanLu2005/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2353-design-a-food-rating-system](https://github.com/JonathanLu2005/LeetCode/tree/master/2353-design-a-food-rating-system) |
+| [2424-longest-uploaded-prefix](https://github.com/JonathanLu2005/LeetCode/tree/master/2424-longest-uploaded-prefix) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/JonathanLu2005/LeetCode/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [2590-maximum-star-sum-of-a-graph](https://github.com/JonathanLu2005/LeetCode/tree/master/2590-maximum-star-sum-of-a-graph) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/JonathanLu2005/LeetCode/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
@@ -1302,6 +1306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1953-finding-mk-average](https://github.com/JonathanLu2005/LeetCode/tree/master/1953-finding-mk-average) |
 | [2353-design-a-food-rating-system](https://github.com/JonathanLu2005/LeetCode/tree/master/2353-design-a-food-rating-system) |
+| [2424-longest-uploaded-prefix](https://github.com/JonathanLu2005/LeetCode/tree/master/2424-longest-uploaded-prefix) |
 ## Hash Function
 |  |
 | ------- |
@@ -1311,6 +1316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1294-range-frequency-queries](https://github.com/JonathanLu2005/LeetCode/tree/master/1294-range-frequency-queries) |
+| [2424-longest-uploaded-prefix](https://github.com/JonathanLu2005/LeetCode/tree/master/2424-longest-uploaded-prefix) |
 ## Quickselect
 |  |
 | ------- |
@@ -1325,4 +1331,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/JonathanLu2005/LeetCode/tree/master/0200-number-of-islands) |
+| [2424-longest-uploaded-prefix](https://github.com/JonathanLu2005/LeetCode/tree/master/2424-longest-uploaded-prefix) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2424-longest-uploaded-prefix](https://github.com/JonathanLu2005/LeetCode/tree/master/2424-longest-uploaded-prefix) |
 <!---LeetCode Topics End-->
