@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/JonathanLu2005/LeetCode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/JonathanLu2005/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2834-relocate-marbles](https://github.com/JonathanLu2005/LeetCode/tree/master/2834-relocate-marbles) |
+| [2841-maximum-sum-of-almost-unique-subarray](https://github.com/JonathanLu2005/LeetCode/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/JonathanLu2005/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2947-count-beautiful-substrings-i](https://github.com/JonathanLu2005/LeetCode/tree/master/2947-count-beautiful-substrings-i) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/JonathanLu2005/LeetCode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -396,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/JonathanLu2005/LeetCode/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2834-relocate-marbles](https://github.com/JonathanLu2005/LeetCode/tree/master/2834-relocate-marbles) |
 | [2836-neither-minimum-nor-maximum](https://github.com/JonathanLu2005/LeetCode/tree/master/2836-neither-minimum-nor-maximum) |
+| [2841-maximum-sum-of-almost-unique-subarray](https://github.com/JonathanLu2005/LeetCode/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
 | [2845-find-the-value-of-the-partition](https://github.com/JonathanLu2005/LeetCode/tree/master/2845-find-the-value-of-the-partition) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/JonathanLu2005/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2873-prime-pairs-with-target-sum](https://github.com/JonathanLu2005/LeetCode/tree/master/2873-prime-pairs-with-target-sum) |
@@ -659,6 +661,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2090-k-radius-subarray-averages](https://github.com/JonathanLu2005/LeetCode/tree/master/2090-k-radius-subarray-averages) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/JonathanLu2005/LeetCode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/JonathanLu2005/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2841-maximum-sum-of-almost-unique-subarray](https://github.com/JonathanLu2005/LeetCode/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/JonathanLu2005/LeetCode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3502-count-substrings-with-k-frequency-characters-i](https://github.com/JonathanLu2005/LeetCode/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
 ## Binary Search
