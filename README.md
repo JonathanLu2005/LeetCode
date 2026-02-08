@@ -417,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/JonathanLu2005/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/JonathanLu2005/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/JonathanLu2005/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3462-maximum-sum-with-at-most-k-elements](https://github.com/JonathanLu2005/LeetCode/tree/master/3462-maximum-sum-with-at-most-k-elements) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/JonathanLu2005/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/JonathanLu2005/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3638-maximum-balanced-shipments](https://github.com/JonathanLu2005/LeetCode/tree/master/3638-maximum-balanced-shipments) |
@@ -812,6 +813,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3055-maximum-odd-binary-number](https://github.com/JonathanLu2005/LeetCode/tree/master/3055-maximum-odd-binary-number) |
 | [3195-separate-black-and-white-balls](https://github.com/JonathanLu2005/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/JonathanLu2005/LeetCode/tree/master/3351-maximize-happiness-of-selected-children) |
+| [3462-maximum-sum-with-at-most-k-elements](https://github.com/JonathanLu2005/LeetCode/tree/master/3462-maximum-sum-with-at-most-k-elements) |
 | [3638-maximum-balanced-shipments](https://github.com/JonathanLu2005/LeetCode/tree/master/3638-maximum-balanced-shipments) |
 | [3689-maximum-total-subarray-value-i](https://github.com/JonathanLu2005/LeetCode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/JonathanLu2005/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -866,6 +868,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3351-maximize-happiness-of-selected-children](https://github.com/JonathanLu2005/LeetCode/tree/master/3351-maximize-happiness-of-selected-children) |
 | [3430-count-days-without-meetings](https://github.com/JonathanLu2005/LeetCode/tree/master/3430-count-days-without-meetings) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/JonathanLu2005/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3462-maximum-sum-with-at-most-k-elements](https://github.com/JonathanLu2005/LeetCode/tree/master/3462-maximum-sum-with-at-most-k-elements) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/JonathanLu2005/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/JonathanLu2005/LeetCode/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3748-sort-matrix-by-diagonals](https://github.com/JonathanLu2005/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
@@ -925,6 +928,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/JonathanLu2005/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/JonathanLu2005/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/JonathanLu2005/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3462-maximum-sum-with-at-most-k-elements](https://github.com/JonathanLu2005/LeetCode/tree/master/3462-maximum-sum-with-at-most-k-elements) |
 | [3748-sort-matrix-by-diagonals](https://github.com/JonathanLu2005/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3797-design-spreadsheet](https://github.com/JonathanLu2005/LeetCode/tree/master/3797-design-spreadsheet) |
 ## Bit Manipulation
@@ -1041,6 +1045,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2590-maximum-star-sum-of-a-graph](https://github.com/JonathanLu2005/LeetCode/tree/master/2590-maximum-star-sum-of-a-graph) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/JonathanLu2005/LeetCode/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [2603-reward-top-k-students](https://github.com/JonathanLu2005/LeetCode/tree/master/2603-reward-top-k-students) |
+| [3462-maximum-sum-with-at-most-k-elements](https://github.com/JonathanLu2005/LeetCode/tree/master/3462-maximum-sum-with-at-most-k-elements) |
 ## Monotonic Queue
 |  |
 | ------- |
