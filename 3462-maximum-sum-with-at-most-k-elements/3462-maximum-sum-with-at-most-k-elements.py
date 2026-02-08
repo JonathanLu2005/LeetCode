@@ -1,5 +1,33 @@
 class Solution:
     def maxSum(self, grid: List[List[int]], limits: List[int], k: int) -> int:
+        # better way -> we sort the grid
+        # each row we get the limit amount of biggest values
+        # we put all that in somewhere
+        # sort that
+        # and get first k elements
+        # hence we submit to limit and k
+        a = []
+        
+        # For each row in the grid
+        for i in range(len(grid)):
+            # Sort the row in descending order
+            s = sorted(grid[i], reverse=True)
+            
+            # Select top elements based on limits
+            a.extend(s[:limits[i]])
+        
+        # Sort all selected elements in ascending order
+        a.sort()
+        
+        s = 0
+        
+        # Pick the largest k elements and sum them up
+        for i in range(k):
+            s += a.pop()
+        
+        return s
+
+        """
         # given grid
         # limits = n
         # k
@@ -40,4 +68,4 @@ class Solution:
                 total -= 1
                 k -= 1
         return result
-
+        """
