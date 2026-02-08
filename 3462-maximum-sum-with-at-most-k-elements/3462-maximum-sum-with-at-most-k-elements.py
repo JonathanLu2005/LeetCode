@@ -27,15 +27,17 @@ class Solution:
                 heap.append((value * -1, i))
         
         heapq.heapify(heap)
-        count = {}
 
         result = 0
-        while heap and k > 0:
+        total = sum(limits)
+        # what if all the limits are no longer good
+        while k > 0 and total > 0:
             value, row = heapq.heappop(heap)
 
-            if count.get(row,0) < limits[row]:
+            if limits[row] > 0:
                 result += (value * -1)
-                count[row] = count.get(row,0) + 1
+                limits[row] -= 1
+                total -= 1
                 k -= 1
         return result
 
