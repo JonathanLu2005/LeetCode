@@ -600,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/JonathanLu2005/LeetCode/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/JonathanLu2005/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2197-decode-the-slanted-ciphertext](https://github.com/JonathanLu2005/LeetCode/tree/master/2197-decode-the-slanted-ciphertext) |
+| [2207-maximize-number-of-subsequences-in-a-string](https://github.com/JonathanLu2005/LeetCode/tree/master/2207-maximize-number-of-subsequences-in-a-string) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/JonathanLu2005/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2226-rings-and-rods](https://github.com/JonathanLu2005/LeetCode/tree/master/2226-rings-and-rods) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/JonathanLu2005/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -796,6 +797,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1975-maximum-matrix-sum](https://github.com/JonathanLu2005/LeetCode/tree/master/1975-maximum-matrix-sum) |
 | [2049-eliminate-maximum-number-of-monsters](https://github.com/JonathanLu2005/LeetCode/tree/master/2049-eliminate-maximum-number-of-monsters) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/JonathanLu2005/LeetCode/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
+| [2207-maximize-number-of-subsequences-in-a-string](https://github.com/JonathanLu2005/LeetCode/tree/master/2207-maximize-number-of-subsequences-in-a-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/JonathanLu2005/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2245-destroying-asteroids](https://github.com/JonathanLu2005/LeetCode/tree/master/2245-destroying-asteroids) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/JonathanLu2005/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -1226,6 +1228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0878-shifting-letters](https://github.com/JonathanLu2005/LeetCode/tree/master/0878-shifting-letters) |
 | [1109-corporate-flight-bookings](https://github.com/JonathanLu2005/LeetCode/tree/master/1109-corporate-flight-bookings) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/JonathanLu2005/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [2207-maximize-number-of-subsequences-in-a-string](https://github.com/JonathanLu2005/LeetCode/tree/master/2207-maximize-number-of-subsequences-in-a-string) |
 | [2358-number-of-ways-to-split-array](https://github.com/JonathanLu2005/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2381-shifting-letters-ii](https://github.com/JonathanLu2005/LeetCode/tree/master/2381-shifting-letters-ii) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/JonathanLu2005/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
