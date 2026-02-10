@@ -395,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/JonathanLu2005/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/JonathanLu2005/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/JonathanLu2005/LeetCode/tree/master/2767-maximum-sum-with-exactly-k-elements) |
+| [2789-largest-element-in-an-array-after-merge-operations](https://github.com/JonathanLu2005/LeetCode/tree/master/2789-largest-element-in-an-array-after-merge-operations) |
 | [2834-relocate-marbles](https://github.com/JonathanLu2005/LeetCode/tree/master/2834-relocate-marbles) |
 | [2836-neither-minimum-nor-maximum](https://github.com/JonathanLu2005/LeetCode/tree/master/2836-neither-minimum-nor-maximum) |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/JonathanLu2005/LeetCode/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
@@ -810,6 +811,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2592-maximize-greatness-of-an-array](https://github.com/JonathanLu2005/LeetCode/tree/master/2592-maximize-greatness-of-an-array) |
 | [2604-minimum-operations-to-make-array-equal-ii](https://github.com/JonathanLu2005/LeetCode/tree/master/2604-minimum-operations-to-make-array-equal-ii) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/JonathanLu2005/LeetCode/tree/master/2767-maximum-sum-with-exactly-k-elements) |
+| [2789-largest-element-in-an-array-after-merge-operations](https://github.com/JonathanLu2005/LeetCode/tree/master/2789-largest-element-in-an-array-after-merge-operations) |
 | [2811-determine-the-minimum-sum-of-a-k-avoiding-array](https://github.com/JonathanLu2005/LeetCode/tree/master/2811-determine-the-minimum-sum-of-a-k-avoiding-array) |
 | [2850-construct-the-longest-new-string](https://github.com/JonathanLu2005/LeetCode/tree/master/2850-construct-the-longest-new-string) |
 | [3055-maximum-odd-binary-number](https://github.com/JonathanLu2005/LeetCode/tree/master/3055-maximum-odd-binary-number) |
