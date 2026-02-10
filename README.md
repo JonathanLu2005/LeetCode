@@ -492,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2050-count-good-numbers](https://github.com/JonathanLu2005/LeetCode/tree/master/2050-count-good-numbers) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/JonathanLu2005/LeetCode/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2155-find-missing-observations](https://github.com/JonathanLu2005/LeetCode/tree/master/2155-find-missing-observations) |
+| [2165-smallest-value-of-the-rearranged-number](https://github.com/JonathanLu2005/LeetCode/tree/master/2165-smallest-value-of-the-rearranged-number) |
 | [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/JonathanLu2005/LeetCode/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/JonathanLu2005/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/JonathanLu2005/LeetCode/tree/master/2298-count-integers-with-even-digit-sum) |
@@ -855,6 +856,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1970-sorting-the-sentence](https://github.com/JonathanLu2005/LeetCode/tree/master/1970-sorting-the-sentence) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/JonathanLu2005/LeetCode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2049-eliminate-maximum-number-of-monsters](https://github.com/JonathanLu2005/LeetCode/tree/master/2049-eliminate-maximum-number-of-monsters) |
+| [2165-smallest-value-of-the-rearranged-number](https://github.com/JonathanLu2005/LeetCode/tree/master/2165-smallest-value-of-the-rearranged-number) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/JonathanLu2005/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2245-destroying-asteroids](https://github.com/JonathanLu2005/LeetCode/tree/master/2245-destroying-asteroids) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/JonathanLu2005/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
