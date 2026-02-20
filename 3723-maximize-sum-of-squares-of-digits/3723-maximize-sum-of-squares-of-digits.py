@@ -29,6 +29,10 @@ class Solution:
                 result += str(sum)
                 sum -= sum
 
+                length = num - (i+1)
+                result += (length * "0")
+                break
+
         if sum > 0:
             return ""
         return result
