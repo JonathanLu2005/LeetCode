@@ -31,21 +31,26 @@ class Solution:
 
         result = ""
 
-        heap = []
+        letters = sorted(list(count.keys()))
+        
+        #heap = []
 
-        for key in count.keys():
-            heap.append((-ord(key), key))
+        #for key in count.keys():
+        #    heap.append((-ord(key), key))
 
-        heapq.heapify(heap)
+        #heapq.heapify(heap)
 
         temporary = None
-        while heap:
-            order, letter = heapq.heappop(heap)
+        while letters:
+            #order, letter = heapq.heappop(heap)
+            letter = letters.pop(-1)
 
             if temporary:
-                heapq.heappush(heap, temporary)
+                #heapq.heappush(heap, temporary)
+                letters.append(temporary)
 
-            if not temporary or (temporary and order < temporary[0]):
+            #if not temporary or (temporary and order < temporary[0]):
+            if not temporary or (letter > temporary):
                 add = min(count[letter],repeatLimit)
             else:
                 add = 1
@@ -54,7 +59,8 @@ class Solution:
             count[letter] -= add
 
             if count[letter] > 0:
-                temporary = (order, letter)
+                #temporary = (order, letter)
+                temporary = letter
             else:
                 temporary = None
 
