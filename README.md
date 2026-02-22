@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2190-count-common-words-with-one-occurrence](https://github.com/JonathanLu2005/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2226-rings-and-rods](https://github.com/JonathanLu2005/LeetCode/tree/master/2226-rings-and-rods) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/JonathanLu2005/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2336-smallest-number-in-infinite-set](https://github.com/JonathanLu2005/LeetCode/tree/master/2336-smallest-number-in-infinite-set) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/JonathanLu2005/LeetCode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2353-design-a-food-rating-system](https://github.com/JonathanLu2005/LeetCode/tree/master/2353-design-a-food-rating-system) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/JonathanLu2005/LeetCode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1905-design-authentication-manager](https://github.com/JonathanLu2005/LeetCode/tree/master/1905-design-authentication-manager) |
 | [1953-finding-mk-average](https://github.com/JonathanLu2005/LeetCode/tree/master/1953-finding-mk-average) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/JonathanLu2005/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2336-smallest-number-in-infinite-set](https://github.com/JonathanLu2005/LeetCode/tree/master/2336-smallest-number-in-infinite-set) |
 | [2353-design-a-food-rating-system](https://github.com/JonathanLu2005/LeetCode/tree/master/2353-design-a-food-rating-system) |
 | [2389-design-a-text-editor](https://github.com/JonathanLu2005/LeetCode/tree/master/2389-design-a-text-editor) |
 | [2424-longest-uploaded-prefix](https://github.com/JonathanLu2005/LeetCode/tree/master/2424-longest-uploaded-prefix) |
@@ -1056,6 +1058,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1953-finding-mk-average](https://github.com/JonathanLu2005/LeetCode/tree/master/1953-finding-mk-average) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/JonathanLu2005/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2182-construct-string-with-repeat-limit](https://github.com/JonathanLu2005/LeetCode/tree/master/2182-construct-string-with-repeat-limit) |
+| [2336-smallest-number-in-infinite-set](https://github.com/JonathanLu2005/LeetCode/tree/master/2336-smallest-number-in-infinite-set) |
 | [2353-design-a-food-rating-system](https://github.com/JonathanLu2005/LeetCode/tree/master/2353-design-a-food-rating-system) |
 | [2424-longest-uploaded-prefix](https://github.com/JonathanLu2005/LeetCode/tree/master/2424-longest-uploaded-prefix) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/JonathanLu2005/LeetCode/tree/master/2530-maximal-score-after-applying-k-operations) |
@@ -1339,6 +1342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1953-finding-mk-average](https://github.com/JonathanLu2005/LeetCode/tree/master/1953-finding-mk-average) |
+| [2336-smallest-number-in-infinite-set](https://github.com/JonathanLu2005/LeetCode/tree/master/2336-smallest-number-in-infinite-set) |
 | [2353-design-a-food-rating-system](https://github.com/JonathanLu2005/LeetCode/tree/master/2353-design-a-food-rating-system) |
 | [2424-longest-uploaded-prefix](https://github.com/JonathanLu2005/LeetCode/tree/master/2424-longest-uploaded-prefix) |
 ## Hash Function
