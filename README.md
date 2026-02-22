@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3760-maximum-substrings-with-distinct-start](https://github.com/JonathanLu2005/LeetCode/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3797-design-spreadsheet](https://github.com/JonathanLu2005/LeetCode/tree/master/3797-design-spreadsheet) |
 | [3819-count-covered-buildings](https://github.com/JonathanLu2005/LeetCode/tree/master/3819-count-covered-buildings) |
+| [3829-design-ride-sharing-system](https://github.com/JonathanLu2005/LeetCode/tree/master/3829-design-ride-sharing-system) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/JonathanLu2005/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Tree
 |  |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2389-design-a-text-editor](https://github.com/JonathanLu2005/LeetCode/tree/master/2389-design-a-text-editor) |
 | [2424-longest-uploaded-prefix](https://github.com/JonathanLu2005/LeetCode/tree/master/2424-longest-uploaded-prefix) |
 | [3797-design-spreadsheet](https://github.com/JonathanLu2005/LeetCode/tree/master/3797-design-spreadsheet) |
+| [3829-design-ride-sharing-system](https://github.com/JonathanLu2005/LeetCode/tree/master/3829-design-ride-sharing-system) |
 ## Array
 |  |
 | ------- |
@@ -1039,6 +1041,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/JonathanLu2005/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/JonathanLu2005/LeetCode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1953-finding-mk-average](https://github.com/JonathanLu2005/LeetCode/tree/master/1953-finding-mk-average) |
+| [3829-design-ride-sharing-system](https://github.com/JonathanLu2005/LeetCode/tree/master/3829-design-ride-sharing-system) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -1331,6 +1334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1097-stream-of-characters](https://github.com/JonathanLu2005/LeetCode/tree/master/1097-stream-of-characters) |
 | [1582-design-browser-history](https://github.com/JonathanLu2005/LeetCode/tree/master/1582-design-browser-history) |
 | [1953-finding-mk-average](https://github.com/JonathanLu2005/LeetCode/tree/master/1953-finding-mk-average) |
+| [3829-design-ride-sharing-system](https://github.com/JonathanLu2005/LeetCode/tree/master/3829-design-ride-sharing-system) |
 ## Ordered Set
 |  |
 | ------- |
