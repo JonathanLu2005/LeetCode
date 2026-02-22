@@ -18,7 +18,7 @@ class RideSharingSystem:
             while self.riders and self.riders[0] in self.cancel:
                 rider = self.riders.pop(0)
                 self.cancel.remove(rider)
-                self.riderCheck.remove(rider)
+                self.riderCheck.remove(riderId)
 
             if self.riders:
                 rider = self.riders.pop(0)
