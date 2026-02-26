@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1905-design-authentication-manager](https://github.com/JonathanLu2005/LeetCode/tree/master/1905-design-authentication-manager) |
 | [1953-finding-mk-average](https://github.com/JonathanLu2005/LeetCode/tree/master/1953-finding-mk-average) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/JonathanLu2005/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2241-design-an-atm-machine](https://github.com/JonathanLu2005/LeetCode/tree/master/2241-design-an-atm-machine) |
 | [2336-smallest-number-in-infinite-set](https://github.com/JonathanLu2005/LeetCode/tree/master/2336-smallest-number-in-infinite-set) |
 | [2353-design-a-food-rating-system](https://github.com/JonathanLu2005/LeetCode/tree/master/2353-design-a-food-rating-system) |
 | [2389-design-a-text-editor](https://github.com/JonathanLu2005/LeetCode/tree/master/2389-design-a-text-editor) |
@@ -365,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2232-adding-spaces-to-a-string](https://github.com/JonathanLu2005/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/JonathanLu2005/LeetCode/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/JonathanLu2005/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2241-design-an-atm-machine](https://github.com/JonathanLu2005/LeetCode/tree/master/2241-design-an-atm-machine) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/JonathanLu2005/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2245-destroying-asteroids](https://github.com/JonathanLu2005/LeetCode/tree/master/2245-destroying-asteroids) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/JonathanLu2005/LeetCode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
@@ -810,6 +812,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2182-construct-string-with-repeat-limit](https://github.com/JonathanLu2005/LeetCode/tree/master/2182-construct-string-with-repeat-limit) |
 | [2207-maximize-number-of-subsequences-in-a-string](https://github.com/JonathanLu2005/LeetCode/tree/master/2207-maximize-number-of-subsequences-in-a-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/JonathanLu2005/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2241-design-an-atm-machine](https://github.com/JonathanLu2005/LeetCode/tree/master/2241-design-an-atm-machine) |
 | [2245-destroying-asteroids](https://github.com/JonathanLu2005/LeetCode/tree/master/2245-destroying-asteroids) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/JonathanLu2005/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2437-maximum-number-of-groups-entering-a-competition](https://github.com/JonathanLu2005/LeetCode/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
