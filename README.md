@@ -530,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/JonathanLu2005/LeetCode/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3817-maximum-containers-on-a-ship](https://github.com/JonathanLu2005/LeetCode/tree/master/3817-maximum-containers-on-a-ship) |
 | [3830-find-closest-person](https://github.com/JonathanLu2005/LeetCode/tree/master/3830-find-closest-person) |
+| [3848-check-digitorial-permutation](https://github.com/JonathanLu2005/LeetCode/tree/master/3848-check-digitorial-permutation) |
 ## Recursion
 |  |
 | ------- |
@@ -1218,6 +1219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3659-partition-array-into-k-distinct-groups](https://github.com/JonathanLu2005/LeetCode/tree/master/3659-partition-array-into-k-distinct-groups) |
 | [3707-find-the-most-common-response](https://github.com/JonathanLu2005/LeetCode/tree/master/3707-find-the-most-common-response) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/JonathanLu2005/LeetCode/tree/master/3746-minimum-string-length-after-balanced-removals) |
+| [3848-check-digitorial-permutation](https://github.com/JonathanLu2005/LeetCode/tree/master/3848-check-digitorial-permutation) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/JonathanLu2005/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Trie
 |  |
