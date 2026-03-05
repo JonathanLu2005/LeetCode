@@ -8,6 +8,14 @@ class Solution:
         # 1 = [20,10]
         # 2 = [30]
         # then itearte through that again, and moment we get something that is alone, we use that
+        freq = Counter(nums)
+        count = Counter(freq.values())
+
+        for num in nums:
+            if count[freq[num]] == 1:
+                return num
+        return -1
+        """
         count = {}
         for x in nums:
             count[x] = count.get(x,0) + 1
@@ -26,3 +34,4 @@ class Solution:
             if len(value) == 1:
                 return value[0]
         return -1
+        """
