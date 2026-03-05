@@ -442,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/JonathanLu2005/LeetCode/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 | [3797-design-spreadsheet](https://github.com/JonathanLu2005/LeetCode/tree/master/3797-design-spreadsheet) |
 | [3819-count-covered-buildings](https://github.com/JonathanLu2005/LeetCode/tree/master/3819-count-covered-buildings) |
+| [3847-find-the-score-difference-in-a-game](https://github.com/JonathanLu2005/LeetCode/tree/master/3847-find-the-score-difference-in-a-game) |
 ## Linked List
 |  |
 | ------- |
@@ -1171,6 +1172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3732-calculate-score-after-performing-instructions](https://github.com/JonathanLu2005/LeetCode/tree/master/3732-calculate-score-after-performing-instructions) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/JonathanLu2005/LeetCode/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3811-reverse-degree-of-a-string](https://github.com/JonathanLu2005/LeetCode/tree/master/3811-reverse-degree-of-a-string) |
+| [3847-find-the-score-difference-in-a-game](https://github.com/JonathanLu2005/LeetCode/tree/master/3847-find-the-score-difference-in-a-game) |
 | [3860-resulting-string-after-adjacent-removals](https://github.com/JonathanLu2005/LeetCode/tree/master/3860-resulting-string-after-adjacent-removals) |
 | [3931-process-string-with-special-operations-i](https://github.com/JonathanLu2005/LeetCode/tree/master/3931-process-string-with-special-operations-i) |
 ## Counting
