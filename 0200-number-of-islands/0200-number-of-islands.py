@@ -1,9 +1,5 @@
 class Solution:
     def numIslands(self, grid: List[List[str]]) -> int:
-        # 1 is land, 0 is water
-        # return number of island
-        # island = surrounded by water and adjacent land
-        # so we do bfs to find island and end when we cant connect to any land
         row = len(grid)
         column = len(grid[0])
         
