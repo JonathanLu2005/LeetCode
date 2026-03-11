@@ -1,20 +1,21 @@
 class Solution:
     def subsets(self, nums: List[int]) -> List[List[int]]:
-        # keep track of index and choose to keep index or not
+        # backtracking, have 2 choices, we either add, or we dont
+        # keep track of index and decide if we want to add or not add
         result = []
         n = len(nums)
-        subset = []
 
-        def backtrack(index):
+        def backtrack(index,subset):
             if index == n:
-                result.append(subset[:])
+                result.append(subset.copy())
                 return
 
             subset.append(nums[index])
-            backtrack(index+1)
+            index += 1
+            backtrack(index, subset)
 
             subset.pop(-1)
-            backtrack(index+1)
-        backtrack(0)
-        return result
+            backtrack(index, subset)
 
+        backtrack(0,[])
+        return result
