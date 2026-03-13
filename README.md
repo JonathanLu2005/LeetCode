@@ -362,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2163-kth-distinct-string-in-an-array](https://github.com/JonathanLu2005/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/JonathanLu2005/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/JonathanLu2005/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2216-minimum-deletions-to-make-array-beautiful](https://github.com/JonathanLu2005/LeetCode/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/JonathanLu2005/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2227-sum-of-subarray-ranges](https://github.com/JonathanLu2005/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
 | [2228-watering-plants-ii](https://github.com/JonathanLu2005/LeetCode/tree/master/2228-watering-plants-ii) |
@@ -822,6 +823,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/JonathanLu2005/LeetCode/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2182-construct-string-with-repeat-limit](https://github.com/JonathanLu2005/LeetCode/tree/master/2182-construct-string-with-repeat-limit) |
 | [2207-maximize-number-of-subsequences-in-a-string](https://github.com/JonathanLu2005/LeetCode/tree/master/2207-maximize-number-of-subsequences-in-a-string) |
+| [2216-minimum-deletions-to-make-array-beautiful](https://github.com/JonathanLu2005/LeetCode/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/JonathanLu2005/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2241-design-an-atm-machine](https://github.com/JonathanLu2005/LeetCode/tree/master/2241-design-an-atm-machine) |
 | [2245-destroying-asteroids](https://github.com/JonathanLu2005/LeetCode/tree/master/2245-destroying-asteroids) |
@@ -1107,6 +1109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-design-browser-history](https://github.com/JonathanLu2005/LeetCode/tree/master/1582-design-browser-history) |
 | [1666-make-the-string-great](https://github.com/JonathanLu2005/LeetCode/tree/master/1666-make-the-string-great) |
 | [2128-reverse-prefix-of-word](https://github.com/JonathanLu2005/LeetCode/tree/master/2128-reverse-prefix-of-word) |
+| [2216-minimum-deletions-to-make-array-beautiful](https://github.com/JonathanLu2005/LeetCode/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 | [2227-sum-of-subarray-ranges](https://github.com/JonathanLu2005/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
 | [2389-design-a-text-editor](https://github.com/JonathanLu2005/LeetCode/tree/master/2389-design-a-text-editor) |
 | [3634-find-mirror-score-of-a-string](https://github.com/JonathanLu2005/LeetCode/tree/master/3634-find-mirror-score-of-a-string) |
