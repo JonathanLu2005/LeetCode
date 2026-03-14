@@ -591,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/JonathanLu2005/LeetCode/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/JonathanLu2005/LeetCode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1410-html-entity-parser](https://github.com/JonathanLu2005/LeetCode/tree/master/1410-html-entity-parser) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/JonathanLu2005/LeetCode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1419-minimum-number-of-frogs-croaking](https://github.com/JonathanLu2005/LeetCode/tree/master/1419-minimum-number-of-frogs-croaking) |
 | [1502-construct-k-palindrome-strings](https://github.com/JonathanLu2005/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1542-consecutive-characters](https://github.com/JonathanLu2005/LeetCode/tree/master/1542-consecutive-characters) |
@@ -920,6 +921,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/JonathanLu2005/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/JonathanLu2005/LeetCode/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/JonathanLu2005/LeetCode/tree/master/0113-path-sum-ii) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/JonathanLu2005/LeetCode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 ## Combinatorics
 |  |
 | ------- |
