@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/JonathanLu2005/LeetCode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/JonathanLu2005/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/JonathanLu2005/LeetCode/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/JonathanLu2005/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/JonathanLu2005/LeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/JonathanLu2005/LeetCode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/JonathanLu2005/LeetCode/tree/master/0057-insert-interval) |
@@ -485,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/JonathanLu2005/LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/JonathanLu2005/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/JonathanLu2005/LeetCode/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/JonathanLu2005/LeetCode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/JonathanLu2005/LeetCode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/JonathanLu2005/LeetCode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/JonathanLu2005/LeetCode/tree/master/0070-climbing-stairs) |
@@ -949,6 +951,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/JonathanLu2005/LeetCode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/JonathanLu2005/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/JonathanLu2005/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/JonathanLu2005/LeetCode/tree/master/0200-number-of-islands) |
