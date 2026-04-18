@@ -5,50 +5,31 @@
 #         self.next = next
 class Solution:
     def addTwoNumbers(self, l1: Optional[ListNode], l2: Optional[ListNode]) -> Optional[ListNode]:
-        s1 = ""
-        s2 = ""
+        # put them into string, then convert intointeger, then add, then convret into string to iterate, then convret into integer
+        # and create thingy
+        l1value = ""
+        l2value = ""
 
-        while l1 is not None:
-            s1 += str(l1.val)
-            l1 = l1.next 
-        while l2 is not None: 
-            s2 += str(l2.val)
-            l2 = l2.next
+        node = l1
+        while node:
+            l1value += str(node.val)
+            node = node.next
 
-        add = (str(int(s1[::-1]) + int(s2[::-1])))[::-1]
+        node = l2
+        while node:
+            l2value += str(node.val)
+            node = node.next
 
-        newNode = ListNode()
-        dummy = newNode
+        value = str(int(l1value[::-1]) + int(l2value[::-1]))[::-1]
 
-        for c in add:
-            c = int(c)
-            newNode.next = ListNode(c, None)
-            newNode = newNode.next
+        head = ListNode()
+        node = head
 
-        return dummy.next
+        for x in value:
+            newNode = ListNode()
+            newNode.val = int(x)
+            node.next = newNode
+            node = newNode
 
-        """
-        go through both and keep adding
+        return head.next
 
-        dummy = ListNode() 
-        cur = dummy
-        
-        carry = 0
-        while l1 or l2 or carry:
-            # so even if we lose 1, can keep going
-            v1 = l1.val if l1 else 0 
-            v2 = l2.val if l2 else 0
-            
-            val = v1 + v2 + carry
-            carry = val // 10
-            val = val % 10
-
-            cur.next = ListNode(val)
-
-            cur = cur.next
-            l1 = l1.next if l1 else None 
-            l2 = l2.next if l2 else None
-
-        # look out for carry 
-        return dummy.next
-        """
