@@ -1,25 +1,31 @@
 class Solution:
     def lengthOfLongestSubstring(self, s: str) -> int:
-        # find longest substring without any duplicate characters
-        track = set()
-        start = 0
+        # longest substring
+        # so essentially, every character we pass through
+        # we want to track it, and the moment something repeats, we stop, we store the current length
+        # and we want to remove every character till we remove the duplicate, so we can start again
+        # abcd b = 4
+        # cdb
+        # as we traverse, we could store this in a set, and we can store this in an array
+        # and the moment we keep adding, the momenth the lengths are different, mean theres a duplicate
+        # so we stop, we store the length, then we remove the duplicate and continue on
+        unique = set()
+        letters = []
         result = 0
-        current = 0
-        n = len(s)
 
-        for i in range(0,n):
-            letter = s[i]
+        for x in s:
+            letters.append(x)
+            unique.add(x)
 
-            if letter in track:
-                result = max(result,current)
+            if len(letters) != len(unique):
+                result = max(result,len(unique))
 
-                while letter in track:
-                    left = s[start]
-                    track.remove(left)
-                    current -= 1
-                    start += 1
-                
-            current += 1
-            track.add(letter)
-        result = max(result,current)
+                letter = letters.pop(0)
+                unique.remove(letter)
+                while letter != x:
+                    letter = letters.pop(0)
+                    unique.remove(letter)                    
+                unique.add(x)
+
+        result = max(result,len(unique))
         return result
