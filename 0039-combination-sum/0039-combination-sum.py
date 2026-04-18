@@ -1,22 +1,28 @@
 class Solution:
     def combinationSum(self, candidates: List[int], target: int) -> List[List[int]]:
-        subset = []
+        # can do backtracking, where we go through every node
+        # we decide if we keep it or not, and we keep adding
+        # moment we reach end of candidates, ok we stop and check if we have soemthing
+        # otherwise moment we reach target we have something
+        # otherwise moment we exceed target its not worth it
         result = []
 
-        candidates = list(set(candidates))
-        n = len(candidates)
-
-        def backtrack(index):
-            if sum(subset) >= target or index == n:
-                if sum(subset) == target:
-                    result.append(subset[:])
+        def backtrack(index,subset,total):
+            if index == len(candidates) or total >= target:
+                if total == target:
+                    result.append(subset.copy())
                 return
 
+            # use
             subset.append(candidates[index])
-            backtrack(index)
+            total += candidates[index]
+            backtrack(index,subset,total)
 
+            # not use
             subset.pop(-1)
+            total -= candidates[index]
             index += 1
-            backtrack(index)
-        backtrack(0)
+            backtrack(index,subset,total)
+
+        backtrack(0,[],0)
         return result
