@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3839-number-of-prefix-connected-groups](https://github.com/JonathanLu2005/LeetCode/tree/master/3839-number-of-prefix-connected-groups) |
 | [3843-first-element-with-unique-frequency](https://github.com/JonathanLu2005/LeetCode/tree/master/3843-first-element-with-unique-frequency) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/JonathanLu2005/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [3889-mirror-frequency-distance](https://github.com/JonathanLu2005/LeetCode/tree/master/3889-mirror-frequency-distance) |
 ## Tree
 |  |
 | ------- |
@@ -693,6 +694,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3839-number-of-prefix-connected-groups](https://github.com/JonathanLu2005/LeetCode/tree/master/3839-number-of-prefix-connected-groups) |
 | [3860-resulting-string-after-adjacent-removals](https://github.com/JonathanLu2005/LeetCode/tree/master/3860-resulting-string-after-adjacent-removals) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/JonathanLu2005/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [3889-mirror-frequency-distance](https://github.com/JonathanLu2005/LeetCode/tree/master/3889-mirror-frequency-distance) |
 | [3931-process-string-with-special-operations-i](https://github.com/JonathanLu2005/LeetCode/tree/master/3931-process-string-with-special-operations-i) |
 ## Sliding Window
 |  |
@@ -1282,6 +1284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3843-first-element-with-unique-frequency](https://github.com/JonathanLu2005/LeetCode/tree/master/3843-first-element-with-unique-frequency) |
 | [3848-check-digitorial-permutation](https://github.com/JonathanLu2005/LeetCode/tree/master/3848-check-digitorial-permutation) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/JonathanLu2005/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [3889-mirror-frequency-distance](https://github.com/JonathanLu2005/LeetCode/tree/master/3889-mirror-frequency-distance) |
 ## Trie
 |  |
 | ------- |
