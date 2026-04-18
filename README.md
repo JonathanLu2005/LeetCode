@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/JonathanLu2005/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/JonathanLu2005/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/JonathanLu2005/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/JonathanLu2005/LeetCode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/JonathanLu2005/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/JonathanLu2005/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/JonathanLu2005/LeetCode/tree/master/0133-clone-graph) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/JonathanLu2005/LeetCode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/JonathanLu2005/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/JonathanLu2005/LeetCode/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/JonathanLu2005/LeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/JonathanLu2005/LeetCode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/JonathanLu2005/LeetCode/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/JonathanLu2005/LeetCode/tree/master/0066-plus-one) |
@@ -561,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/JonathanLu2005/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/JonathanLu2005/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/JonathanLu2005/LeetCode/tree/master/0022-generate-parentheses) |
+| [0049-group-anagrams](https://github.com/JonathanLu2005/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/JonathanLu2005/LeetCode/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/JonathanLu2005/LeetCode/tree/master/0071-simplify-path) |
 | [0091-decode-ways](https://github.com/JonathanLu2005/LeetCode/tree/master/0091-decode-ways) |
@@ -860,6 +863,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/JonathanLu2005/LeetCode/tree/master/0015-3sum) |
 | [0047-permutations-ii](https://github.com/JonathanLu2005/LeetCode/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/JonathanLu2005/LeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/JonathanLu2005/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/JonathanLu2005/LeetCode/tree/master/0075-sort-colors) |
 | [0147-insertion-sort-list](https://github.com/JonathanLu2005/LeetCode/tree/master/0147-insertion-sort-list) |
