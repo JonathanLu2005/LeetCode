@@ -5,32 +5,36 @@
 #         self.next = next
 class Solution:
     def rotateRight(self, head: Optional[ListNode], k: int) -> Optional[ListNode]:
-        # will want to mod it by length 
-        # get to last node
-        # then do entire length - thingy
-        # then keep going through first one, add it to end
-        # and keep going until done
-        if not head or not head.next:
-            return head
+        # ahh so given the whoel thing, we want to move it right
+        # first we want to mod k by the length of list
+        # as that'll be the ultimate changes
+        # and then we can just swap every gu from right to start
+        if not head:
+            return None
 
-        length = 1
-        lastPtr = head
+        values = []
+        n = 0
 
-        while lastPtr.next:
-            length += 1
-            lastPtr = lastPtr.next
+        node = head
+        while node:
+            values.append(node.val)
+            node = node.next
+            n += 1
 
-        # get last pointer
-        k = k % length
-        k = length - k
+        k = k % n
 
-        frontier = head
-        while k != 0:
-            prevFrontier = frontier
-            frontier = frontier.next
-
-            lastPtr.next = prevFrontier
-            lastPtr = lastPtr.next
-            lastPtr.next = None
+        while k > 0:
+            v = values.pop(-1)
+            values.insert(0,v)
             k -= 1
-        return frontier
+
+        dummyNode = ListNode()
+        node = dummyNode
+        for x in values:
+            newNode = ListNode(x)
+            node.next = newNode
+            node = newNode
+        return dummyNode.next
+
+
+        
