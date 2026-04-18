@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3843-first-element-with-unique-frequency](https://github.com/JonathanLu2005/LeetCode/tree/master/3843-first-element-with-unique-frequency) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/JonathanLu2005/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3889-mirror-frequency-distance](https://github.com/JonathanLu2005/LeetCode/tree/master/3889-mirror-frequency-distance) |
+| [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/JonathanLu2005/LeetCode/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
 ## Tree
 |  |
 | ------- |
@@ -939,6 +940,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/JonathanLu2005/LeetCode/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/JonathanLu2005/LeetCode/tree/master/3812-smallest-palindromic-rearrangement-i) |
 | [3819-count-covered-buildings](https://github.com/JonathanLu2005/LeetCode/tree/master/3819-count-covered-buildings) |
+| [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/JonathanLu2005/LeetCode/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
 ## Backtracking
 |  |
 | ------- |
@@ -1285,6 +1287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3848-check-digitorial-permutation](https://github.com/JonathanLu2005/LeetCode/tree/master/3848-check-digitorial-permutation) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/JonathanLu2005/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3889-mirror-frequency-distance](https://github.com/JonathanLu2005/LeetCode/tree/master/3889-mirror-frequency-distance) |
+| [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/JonathanLu2005/LeetCode/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
 ## Trie
 |  |
 | ------- |
@@ -1309,6 +1312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2541-sum-of-number-and-its-reverse](https://github.com/JonathanLu2005/LeetCode/tree/master/2541-sum-of-number-and-its-reverse) |
 | [2873-prime-pairs-with-target-sum](https://github.com/JonathanLu2005/LeetCode/tree/master/2873-prime-pairs-with-target-sum) |
 | [2947-count-beautiful-substrings-i](https://github.com/JonathanLu2005/LeetCode/tree/master/2947-count-beautiful-substrings-i) |
+| [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/JonathanLu2005/LeetCode/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
 ## Prefix Sum
 |  |
 | ------- |
