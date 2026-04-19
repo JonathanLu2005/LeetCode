@@ -1,37 +1,29 @@
 class Solution:
     def combine(self, n: int, k: int) -> List[List[int]]:
-        res = []
+        # return all possible combo of k num
+        # from range 1 to n
+        # ah 
+        # i mean at value 1, we should keep choosing if we want to keep vlaue or not
+        # basically moving forwards, every value, decide if want to keep or not
+        # and need to be k length, then we can find the potential combo
+        result = []
 
-        def backtrack(start, comb):
-            # base case then return back, 
-            if len(comb) == k:
-                res.append(comb.copy())
-                return 
+        def backtrack(i,subset,length):
+            if i == (n+1):
+                if length == k:
+                    result.append(subset.copy())
+                return
 
-            # as we return, comb.pop() gest to our OG pos
-            # call backtrack with i+1 so we can try get next num
-            for i in range(start, n+1):
-                comb.append(i)
-                backtrack(i+1,comb)
-                comb.pop()
+            # keep
+            length += 1
+            subset.append(i)
+            i += 1
+            backtrack(i,subset,length)
 
-        # calling backtrack
-        backtrack(1, [])
-        return res
+            # no keep
+            length -= 1
+            subset.pop(-1)
+            backtrack(i,subset,length)
 
-        """
-        res = []
-        subset = []
-
-        def dfs(i, subset):
-            if len(subset) == k:
-                res.append(subset.copy())
-                return res 
-
-            for x in range(i+1, n+1):
-                subset.append(x)
-                dfs(x, subset)
-                subset.pop()
-
-        dfs(0, [])
-        return res"""
+        backtrack(1,[],0)
+        return result
