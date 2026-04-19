@@ -1,15 +1,18 @@
 class Solution:
     def findPeakElement(self, nums: List[int]) -> int:
-        if len(nums) == 1:
+        # elemnt greather than neighbour
+        # ah ok, so we j need find value that is bigger than neighbour
+        # and for any of the on end, its just whatever neighobur need be less
+        if not nums or len(nums) == 1:
             return 0
-        elif len(nums) == 2:
-            if nums[0] > nums[1]:
-                return 0
-            return 1
 
-        for i in range(1, len(nums) - 1):
+        if nums[0] > nums[1]:
+            return 0
+        if nums[-1] > nums[-2]:
+            return len(nums) - 1
+
+        for i in range(1,len(nums) - 1):
             if nums[i] > nums[i-1] and nums[i] > nums[i+1]:
                 return i
-        
-        maxNumber = max(nums)
-        return nums.index(maxNumber)
+
+        return 0
