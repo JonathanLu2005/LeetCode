@@ -6,26 +6,28 @@
 #         self.right = right
 class Solution:
     def pathSum(self, root: Optional[TreeNode], targetSum: int) -> List[List[int]]:
-        res = []
+        # root to leaf path wher sum = target sum
+        # dfs, as we traverse, we keep incrementing, and moment we hit the elaf node, we check if equal target sum
+        # if so we increment result
+        # otherwise we go back and we need to decrement our value as we go back
+        result = []
 
-        def DFS(subset, root):
-            subset.append(root.val)
+        def dfs(node,value,path):
+            nonlocal result
+            if not node:
+                return
 
-            if not root.left and not root.right:
-                print(subset)
-                if sum(subset) == targetSum:
-                    res.append(subset.copy())
+            value += node.val
+            path.append(node.val)
 
-            if root.left:
-                DFS(subset, root.left)
-            if root.right:
-                DFS(subset, root.right)
+            if not node.left and not node.right:
+                if value == targetSum:
+                    result.append(path.copy())
+            else:
+                dfs(node.left,value,path)
+                dfs(node.right,value,path)
 
-            subset.pop(len(subset)-1)
-            return
+            path.pop(-1)
 
-        if root:
-            DFS([], root)
-
-        return res
-            
+        dfs(root,0,[])
+        return result
